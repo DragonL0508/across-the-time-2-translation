@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Korlaph : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"I WILL DESTROY YOU!!","color":"dark_red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"I WILL DESTROY YOU!!","color":"dark_red"}]}

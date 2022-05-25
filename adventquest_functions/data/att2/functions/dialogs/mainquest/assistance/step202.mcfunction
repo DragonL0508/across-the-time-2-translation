@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I must return to speak to Skaolon in front of the door of the palace of Ouranos. With this Néleptron, he will perhaps grant me permission to obtain an audience with the king.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I must return to speak to Skaolon in front of the door of the palace of Ouranos. With this Néleptron, he will perhaps grant me permission to obtain an audience with the king.","color":"aqua","bold":false}]}

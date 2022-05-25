@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Vulk : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Vulk : ","color":"green","extra":[{"text":"Perfect, I can't wait to see it!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Vulk : ","color":"green","extra":[{"text":"Perfect, I can't wait to see it!","color":"dark_aqua"}]}

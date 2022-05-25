@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Ragnar Lorth : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"Did you succeed? Well, I no longer believed in it. Hoping that these brigands will never return to settle here. You deserve a reward. Go talk to my housekeeper just below, she will give you a reduced price on one of our properties.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"Did you succeed? Well, I no longer believed in it. Hoping that these brigands will never return to settle here. You deserve a reward. Go talk to my housekeeper just below, she will give you a reduced price on one of our properties.","color":"dark_aqua"}]}

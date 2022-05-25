@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Yes! Vengeance is what drives J'zargo! Because the world always hated J'zargo!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Yes! Vengeance is what drives J'zargo! Because the world always hated J'zargo!","color":"dark_aqua"}]}

@@ -15,5 +15,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Ready for your come back travel?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Ready for your come back travel?","color":"dark_aqua"}]}
+
 
 function att2:dialogs/mainquest/act_5/pnj_etotsira/player_answer_proposal_2

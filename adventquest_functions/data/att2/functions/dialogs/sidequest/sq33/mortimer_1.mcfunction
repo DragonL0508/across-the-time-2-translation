@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Mortimer : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"It's an interesting sample! As agreed here are your chronotons.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"It's an interesting sample! As agreed here are your chronotons.","color":"dark_aqua"}]}

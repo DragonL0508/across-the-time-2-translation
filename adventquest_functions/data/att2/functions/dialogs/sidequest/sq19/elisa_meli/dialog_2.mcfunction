@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Elisa Meli : ","color":"green","e
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elisa Meli : ","color":"green","extra":[{"text":"Delicious apples, for cheap!","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elisa Meli : ","color":"green","extra":[{"text":"Delicious apples, for cheap!","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq19/elisa_meli/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq19/elisa_meli/player_proposal_1/choice_2

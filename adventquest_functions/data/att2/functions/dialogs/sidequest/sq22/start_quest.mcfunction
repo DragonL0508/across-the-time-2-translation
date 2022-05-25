@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[Un entrepôt bien mal placé]","color"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[A badly placed warehouse]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[A badly placed warehouse]","color":"gold"}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Jaris : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"My love, I did it for you! Don't worry, I'll put them back in their place soon. You see, my intuition was right, I can reach you when I want without awakening anyone thanks to this passage...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"My love, I did it for you! Don't worry, I'll put them back in their place soon. You see, my intuition was right, I can reach you when I want without awakening anyone thanks to this passage...","color":"dark_aqua"}]}

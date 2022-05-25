@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Trias : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"Allow me to insist, this bow is very close to my heart. I regret losing it...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"Allow me to insist, this bow is very close to my heart. I regret losing it...","color":"dark_aqua"}]}

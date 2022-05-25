@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Emerald : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Dry your tears, it's not your fault.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Dry your tears, it's not your fault.","color":"dark_aqua"}]}

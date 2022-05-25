@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[Une missions en or]","color":"gold"}
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[A golden opportunity]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[A golden opportunity]","color":"gold"}

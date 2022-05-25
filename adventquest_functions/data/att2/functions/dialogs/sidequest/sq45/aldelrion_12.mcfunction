@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Aldelrion : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"A year, what is it? Anyway, that is not important. You should talk about it to Namrïn, he was so despaired after the vanishing of his master, he will be rejoiced to hear his soul emerged through the Ether.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"A year, what is it? Anyway, that is not important. You should talk about it to Namrïn, he was so despaired after the vanishing of his master, he will be rejoiced to hear his soul emerged through the Ether.","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Skaolon : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Skaolon : ","color":"green","extra":[{"text":"A traveler? No, you really look like a warrior ! In this place stands the door leading to the palace of our magnificient sovereign.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Skaolon : ","color":"green","extra":[{"text":"A traveler? No, you really look like a warrior ! In this place stands the door leading to the palace of our magnificient sovereign.","color":"dark_aqua"}]}

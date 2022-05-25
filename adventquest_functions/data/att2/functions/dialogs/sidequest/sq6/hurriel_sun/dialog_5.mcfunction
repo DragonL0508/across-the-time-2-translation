@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Hurriel Sun : ","color":"green","
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hurriel Sun : ","color":"green","extra":[{"text":"Hello, thank you again for the help you have given me.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hurriel Sun : ","color":"green","extra":[{"text":"Hello, thank you again for the help you have given me.","color":"dark_aqua"}]}

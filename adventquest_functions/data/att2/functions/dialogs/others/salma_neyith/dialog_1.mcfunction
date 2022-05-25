@@ -13,5 +13,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Salma Neyith : ","color":"green",
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Salma Neyith : ","color":"green","extra":[{"text":"Welcome to my inn. If you would like to regain your strengh, you can rent a room for the day, at a really good price for the quality.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Salma Neyith : ","color":"green","extra":[{"text":"Welcome to my inn. If you would like to regain your strengh, you can rent a room for the day, at a really good price for the quality.","color":"dark_aqua"}]}
+
 
 scoreboard players set salma_neyith_PNJ DIALOG 2

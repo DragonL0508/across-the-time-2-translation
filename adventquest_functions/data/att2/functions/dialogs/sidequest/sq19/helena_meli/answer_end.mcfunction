@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Hélèna Meli : ","color":"green"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Huh, that was a blow from Elisa? She is mad at me. But I'm nice to her. For her husband, huh? He's the one who chose me, I didn't steal him... Well, she's my sister after all, I have to come to terms with her... I will give you a horse when they're better. Thanks for your help.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Huh, that was a blow from Elisa? She is mad at me. But I'm nice to her. For her husband, huh? He's the one who chose me, I didn't steal him... Well, she's my sister after all, I have to come to terms with her... I will give you a horse when they're better. Thanks for your help.","color":"dark_aqua"}]}

@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Triss : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"Something quite unique, a treasure only to a Dahäl master, you won't regret it.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"Something quite unique, a treasure only to a Dahäl master, you won't regret it.","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"Quelques minutes plus tard...","color":
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"A few minutes later...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"A few minutes later...","color":"gray","italic":true}

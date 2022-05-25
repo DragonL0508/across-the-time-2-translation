@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Triss : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"Good luck. I hope your cynicism will bring you happiness.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"Good luck. I hope your cynicism will bring you happiness.","color":"dark_aqua"}]}

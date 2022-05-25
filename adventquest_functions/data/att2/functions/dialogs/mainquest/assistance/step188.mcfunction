@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Alréan doesn't know anything about time gem, but she advised me to speak with the wind artist. He should be able to find a way for me to fly across the dimension.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Alréan doesn't know anything about time gem, but she advised me to speak with the wind artist. He should be able to find a way for me to fly across the dimension.","color":"aqua","bold":false}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I understand now. The one who sent me here, the one who instilled in me the fear of an early death, the one who presented herself as S.... She's Sérile, and she manipulated me to find you and kill you.","color":"aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I understand now. The one who sent me here, the one who instilled in me the fear of an early death, the one who presented herself as S.... She's Sérile, and she manipulated me to find you and kill you.","color":"aqua"}]}

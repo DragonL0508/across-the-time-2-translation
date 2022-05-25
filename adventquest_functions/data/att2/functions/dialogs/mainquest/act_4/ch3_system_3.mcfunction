@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"L'ascenseur est remonté jusqu'au somme
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"The elevator went back up to the top...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"The elevator went back up to the top...","color":"gray","italic":true}

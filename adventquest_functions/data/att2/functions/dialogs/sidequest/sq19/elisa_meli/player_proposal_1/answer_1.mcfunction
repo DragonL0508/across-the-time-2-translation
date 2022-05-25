@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Elisa Meli : ","color":"green","e
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elisa Meli : ","color":"green","extra":[{"text":"What insight... That thief is my sister, the bitch. You are here for her, huh, to tell me that she also steals my apples?","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elisa Meli : ","color":"green","extra":[{"text":"What insight... That thief is my sister, the bitch. You are here for her, huh, to tell me that she also steals my apples?","color":"dark_aqua"}]}

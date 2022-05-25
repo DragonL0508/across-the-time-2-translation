@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"He thinks highly of himself, but once more this proves his ignorance; the world is filled with inconceivable powers, and one of them will soon be in J'zargo's possession!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"He thinks highly of himself, but once more this proves his ignorance; the world is filled with inconceivable powers, and one of them will soon be in J'zargo's possession!","color":"dark_aqua"}]}

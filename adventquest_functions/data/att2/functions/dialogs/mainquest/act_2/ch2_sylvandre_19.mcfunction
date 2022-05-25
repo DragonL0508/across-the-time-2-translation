@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Sylvandre : ","color":"green","e
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Sylvandre : ","color":"green","extra":[{"text":"Here's my father's house! He was a great adventurer in the past, but now he's a little rusty haha!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sylvandre : ","color":"green","extra":[{"text":"Here's my father's house! He was a great adventurer in the past, but now he's a little rusty haha!","color":"dark_aqua"}]}

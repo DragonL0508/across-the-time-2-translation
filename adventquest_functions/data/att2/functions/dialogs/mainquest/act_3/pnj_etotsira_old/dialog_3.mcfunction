@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"The Sylberländ region is full of history, many secrets are still hidden there...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"The Sylberländ region is full of history, many secrets are still hidden there...","color":"dark_aqua"}]}

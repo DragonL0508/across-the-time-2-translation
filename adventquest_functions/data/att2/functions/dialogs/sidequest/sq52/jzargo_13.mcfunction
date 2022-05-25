@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Now, the apprentice must leave J'zargo to his studies. It can go play in the ruins, since this travel must have worn its ability to concentrate and to stop stinking.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Now, the apprentice must leave J'zargo to his studies. It can go play in the ruins, since this travel must have worn its ability to concentrate and to stop stinking.","color":"dark_aqua"}]}

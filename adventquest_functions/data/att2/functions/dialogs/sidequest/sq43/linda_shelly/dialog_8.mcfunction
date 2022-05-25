@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Linda Shelly : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"I'll try to deal with it, but it is difficult to live without him...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"I'll try to deal with it, but it is difficult to live without him...","color":"dark_aqua"}]}

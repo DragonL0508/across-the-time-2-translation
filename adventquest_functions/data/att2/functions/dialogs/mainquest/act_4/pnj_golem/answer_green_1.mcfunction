@@ -20,6 +20,10 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Golem : ","color":"green","extra"
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"And what is he searching for ?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"And what is he searching for ?","color":"dark_aqua"}]}
+
 tellraw @a[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"A time gem.","color":"aqua"}]}
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"There is a deal. Limbs in decay, no longer obey his will. Whitout strength, he stays and nothing moves. Little flesh being, fix him and he will create a passage to Ulgok'keström, where slumbers the gem of eras.","color":"dark_aqua"}]}

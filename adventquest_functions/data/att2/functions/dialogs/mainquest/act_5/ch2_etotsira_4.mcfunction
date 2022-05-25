@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Only Gaya knows what the future holds for you, but clearly, for me, your history does not end up here... Come back to the era of your epic, only there, you'll be able to prepare yourself to the next tests... As hard as they will be...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Only Gaya knows what the future holds for you, but clearly, for me, your history does not end up here... Come back to the era of your epic, only there, you'll be able to prepare yourself to the next tests... As hard as they will be...","color":"dark_aqua"}]}

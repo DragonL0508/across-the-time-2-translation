@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Pillard : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Pillard : ","color":"green","extra":[{"text":"Hey you there! Did Carlin send you? Perfect, we were waiting for you for the looting.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Pillard : ","color":"green","extra":[{"text":"Hey you there! Did Carlin send you? Perfect, we were waiting for you for the looting.","color":"dark_aqua"}]}

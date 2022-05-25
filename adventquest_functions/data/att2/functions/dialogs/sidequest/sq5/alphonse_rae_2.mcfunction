@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Alphonse Rae : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Alphonse Rae : ","color":"green","extra":[{"text":"Of course, I wanted to make sure that the problem was well resolved! Now go kill these cattle before they escape! I would offer you a reward if you have them all.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alphonse Rae : ","color":"green","extra":[{"text":"Of course, I wanted to make sure that the problem was well resolved! Now go kill these cattle before they escape! I would offer you a reward if you have them all.","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Sérile : ","color":"yellow","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Sérile : ","color":"yellow","extra":[{"text":"AND YOU WANT THIS NAMRÏN, SON OF A MISERABLE BEGGAR, TO TAKE MY PLACE?!","color":"dark_aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sérile : ","color":"yellow","extra":[{"text":"AND YOU WANT THIS NAMRÏN, SON OF A MISERABLE BEGGAR, TO TAKE MY PLACE?!","color":"dark_aqua","italic":true}]}

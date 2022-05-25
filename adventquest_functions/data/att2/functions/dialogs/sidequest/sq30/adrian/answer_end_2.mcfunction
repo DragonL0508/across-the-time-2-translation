@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Adrian : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Adrian : ","color":"green","extra":[{"text":"What do you mean, you let the thief escape? Well, you still brought me the whole plans... I will offer you a special reward. Go see the Intendant of our town, his house is next to the blacksmith in front of the paddle wheel.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Adrian : ","color":"green","extra":[{"text":"What do you mean, you let the thief escape? Well, you still brought me the whole plans... I will offer you a special reward. Go see the Intendant of our town, his house is next to the blacksmith in front of the paddle wheel.","color":"dark_aqua"}]}

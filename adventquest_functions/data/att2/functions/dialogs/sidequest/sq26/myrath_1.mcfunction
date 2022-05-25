@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Myrath : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Myrath : ","color":"green","extra":[{"text":"I got you, you dirty thief! You will not escape me anymore! What? But you are not... Too bad! You will suffer my wrath!","color":"dark_red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Myrath : ","color":"green","extra":[{"text":"I got you, you dirty thief! You will not escape me anymore! What? But you are not... Too bad! You will suffer my wrath!","color":"dark_red"}]}

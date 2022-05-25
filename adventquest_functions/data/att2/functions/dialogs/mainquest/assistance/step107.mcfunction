@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"A hatch allowing an air flow to rush towards the bottom of the cave is locked. Such security for a single conduit, it must hide something important, I must find a way to open it!","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"A hatch allowing an air flow to rush towards the bottom of the cave is locked. Such security for a single conduit, it must hide something important, I must find a way to open it!","color":"aqua","bold":false}]}

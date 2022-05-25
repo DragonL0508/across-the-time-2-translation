@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[Une vengeance bien méritée]","color"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[A well-deserved revenge]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[A well-deserved revenge]","color":"gold"}

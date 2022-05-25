@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The space germ is located in the huge glass egg in the center of the temple. The only way to access it would be to raise the water level by flooding the room. I will surely be able to do so thanks to the four large traps... The four pillars must surely control the opening, but access to them cannot be from the central room.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The space germ is located in the huge glass egg in the center of the temple. The only way to access it would be to raise the water level by flooding the room. I will surely be able to do so thanks to the four large traps... The four pillars must surely control the opening, but access to them cannot be from the central room.","color":"aqua","bold":false}]}

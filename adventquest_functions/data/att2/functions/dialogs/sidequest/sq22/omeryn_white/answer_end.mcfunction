@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Omeryn White : ","color":"green"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Omeryn White : ","color":"green","extra":[{"text":"So the work is finished? Well I guess you had the nerve to help yourself to my chests ... It does not matter, I like you a lot! But for the trouble, you will have nothing else!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Omeryn White : ","color":"green","extra":[{"text":"So the work is finished? Well I guess you had the nerve to help yourself to my chests ... It does not matter, I like you a lot! But for the trouble, you will have nothing else!","color":"dark_aqua"}]}

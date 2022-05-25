@@ -14,5 +14,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-째- Un business en perte de vitesse -�
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-째- A declining business -째- : ","color":"gray","extra":[{"text":"I have to get rid of the bandits so Nestor can work in his inn again normally. Let's go kill some thieves, just to teach them some manners!","color":"aqua","italic":true}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-째- A declining business -째- : ","color":"gray","extra":[{"text":"I have to get rid of the bandits so Nestor can work in his inn again normally. Let's go kill some thieves, just to teach them some manners!","color":"aqua","italic":true}]}
+
 
 function att2:dialogs/sidequest/sq35/mobs_killed_total

@@ -16,6 +16,10 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Phoebius : ","color":"green","ext
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Phoebius : ","color":"green","extra":[{"text":"Please speak, otherwise how could I hear you?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Phoebius : ","color":"green","extra":[{"text":"Please speak, otherwise how could I hear you?","color":"dark_aqua"}]}
+
 
 execute as @a run function att2:dialogs/mainquest/act_3/pnj_phoebius/player_answer_proposal_6
 execute as @a run function att2:dialogs/mainquest/act_3/pnj_phoebius/player_answer_proposal_8

@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Lilith : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Lilith : ","color":"green","extra":[{"text":"Hihihihi! Trapped! Did you really think I was going to offer you a reward? You will especially season my good soup, humans are so appetizing!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Lilith : ","color":"green","extra":[{"text":"Hihihihi! Trapped! Did you really think I was going to offer you a reward? You will especially season my good soup, humans are so appetizing!","color":"dark_aqua"}]}

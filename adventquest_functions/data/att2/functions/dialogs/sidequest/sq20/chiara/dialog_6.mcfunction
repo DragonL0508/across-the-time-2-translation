@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Chiara : ","color":"green","extra
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Hi, dear friend. Earndhel is a beautiful city and I enjoy it. There was this deserted house and with the money we made I will be able to start a new life!","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Hi, dear friend. Earndhel is a beautiful city and I enjoy it. There was this deserted house and with the money we made I will be able to start a new life!","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq20/chiara/player_proposal_3/choice_1
 function att2:dialogs/sidequest/sq20/chiara/player_proposal_3/choice_2

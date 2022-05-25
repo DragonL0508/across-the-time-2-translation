@@ -16,3 +16,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Brutus : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Brutus : ","color":"green","extra":[{"text":"Behind, the facade of the temple is quite degraded. You should be able to find an entrance over there. Go through the ramparts. There is a ladder under the east viewpoint, it must be broken, but you should find something to repair it in the village...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Brutus : ","color":"green","extra":[{"text":"Behind, the facade of the temple is quite degraded. You should be able to find an entrance over there. Go through the ramparts. There is a ladder under the east viewpoint, it must be broken, but you should find something to repair it in the village...","color":"dark_aqua"}]}

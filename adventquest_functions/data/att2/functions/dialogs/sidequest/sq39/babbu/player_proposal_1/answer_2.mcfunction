@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Babbu : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Babbu : ","color":"green","extra":[{"text":"Thank you friend, I will have a divine feast with, of course, a lil' bottle of booze...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Babbu : ","color":"green","extra":[{"text":"Thank you friend, I will have a divine feast with, of course, a lil' bottle of booze...","color":"dark_aqua"}]}

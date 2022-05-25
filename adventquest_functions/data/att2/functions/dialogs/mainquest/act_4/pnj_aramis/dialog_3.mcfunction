@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Aramis : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"Hurry to the west gate of the city, we'll talk about the gem later.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"Hurry to the west gate of the city, we'll talk about the gem later.","color":"dark_aqua"}]}

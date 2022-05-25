@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Desperate, the mortals then adulterated La Flamme Noire, making sacrifices and offerings in its name. And she heard them. So in exchange for the blood spilled, she no longer attacked the mortal cities.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Desperate, the mortals then adulterated La Flamme Noire, making sacrifices and offerings in its name. And she heard them. So in exchange for the blood spilled, she no longer attacked the mortal cities.","color":"dark_aqua"}]}

@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Hélèna Meli : ","color":"green"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"My horses are in great shape: as promised, I will offer you one!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"My horses are in great shape: as promised, I will offer you one!","color":"dark_aqua"}]}

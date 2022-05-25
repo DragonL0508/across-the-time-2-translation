@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Ne jamais rien laisser derrière s
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Never leave anything behind -°- : ","color":"gray","extra":[{"text":"Warren lost his goods, he would have abandoned it on the road dug through the volcanic mountains. A part of the tunnel has collapsed, so I have to look for another entry into the mountains to find the goods.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Never leave anything behind -°- : ","color":"gray","extra":[{"text":"Warren lost his goods, he would have abandoned it on the road dug through the volcanic mountains. A part of the tunnel has collapsed, so I have to look for another entry into the mountains to find the goods.","color":"aqua","italic":true}]}

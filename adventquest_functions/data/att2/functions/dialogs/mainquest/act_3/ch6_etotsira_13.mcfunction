@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"It's not that simple, it would take me a long time. Especially since I just generated one for you. But there is still a solution: when you travelled from your time to now, you had to use so-called 'time' gems?","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"It's not that simple, it would take me a long time. Especially since I just generated one for you. But there is still a solution: when you travelled from your time to now, you had to use so-called 'time' gems?","color":"dark_aqua"}]}

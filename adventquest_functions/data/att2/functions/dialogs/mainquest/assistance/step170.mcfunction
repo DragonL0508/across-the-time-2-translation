@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Finally ... All the emeralds are in place. I can go to the center of the dungeon by climbing directly through the south tower. The central security mechanism seems to be deactivated, I will surely be able to descend from the top.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Finally ... All the emeralds are in place. I can go to the center of the dungeon by climbing directly through the south tower. The central security mechanism seems to be deactivated, I will surely be able to descend from the top.","color":"aqua","bold":false}]}

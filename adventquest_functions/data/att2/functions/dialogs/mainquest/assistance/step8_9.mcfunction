@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Finally, there is something concrete: a space germ would be found in the temple of the Worlëst forest. Wirth told me it's at the other end of the forest northeast of Ryliath. However, a barbarian camp has set up in front of it, I will have to sneak in discreetly.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Finally, there is something concrete: a space germ would be found in the temple of the Worlëst forest. Wirth told me it's at the other end of the forest northeast of Ryliath. However, a barbarian camp has set up in front of it, I will have to sneak in discreetly.","color":"aqua","bold":false}]}

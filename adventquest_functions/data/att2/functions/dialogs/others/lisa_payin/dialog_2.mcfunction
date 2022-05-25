@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Lisa : ","color":"green","extra":
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lisa : ","color":"green","extra":[{"text":"What do you want to buy this time?","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/lisa_payin_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Lisa is selling."}}]}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lisa : ","color":"green","extra":[{"text":"What do you want to buy this time?","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/lisa_payin_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Lisa is selling."}}]}]}

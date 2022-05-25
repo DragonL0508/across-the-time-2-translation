@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Nestor : ","color":"green","extra
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nestor : ","color":"green","extra":[{"text":"Sorry, I can't help you, I am currently dealing with a... neighborhood... problem. But tell me, I heard of someone who recently arrived in the region who was sparing no effort to helping others. If you are this person, I have a job to offer you!","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nestor : ","color":"green","extra":[{"text":"Sorry, I can't help you, I am currently dealing with a... neighborhood... problem. But tell me, I heard of someone who recently arrived in the region who was sparing no effort to helping others. If you are this person, I have a job to offer you!","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq35/nestor/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq35/nestor/player_proposal_1/choice_2

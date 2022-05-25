@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Barbare : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Heathen : ","color":"green","extra":[{"text":"Who the hell is that? Are you lost, little guy? Come on, I'll be nice: get out of here before we come get you!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Heathen : ","color":"green","extra":[{"text":"Who the hell is that? Are you lost, little guy? Come on, I'll be nice: get out of here before we come get you!","color":"dark_aqua"}]}

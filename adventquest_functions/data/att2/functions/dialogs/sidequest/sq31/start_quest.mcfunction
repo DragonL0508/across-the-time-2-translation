@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[Une ville dans le besoin]","color":"go
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[A Town in need]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[A Town in need]","color":"gold"}

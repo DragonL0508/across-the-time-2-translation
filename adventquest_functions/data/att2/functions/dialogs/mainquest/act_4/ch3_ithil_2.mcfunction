@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Ithil : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"No, I don't think so. If my father seems surprised to see the gate at the bottom of the city in working order, it's because he's a good actor. Cause we have always had portals in Ryliath, even before you came. And if you need Time Gems, you're going to have to to travel to other kingdom. I might as well show you this right now. If you didn't chicken out.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"No, I don't think so. If my father seems surprised to see the gate at the bottom of the city in working order, it's because he's a good actor. Cause we have always had portals in Ryliath, even before you came. And if you need Time Gems, you're going to have to to travel to other kingdom. I might as well show you this right now. If you didn't chicken out.","color":"dark_aqua"}]}

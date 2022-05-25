@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Alfred Mornith : ","color":"gree
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Alfred Mornith : ","color":"green","extra":[{"text":"Well, I heard it work, a big racket! In any case, thanks for the help.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alfred Mornith : ","color":"green","extra":[{"text":"Well, I heard it work, a big racket! In any case, thanks for the help.","color":"dark_aqua"}]}

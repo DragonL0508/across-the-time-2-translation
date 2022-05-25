@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Ithil : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Ithil : ","color":"green","extra":[{"text":"Are you stupid for doing this Jaris? Do you not see the mess that you caused in the palace?","color":"blue"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ithil : ","color":"green","extra":[{"text":"Are you stupid for doing this Jaris? Do you not see the mess that you caused in the palace?","color":"blue"}]}

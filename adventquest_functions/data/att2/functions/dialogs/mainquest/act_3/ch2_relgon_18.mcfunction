@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"However, in the gardian's lair, we did not find Flamme Noire, the only half goddess of the Angband kingdom, but a colossal and destructive monster... Flamme Noire had transformed horribly.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"However, in the gardian's lair, we did not find Flamme Noire, the only half goddess of the Angband kingdom, but a colossal and destructive monster... Flamme Noire had transformed horribly.","color":"dark_aqua"}]}

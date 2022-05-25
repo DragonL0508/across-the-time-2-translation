@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Aldelrion : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"I would recognize it between a thousand. So you found it.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"I would recognize it between a thousand. So you found it.","color":"dark_aqua"}]}

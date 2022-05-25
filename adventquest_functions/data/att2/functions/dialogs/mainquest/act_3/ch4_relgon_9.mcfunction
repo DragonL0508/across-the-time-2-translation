@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Sérile is still young and a little proud. Like his father at his age, but that will change. When she is humble enough to admit that someone else can take Azazel's place, then she will become queen...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Sérile is still young and a little proud. Like his father at his age, but that will change. When she is humble enough to admit that someone else can take Azazel's place, then she will become queen...","color":"dark_aqua"}]}

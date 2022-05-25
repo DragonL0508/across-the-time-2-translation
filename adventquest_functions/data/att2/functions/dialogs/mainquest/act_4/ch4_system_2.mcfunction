@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Naër regagne toutes ses vies...","colo
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Naër is restoring all his health...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Naër is restoring all his health...","color":"gray","italic":true}

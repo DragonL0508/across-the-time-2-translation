@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Derim Kril : ","color":"green","
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Any news on my key? It must surely be at the bottom of the tunnels, among cultures. Search well!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Any news on my key? It must surely be at the bottom of the tunnels, among cultures. Search well!","color":"dark_aqua"}]}

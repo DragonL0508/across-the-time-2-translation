@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Joël Roblochon : ","color":"gree
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Joël Roblochon : ","color":"green","extra":[{"text":"Hey, watch out! Are you alright? What were you doing in the fireplace damn it? This palace is a real Swiss cheese with all these secret passages! Hm... that would perhaps explain this charred boot at the bottom of the oven that I found the other day...","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Joël Roblochon : ","color":"green","extra":[{"text":"Hey, watch out! Are you alright? What were you doing in the fireplace damn it? This palace is a real Swiss cheese with all these secret passages! Hm... that would perhaps explain this charred boot at the bottom of the oven that I found the other day...","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq30/joel_roblochon/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq30/joel_roblochon/player_proposal_1/choice_2

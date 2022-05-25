@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Soldat Mortel : ","color":"green
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Mortal Soldier : ","color":"green","extra":[{"text":"Who the hell is that? Come on, guys, catch him, I hate bad surprises!","color":"red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Mortal Soldier : ","color":"green","extra":[{"text":"Who the hell is that? Come on, guys, catch him, I hate bad surprises!","color":"red"}]}

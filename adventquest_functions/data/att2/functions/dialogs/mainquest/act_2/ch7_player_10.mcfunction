@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"This mechanism must be a way to bring the water back into the main room. Maybe if I open the right pipes to run the water from both sides to the end, I will unlock an access to this room...","color":"aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"This mechanism must be a way to bring the water back into the main room. Maybe if I open the right pipes to run the water from both sides to the end, I will unlock an access to this room...","color":"aqua"}]}

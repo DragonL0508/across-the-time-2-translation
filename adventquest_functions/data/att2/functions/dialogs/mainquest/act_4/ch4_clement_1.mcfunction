@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Clément : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Clément : ","color":"green","extra":[{"text":"Hey! You there! I've never seen you, from which village do you come from?","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Clément : ","color":"green","extra":[{"text":"Hey! You there! I've never seen you, from which village do you come from?","color":"dark_aqua"}]}

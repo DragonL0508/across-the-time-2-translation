@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Korlaph : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"*Furious* I was almost THERE! It took a lot of concentration and work to get there! She was talking to me, but she was in so much pain ... I CANNOT! What a stupid idea to have brought you here... Selene, you really don't understand anything! Your mother Tatiana ! It is because of her that my Lucimene finds herself like this!","color":"dark_red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"*Furious* I was almost THERE! It took a lot of concentration and work to get there! She was talking to me, but she was in so much pain ... I CANNOT! What a stupid idea to have brought you here... Selene, you really don't understand anything! Your mother Tatiana ! It is because of her that my Lucimene finds herself like this!","color":"dark_red"}]}

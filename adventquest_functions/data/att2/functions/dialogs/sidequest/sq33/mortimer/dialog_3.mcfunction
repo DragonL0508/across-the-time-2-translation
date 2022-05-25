@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Mortimer : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"How are you? Thanks to you I can finally study this enigma which are these strange structures arranged in all the country. Give me a little more time, I could surely soon learn some interesting things about these stones...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"How are you? Thanks to you I can finally study this enigma which are these strange structures arranged in all the country. Give me a little more time, I could surely soon learn some interesting things about these stones...","color":"dark_aqua"}]}

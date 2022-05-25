@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Jaris : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"We will meet again my love! Don't worry, everything will work out!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"We will meet again my love! Don't worry, everything will work out!","color":"dark_aqua"}]}

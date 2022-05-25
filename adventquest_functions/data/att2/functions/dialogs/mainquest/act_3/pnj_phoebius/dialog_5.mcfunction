@@ -15,3 +15,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Phoebius : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Phoebius : ","color":"green","extra":[{"text":"I don't take orders from a stranger.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Phoebius : ","color":"green","extra":[{"text":"I don't take orders from a stranger.","color":"dark_aqua"}]}

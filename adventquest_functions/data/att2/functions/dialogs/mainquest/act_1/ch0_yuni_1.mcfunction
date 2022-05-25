@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Yuni : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Yuni : ","color":"green","extra":[{"text":"Thank you for bringing us the ''Pantalon''.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Yuni : ","color":"green","extra":[{"text":"Thank you for bringing us the ''Pantalon''.","color":"dark_aqua"}]}

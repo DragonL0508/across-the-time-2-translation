@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Skaolon : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Skaolon : ","color":"green","extra":[{"text":"Is that a threat ?! And then what, you'd like to kill me?! Ahahaha, what an idiot. Our magnificience won't tolerate my death, so say goodbye to the meeting and to the questions.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Skaolon : ","color":"green","extra":[{"text":"Is that a threat ?! And then what, you'd like to kill me?! Ahahaha, what an idiot. Our magnificience won't tolerate my death, so say goodbye to the meeting and to the questions.","color":"dark_aqua"}]}

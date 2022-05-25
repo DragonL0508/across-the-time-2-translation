@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Don't be nostalgic, the past seems wonderful but it's nothing compared to what the future holds for us. We all miss past times. The important thing is not to relive them, but to remember them. Because that's the way time goes.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Don't be nostalgic, the past seems wonderful but it's nothing compared to what the future holds for us. We all miss past times. The important thing is not to relive them, but to remember them. Because that's the way time goes.","color":"dark_aqua"}]}

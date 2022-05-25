@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[Une livraison qui se fait attendre]","
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[A delayed delivery]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[A delayed delivery]","color":"gold"}

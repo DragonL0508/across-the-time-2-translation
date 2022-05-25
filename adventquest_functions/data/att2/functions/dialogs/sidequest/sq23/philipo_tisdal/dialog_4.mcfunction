@@ -13,5 +13,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Philipo Tisdal : ","color":"green
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"You're back? I think we got carried away a little too quickly, I always need help. So please, tell me that a few chronotons will make you change your mind...","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"You're back? I think we got carried away a little too quickly, I always need help. So please, tell me that a few chronotons will make you change your mind...","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq23/philipo_tisdal/player_proposal_1/choice_2

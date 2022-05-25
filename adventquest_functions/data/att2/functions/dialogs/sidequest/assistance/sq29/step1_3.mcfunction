@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Des Brigands très Encombrants -°
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Annoying Bandits -°- : ","color":"gray","extra":[{"text":"Ragnard Lorth gave me the task of ridding the forest of Elvetta of all its bandit camps. The Birch forest near the town of Méleïm.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Annoying Bandits -°- : ","color":"gray","extra":[{"text":"Ragnard Lorth gave me the task of ridding the forest of Elvetta of all its bandit camps. The Birch forest near the town of Méleïm.","color":"aqua","italic":true}]}

@@ -10,3 +10,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Votre corruption s'intensifie...","colo
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Your corruption intensifies...","color":"black"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Your corruption intensifies...","color":"black"}

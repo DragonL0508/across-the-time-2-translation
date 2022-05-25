@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Triss : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"J'zargo? Yes, I have some clues... Then before you go chasing him, I would like to tell you more about him.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"J'zargo? Yes, I have some clues... Then before you go chasing him, I would like to tell you more about him.","color":"dark_aqua"}]}

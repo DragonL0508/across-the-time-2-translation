@@ -13,5 +13,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Namrïn : ","color":"dark_purple"
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Namrïn : ","color":"dark_purple","extra":[{"text":"So, are you ready?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Namrïn : ","color":"dark_purple","extra":[{"text":"So, are you ready?","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq47/namrin/player_proposal_1/choice_1

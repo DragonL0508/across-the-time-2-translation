@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Total de Chronoton en banque : ","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Total Chronoton in the bank : ","color":"gold","extra":[{"score":{"name":"@s","objective":"BANK"},"color":"yellow"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Total Chronoton in the bank : ","color":"gold","extra":[{"score":{"name":"@s","objective":"BANK"},"color":"yellow"}]}

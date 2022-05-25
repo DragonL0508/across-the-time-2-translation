@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Ramsay Tork : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ramsay Tork : ","color":"green","extra":[{"text":"Friendly... But given the difficulty and the risks, I can understand. Here is your advance. The foundry district is opposite the palace to the west.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ramsay Tork : ","color":"green","extra":[{"text":"Friendly... But given the difficulty and the risks, I can understand. Here is your advance. The foundry district is opposite the palace to the west.","color":"dark_aqua"}]}

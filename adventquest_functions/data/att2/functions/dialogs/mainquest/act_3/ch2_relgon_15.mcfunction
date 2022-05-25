@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"On this warning, Azazel, our king, had the medium pass in Flamme Noire's sight, gardian of the unique source, so that she can scan her soul. But she did not see any malice in this woman.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"On this warning, Azazel, our king, had the medium pass in Flamme Noire's sight, gardian of the unique source, so that she can scan her soul. But she did not see any malice in this woman.","color":"dark_aqua"}]}

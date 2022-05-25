@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Babbu : ","color":"green","extra"
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Babbu : ","color":"green","extra":[{"text":"Would you happen to still have a bit more Chronotons?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Babbu : ","color":"green","extra":[{"text":"Would you happen to still have a bit more Chronotons?","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq39/babbu/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq39/babbu/player_proposal_1/choice_2

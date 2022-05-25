@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Les chevaux d'Hélèna -°- : ","c
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Hélèna's horses -°- : ","color":"gray","extra":[{"text":"Elisa Meli is responsible for the poisoning of Helena's horses. So let's go find her sister and tell her that it won't happen again.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Hélèna's horses -°- : ","color":"gray","extra":[{"text":"Elisa Meli is responsible for the poisoning of Helena's horses. So let's go find her sister and tell her that it won't happen again.","color":"aqua","italic":true}]}

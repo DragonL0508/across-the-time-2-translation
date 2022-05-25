@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Violette : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Violette : ","color":"green","extra":[{"text":"Thank you very much, the cemetery is higher up. Take care!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Violette : ","color":"green","extra":[{"text":"Thank you very much, the cemetery is higher up. Take care!","color":"dark_aqua"}]}

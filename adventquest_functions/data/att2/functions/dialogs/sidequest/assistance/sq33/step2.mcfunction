@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Trésor de Silberländ -°- : ","c
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Treasure of Silberländ -°- : ","color":"gray","extra":[{"text":"I brought all of the stone samples back to Mortimer. I should wait for him to finish his research on the structures. I will come back later to hear from him.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Treasure of Silberländ -°- : ","color":"gray","extra":[{"text":"I brought all of the stone samples back to Mortimer. I should wait for him to finish his research on the structures. I will come back later to hear from him.","color":"aqua","italic":true}]}

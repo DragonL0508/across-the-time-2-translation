@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Eldaris : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Eldaris : ","color":"green","extra":[{"text":"Lord! ","color":"gold"},{"selector":"@a[scores={NUMEROJOUEUR=1}]"},{"text":", how did you get here? And for what purpose?","color":"gold"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Eldaris : ","color":"green","extra":[{"text":"Lord! ","color":"gold"},{"selector":"@a[scores={NUMEROJOUEUR=1}]"},{"text":", how did you get here? And for what purpose?","color":"gold"}]}

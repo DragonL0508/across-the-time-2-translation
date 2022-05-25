@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Daril Gram : ","color":"green","
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Daril Gram : ","color":"green","extra":[{"text":"Finally... You are avenged Daniel. They won't hurt anyone anymore... Here, it's for you...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Daril Gram : ","color":"green","extra":[{"text":"Finally... You are avenged Daniel. They won't hurt anyone anymore... Here, it's for you...","color":"dark_aqua"}]}

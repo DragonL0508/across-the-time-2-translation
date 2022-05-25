@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Raj Kutra : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Raj Kutra : ","color":"green","extra":[{"text":"Oh rage, oh despair... but what will I become... ...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Raj Kutra : ","color":"green","extra":[{"text":"Oh rage, oh despair... but what will I become... ...","color":"dark_aqua"}]}

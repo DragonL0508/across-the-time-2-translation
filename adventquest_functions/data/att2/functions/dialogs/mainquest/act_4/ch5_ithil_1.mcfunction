@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Ithil : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"Again? Well, I must tell that I'm running out of solutions... Time gems were created in our world and hardly more than a few came out. So don't bother to search the other kingdoms for them...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"Again? Well, I must tell that I'm running out of solutions... Time gems were created in our world and hardly more than a few came out. So don't bother to search the other kingdoms for them...","color":"dark_aqua"}]}

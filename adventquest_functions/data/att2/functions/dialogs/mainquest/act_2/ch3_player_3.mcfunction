@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@s","color":"dark_red","extra":[{"t
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"This part of the camp is congested by vegetation....","color":"aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"This part of the camp is congested by vegetation....","color":"aqua"}]}

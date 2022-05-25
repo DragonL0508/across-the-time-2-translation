@@ -18,6 +18,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" ° ","bold":true,"color":"dark_red","e
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" <-°-> ","color":"dark_gray","extra":[{"text":" REPAIR PRICES ","color":"dark_red","extra":[{"text":" <-°-> ","color":"dark_gray"}]}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" <-°-> ","color":"dark_gray","extra":[{"text":" REPAIR PRICES ","color":"dark_red","extra":[{"text":" <-°-> ","color":"dark_gray"}]}]}
 tellraw @s[scores={LANGUAGE=1}] {"text":" ° ","bold":true,"color":"dark_red","extra":[{"text":"Common","bold":false,"color":"gray","extra":[{"text":" : ","color":"white"},{"text":"25 Chronotons","color":"yellow"}]}]}
 tellraw @s[scores={LANGUAGE=1}] {"text":" ° ","bold":true,"color":"dark_red","extra":[{"text":"Uncommon","bold":false,"color":"dark_green","extra":[{"text":" : ","color":"white"},{"text":"75 Chronotons","color":"yellow"}]}]}
 tellraw @s[scores={LANGUAGE=1}] {"text":" ° ","bold":true,"color":"dark_red","extra":[{"text":"Rare","bold":false,"color":"blue","extra":[{"text":" : ","color":"white"},{"text":"150 Chronotons","color":"yellow"}]}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"No, J'zargo is not done with his researches! And if the ignorant pupil does not change his mood, J'zargo will not teach anything anymore.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"No, J'zargo is not done with his researches! And if the ignorant pupil does not change his mood, J'zargo will not teach anything anymore.","color":"dark_aqua"}]}

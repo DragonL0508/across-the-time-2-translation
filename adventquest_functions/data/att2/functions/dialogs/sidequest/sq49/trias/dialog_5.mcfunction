@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Trias : ","color":"green","extra"
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"This bow was yore given to me by the most honorable mortal that Angband saw, in times older than a thousand of your life. With it, I accomplished his will and carried the hope of mortals and Eternäns.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"This bow was yore given to me by the most honorable mortal that Angband saw, in times older than a thousand of your life. With it, I accomplished his will and carried the hope of mortals and Eternäns.","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq49/trias/player_proposal_4/choice_1
 function att2:dialogs/sidequest/sq49/trias/player_proposal_4/choice_2

@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"I will let it go this time... But may the pupil not stand here and go somewhere else.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"I will let it go this time... But may the pupil not stand here and go somewhere else.","color":"dark_aqua"}]}

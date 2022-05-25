@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Aramis : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"He is a former student of ours, but his greed for power led him to steal one of our forbidden relics: a necromancy stone. After that, he fled to the mountains on the same quest as you: to find the time gem hiding there. Many of us died trying to stop it or defending our city.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"He is a former student of ours, but his greed for power led him to steal one of our forbidden relics: a necromancy stone. After that, he fled to the mountains on the same quest as you: to find the time gem hiding there. Many of us died trying to stop it or defending our city.","color":"dark_aqua"}]}

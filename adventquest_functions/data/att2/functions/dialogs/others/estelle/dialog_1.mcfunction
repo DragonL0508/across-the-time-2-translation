@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Estelle : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Estelle : ","color":"green","extra":[{"text":"Hello, are you a friend of Sylvandre's? This is the first time I see you in town, though. He always tries to impress me, he's a bit annoying and clumsy but he's kind.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Estelle : ","color":"green","extra":[{"text":"Hello, are you a friend of Sylvandre's? This is the first time I see you in town, though. He always tries to impress me, he's a bit annoying and clumsy but he's kind.","color":"dark_aqua"}]}

@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Edwin Vortid : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Edwin Vortid : ","color":"green","extra":[{"text":"So you went to Charles and bet some Chronotons? It's addicting eh!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Edwin Vortid : ","color":"green","extra":[{"text":"So you went to Charles and bet some Chronotons? It's addicting eh!","color":"dark_aqua"}]}

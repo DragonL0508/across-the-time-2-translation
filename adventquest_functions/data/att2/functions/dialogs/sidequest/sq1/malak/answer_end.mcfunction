@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Malak : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"Yep! Sweet and tender cereals, which I am happy to have you again... This is my little one, here is your reward...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"Yep! Sweet and tender cereals, which I am happy to have you again... This is my little one, here is your reward...","color":"dark_aqua"}]}

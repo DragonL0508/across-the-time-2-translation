@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Des semeurs de troubles -°- : ","
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Troublemakers -°- : ","color":"gray","extra":[{"text":"Nepheris asked me to shoo away the troublemakers in his tavern at the top floor.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Troublemakers -°- : ","color":"gray","extra":[{"text":"Nepheris asked me to shoo away the troublemakers in his tavern at the top floor.","color":"aqua","italic":true}]}

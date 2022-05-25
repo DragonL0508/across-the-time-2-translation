@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Wulk : ","color":"green","extra":
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Wulk : ","color":"green","extra":[{"text":"Awesome! You ended up finding it! You haven't come across my assistant? Well ... He must have gotten lost in the forest. I hope nothing happened to him. Anyway, thank you very much for your help. This is my reward to you.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Wulk : ","color":"green","extra":[{"text":"Awesome! You ended up finding it! You haven't come across my assistant? Well ... He must have gotten lost in the forest. I hope nothing happened to him. Anyway, thank you very much for your help. This is my reward to you.","color":"dark_aqua"}]}

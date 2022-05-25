@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Sigfrid Barkon : ","color":"gree
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Sigfrid Barkon : ","color":"green","extra":[{"text":"Ah, I received the news that the delivery arrived safely. Thank you very much, here is your payment, adventurer-delivery man.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sigfrid Barkon : ","color":"green","extra":[{"text":"Ah, I received the news that the delivery arrived safely. Thank you very much, here is your payment, adventurer-delivery man.","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"There is no doubt about it: you are the reincarnation of Relgon. I don't know why Gaya took so long to bring your life force back, but it coincides strangely with the advent of the new Tellurön source.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"There is no doubt about it: you are the reincarnation of Relgon. I don't know why Gaya took so long to bring your life force back, but it coincides strangely with the advent of the new Tellurön source.","color":"dark_aqua"}]}

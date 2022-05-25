@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Gonon : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Gonon : ","color":"green","extra":[{"text":"Here's my proposition : Recently, my cellar was invaded by spiders when one of the walls that led into a dark cave crumbled, leading these annoying monsters into my storage room.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Gonon : ","color":"green","extra":[{"text":"Here's my proposition : Recently, my cellar was invaded by spiders when one of the walls that led into a dark cave crumbled, leading these annoying monsters into my storage room.","color":"dark_aqua"}]}

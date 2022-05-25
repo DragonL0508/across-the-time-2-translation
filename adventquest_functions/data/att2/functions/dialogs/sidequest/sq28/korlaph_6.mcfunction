@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Korlaph : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"Shut up! I can't contain my energy to keep her with us! Don't worry my love, I have made huge progress...","color":"red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"Shut up! I can't contain my energy to keep her with us! Don't worry my love, I have made huge progress...","color":"red"}]}

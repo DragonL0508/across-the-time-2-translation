@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Alexandre : ","color":"green","e
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alexandre : ","color":"green","extra":[{"text":"Help! They will kill me!!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alexandre : ","color":"green","extra":[{"text":"Help! They will kill me!!","color":"dark_aqua"}]}

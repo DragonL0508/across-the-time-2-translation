@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Thirty cycles ago, about thirty of your years, a medium came to the city of Angor, carrying with her a dark prophecy...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Thirty cycles ago, about thirty of your years, a medium came to the city of Angor, carrying with her a dark prophecy...","color":"dark_aqua"}]}

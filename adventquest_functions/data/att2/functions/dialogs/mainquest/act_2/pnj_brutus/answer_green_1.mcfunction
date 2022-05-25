@@ -16,5 +16,9 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Brutus : ","color":"green","extra
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Brutus : ","color":"green","extra":[{"text":"*Whispering* I'm not really from here, blessed be you if you never have to know about exile... Finally, I will help you: to the west of the village, there is a grove cluttered with vegetation.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Brutus : ","color":"green","extra":[{"text":"*Whispering* I'm not really from here, blessed be you if you never have to know about exile... Finally, I will help you: to the west of the village, there is a grove cluttered with vegetation.","color":"dark_aqua"}]}
+
 
 function att2:dialogs/mainquest/act_2/pnj_brutus/answer_end_1

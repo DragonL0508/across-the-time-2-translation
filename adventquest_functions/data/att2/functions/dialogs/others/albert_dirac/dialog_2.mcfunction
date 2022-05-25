@@ -15,4 +15,8 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@s","color":"dark_red","extra":[{"t
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Albert Dirac : ","color":"green","extra":[{"text":"To rent a room there that day it will make you 30 Chronotons!","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Albert Dirac : ","color":"green","extra":[{"text":"To rent a room there that day it will make you 30 Chronotons!","color":"dark_aqua"}]}
+
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"[Pay the room and rest -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-080a-0000-00000000080a if entity @s[distance=..7] as @a[distance=..7] run function att2:dialogs/others/albert_dirac/answer_green"},"hoverEvent":{"action":"show_text","value":"Click here to pay the room and rest at the inn"}}]}

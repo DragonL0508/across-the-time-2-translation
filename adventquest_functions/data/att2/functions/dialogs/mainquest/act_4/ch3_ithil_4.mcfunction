@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Ithil : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"Yes I know, I saw you coming out with a time gem and you would like to know where to find another one. Here is, on my right, the entrance to the portal leading to the dimension of Ouranos : another kingdom probably containing what you're looking for...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"Yes I know, I saw you coming out with a time gem and you would like to know where to find another one. Here is, on my right, the entrance to the portal leading to the dimension of Ouranos : another kingdom probably containing what you're looking for...","color":"dark_aqua"}]}

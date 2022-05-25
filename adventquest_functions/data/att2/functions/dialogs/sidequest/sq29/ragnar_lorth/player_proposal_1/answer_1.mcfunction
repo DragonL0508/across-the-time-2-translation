@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Ragnar Lorth : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"You could not miss it, it is the birch forest which is on the plain before entering our city. The camps of these brigands are hidden there. Get them out and destroy their camp so they don't come back. Thank you in advance, and come back alive!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"You could not miss it, it is the birch forest which is on the plain before entering our city. The camps of these brigands are hidden there. Get them out and destroy their camp so they don't come back. Thank you in advance, and come back alive!","color":"dark_aqua"}]}

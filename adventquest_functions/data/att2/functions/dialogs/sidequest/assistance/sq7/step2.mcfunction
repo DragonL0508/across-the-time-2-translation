@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Déblayer le passage -°- : ","col
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Clear the passage -°- : ","color":"gray","extra":[{"text":" : "},{"text":"I have to go back and speak to Alfred Mornith so he can reward me for the work I have done successfully.","color":"aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Clear the passage -°- : ","color":"gray","extra":[{"text":" : "},{"text":"I have to go back and speak to Alfred Mornith so he can reward me for the work I have done successfully.","color":"aqua"}]}

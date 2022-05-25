@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Hélèna Meli : ","color":"green"
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Hey there! You come for horses, right? I'm sorry, but they're not in shape at the moment. I think we tried to poison them, 'well don't wonder how I came to this conclusion... I found these weird apples in the stable, don't taste them, huh! The stomach ache almost took me away! Would you search Ryliath to find our poisoner? I'll reward you, huh!","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Hey there! You come for horses, right? I'm sorry, but they're not in shape at the moment. I think we tried to poison them, 'well don't wonder how I came to this conclusion... I found these weird apples in the stable, don't taste them, huh! The stomach ache almost took me away! Would you search Ryliath to find our poisoner? I'll reward you, huh!","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq19/helena_meli/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq19/helena_meli/player_proposal_1/choice_2

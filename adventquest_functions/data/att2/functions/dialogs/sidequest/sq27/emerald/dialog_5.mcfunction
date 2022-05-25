@@ -13,5 +13,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Emerald : ","color":"green","extr
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Did you find something? So hurry, the Mornith quarry is west of Méleïm, along the path you will easily find the mines digging in the mountains to the north. Considering what I have been told about the scale of the Morniths' business, a wide path goes there and is protected by a large wooden barricade.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Did you find something? So hurry, the Mornith quarry is west of Méleïm, along the path you will easily find the mines digging in the mountains to the north. Considering what I have been told about the scale of the Morniths' business, a wide path goes there and is protected by a large wooden barricade.","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq27/emerald/player_proposal_1/choice_2

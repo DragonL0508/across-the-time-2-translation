@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Trias : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"Indeed. Do not underestimate me. You wouldn't leave unscathed.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"Indeed. Do not underestimate me. You wouldn't leave unscathed.","color":"dark_aqua"}]}

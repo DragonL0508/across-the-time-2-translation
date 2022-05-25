@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Rob Harth : ","color":"green","ex
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Rob Harth : ","color":"green","extra":[{"text":"So, are you going to help me get rid of these monsters?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Rob Harth : ","color":"green","extra":[{"text":"So, are you going to help me get rid of these monsters?","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq10/rob_harth/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq10/rob_harth/player_proposal_1/choice_3

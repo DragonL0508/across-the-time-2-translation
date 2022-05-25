@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Alexandre : ","color":"green","e
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alexandre : ","color":"green","extra":[{"text":"Yes, the site must wait. My colleague got caught up in this dirt while defending the cargo and the horses... Help me bring the equipment back to the site, I will never get there alone!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alexandre : ","color":"green","extra":[{"text":"Yes, the site must wait. My colleague got caught up in this dirt while defending the cargo and the horses... Help me bring the equipment back to the site, I will never get there alone!","color":"dark_aqua"}]}

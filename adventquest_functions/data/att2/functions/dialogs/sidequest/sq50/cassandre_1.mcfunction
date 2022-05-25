@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Cassandre : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"Yes, that's him! I was so anxious about you my small Totoro! Where was he?","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"Yes, that's him! I was so anxious about you my small Totoro! Where was he?","color":"dark_aqua"}]}

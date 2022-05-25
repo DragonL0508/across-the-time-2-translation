@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Emerald : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Did she set a trap for you? Always so resourceful, hahaha ! Like mother like daughter ... Um sorry. Come on, you're still alive, that's essential! The text you brought me is disturbing, it's about the snow-capped peaks of Elcheol. It is the name of the great mountain range in the north of the region. Meet me at the first city in the mountains when you can, the road is still long but we're getting there!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Did she set a trap for you? Always so resourceful, hahaha ! Like mother like daughter ... Um sorry. Come on, you're still alive, that's essential! The text you brought me is disturbing, it's about the snow-capped peaks of Elcheol. It is the name of the great mountain range in the north of the region. Meet me at the first city in the mountains when you can, the road is still long but we're getting there!","color":"dark_aqua"}]}

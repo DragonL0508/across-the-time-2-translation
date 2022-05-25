@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I found the gem but it fell down and is now blocked by a mechanism. It is surely a kind of protection ... I must find a way to drop all the emerald crystals from these giant structures! The door to the northwest tower opened, I should start there ...","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I found the gem but it fell down and is now blocked by a mechanism. It is surely a kind of protection ... I must find a way to drop all the emerald crystals from these giant structures! The door to the northwest tower opened, I should start there ...","color":"aqua","bold":false}]}

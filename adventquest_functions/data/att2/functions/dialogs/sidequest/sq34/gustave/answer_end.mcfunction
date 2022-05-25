@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Gustave : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Gustave : ","color":"green","extra":[{"text":"Great you are back! Alexandre, where is Géro? He... you got attacked didn't you? I will have to announce this to the royal family... When I told them that we needed reinforced protection for this work, their construction will go much slower now. Okay, take these 200 Chronotons. We have no time to lose...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Gustave : ","color":"green","extra":[{"text":"Great you are back! Alexandre, where is Géro? He... you got attacked didn't you? I will have to announce this to the royal family... When I told them that we needed reinforced protection for this work, their construction will go much slower now. Okay, take these 200 Chronotons. We have no time to lose...","color":"dark_aqua"}]}

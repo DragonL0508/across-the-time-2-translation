@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I have unlocked a new ability with my fire spells: melting thin layers of ice. It seems to me that the ice is linked to the systems making it possible to create air flows that can hoist me to the top of the main tower ... I must go towards the West tower and melt the ice of the door to gain access to it .","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I have unlocked a new ability with my fire spells: melting thin layers of ice. It seems to me that the ice is linked to the systems making it possible to create air flows that can hoist me to the top of the main tower ... I must go towards the West tower and melt the ice of the door to gain access to it .","color":"aqua","bold":false}]}

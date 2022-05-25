@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Clément : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Clément : ","color":"green","extra":[{"text":"I would love to be a traveling warrior like you, but I can't find the courage.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Clément : ","color":"green","extra":[{"text":"I would love to be a traveling warrior like you, but I can't find the courage.","color":"dark_aqua"}]}

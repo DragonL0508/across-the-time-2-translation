@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Ithil : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"Here we go. In this room there is a portal to Billgart. I'm not going to go with you any further. Good luck you'll need it...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"Here we go. In this room there is a portal to Billgart. I'm not going to go with you any further. Good luck you'll need it...","color":"dark_aqua"}]}

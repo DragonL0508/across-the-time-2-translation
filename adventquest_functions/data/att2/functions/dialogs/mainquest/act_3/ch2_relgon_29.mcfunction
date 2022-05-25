@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"This did not prevent La Flamme Noire from entering it, but definitely restricted mortal access to the source. Also, she continued to spread fear in the kingdom for the last thirty cycles.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"This did not prevent La Flamme Noire from entering it, but definitely restricted mortal access to the source. Also, she continued to spread fear in the kingdom for the last thirty cycles.","color":"dark_aqua"}]}

@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Lary Brett : ","color":"green","e
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"Here it is, it's open! There must be even more monsters in these catacombs... Good luck to you I leave you, I'll go home.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"Here it is, it's open! There must be even more monsters in these catacombs... Good luck to you I leave you, I'll go home.","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Les sujets regagnent leurs vies...","co
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Minions regain their health...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Minions regain their health...","color":"gray","italic":true}

@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Atricanth regagne toutes ses vies...","
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Atricanth regains all his lives...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Atricanth regains all his lives...","color":"gray","italic":true}

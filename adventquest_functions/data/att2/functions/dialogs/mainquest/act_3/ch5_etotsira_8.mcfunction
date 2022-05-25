@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"I implore you to bring Relgon, son of Irilion, back to life. So that the kingdom of Angband, as it was before this war, may be reborn...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"I implore you to bring Relgon, son of Irilion, back to life. So that the kingdom of Angband, as it was before this war, may be reborn...","color":"dark_aqua"}]}

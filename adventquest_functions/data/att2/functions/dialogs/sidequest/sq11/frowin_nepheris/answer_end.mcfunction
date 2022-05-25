@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Frowin Nepheris : ","color":"gree
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Frowin Nepheris : ","color":"green","extra":[{"text":"Ahhh, calm has finally returned! Thanks for getting rid of them ! Here is your payment.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Frowin Nepheris : ","color":"green","extra":[{"text":"Ahhh, calm has finally returned! Thanks for getting rid of them ! Here is your payment.","color":"dark_aqua"}]}

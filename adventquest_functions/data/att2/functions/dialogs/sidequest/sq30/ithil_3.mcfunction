@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Ithil : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Ithil : ","color":"green","extra":[{"selector":"@a[scores={NUMEROJOUEUR=1}]"},{"text":"! Wait! He did not steal these plans with a bad intention, he did it for me... Everything is my fault ! I'm the one responsible...","color":"blue"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ithil : ","color":"green","extra":[{"selector":"@a[scores={NUMEROJOUEUR=1}]"},{"text":"! Wait! He did not steal these plans with a bad intention, he did it for me... Everything is my fault ! I'm the one responsible...","color":"blue"}]}

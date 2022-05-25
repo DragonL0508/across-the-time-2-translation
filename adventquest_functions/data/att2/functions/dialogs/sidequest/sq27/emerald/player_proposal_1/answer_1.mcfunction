@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Emerald : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"You are a good person! I will forever be grateful to you and I feel that we are getting closer to her. Head to the Mornith mines by following the path west of Méleïm. Good luck!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"You are a good person! I will forever be grateful to you and I feel that we are getting closer to her. Head to the Mornith mines by following the path west of Méleïm. Good luck!","color":"dark_aqua"}]}

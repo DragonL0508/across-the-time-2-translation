@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Warren : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Warren : ","color":"green","extra":[{"text":"So, have you found another way to reach my lost merchandise? There are other caves going up to the north.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Warren : ","color":"green","extra":[{"text":"So, have you found another way to reach my lost merchandise? There are other caves going up to the north.","color":"dark_aqua"}]}

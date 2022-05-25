@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"For several cycles, the mortal people, loyal to King Azazel, came to our aid. But after many defeats and the death of many of his own, he turned his back on us.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"For several cycles, the mortal people, loyal to King Azazel, came to our aid. But after many defeats and the death of many of his own, he turned his back on us.","color":"dark_aqua"}]}

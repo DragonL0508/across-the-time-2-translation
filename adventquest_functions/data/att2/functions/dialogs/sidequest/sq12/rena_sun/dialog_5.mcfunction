@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Rena Sun : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Leave this temple, please...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Leave this temple, please...","color":"dark_aqua"}]}

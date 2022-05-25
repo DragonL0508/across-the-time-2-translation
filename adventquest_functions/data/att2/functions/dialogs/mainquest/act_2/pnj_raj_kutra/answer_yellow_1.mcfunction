@@ -15,3 +15,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Raj Kutra : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Raj Kutra : ","color":"green","extra":[{"text":"How can this be? I illustrious Raj would not be appreciated by sweet Syri? Oh rage, oh despair... but what will I become... Let me therefore go, coiled in a cloak of solitude, towards sharp horizons that I could not bear.... Leaving my beautiful girl in someone else's arms...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Raj Kutra : ","color":"green","extra":[{"text":"How can this be? I illustrious Raj would not be appreciated by sweet Syri? Oh rage, oh despair... but what will I become... Let me therefore go, coiled in a cloak of solitude, towards sharp horizons that I could not bear.... Leaving my beautiful girl in someone else's arms...","color":"dark_aqua"}]}

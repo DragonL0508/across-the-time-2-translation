@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"*Without enthusiasm* The battle is near. Our army will soon leave to face La Flamme Noire. Your assistance would have been welcome once again, but if you refuse, I cannot force you to do so.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"*Without enthusiasm* The battle is near. Our army will soon leave to face La Flamme Noire. Your assistance would have been welcome once again, but if you refuse, I cannot force you to do so.","color":"dark_aqua"}]}

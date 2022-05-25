@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Cassandre : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"You won't find him, he left the academy soon after Totoro's vanishing. But Triss should know how to retrace him...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"You won't find him, he left the academy soon after Totoro's vanishing. But Triss should know how to retrace him...","color":"dark_aqua"}]}

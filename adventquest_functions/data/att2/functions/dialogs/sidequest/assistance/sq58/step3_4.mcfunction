@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Les vestiges du passé -°- : ","c
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The remains of the past -°- : ","color":"gray","extra":[{"text":"It seems that experiences have gone wrong here. I must continue, I don't want to come back empty-handed from this place...","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The remains of the past -°- : ","color":"gray","extra":[{"text":"It seems that experiences have gone wrong here. I must continue, I don't want to come back empty-handed from this place...","color":"aqua","italic":true}]}

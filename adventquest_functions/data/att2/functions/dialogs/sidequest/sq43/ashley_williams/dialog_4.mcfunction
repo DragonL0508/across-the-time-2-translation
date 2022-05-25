@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Ashley Williams : ","color":"gree
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ashley Williams : ","color":"green","extra":[{"text":"Did you find my hangar? It is at the entrance to the Kert mine.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ashley Williams : ","color":"green","extra":[{"text":"Did you find my hangar? It is at the entrance to the Kert mine.","color":"dark_aqua"}]}

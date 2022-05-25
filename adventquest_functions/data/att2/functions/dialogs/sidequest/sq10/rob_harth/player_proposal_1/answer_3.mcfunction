@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Rob Harth : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rob Harth : ","color":"green","extra":[{"text":"I have already tried, what do you think! Okay, drop it, I'll do it alone...","bold":false,"color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rob Harth : ","color":"green","extra":[{"text":"I have already tried, what do you think! Okay, drop it, I'll do it alone...","bold":false,"color":"dark_aqua"}]}

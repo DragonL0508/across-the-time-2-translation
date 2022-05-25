@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Sélène : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Sélène : ","color":"green","extra":[{"text":"But then you knew that mom was dead and you never told me anything? Korlaph, would you be able to bring back my mother's spirit?","color":"dark_green"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Sélène : ","color":"green","extra":[{"text":"But then you knew that mom was dead and you never told me anything? Korlaph, would you be able to bring back my mother's spirit?","color":"dark_green"}]}

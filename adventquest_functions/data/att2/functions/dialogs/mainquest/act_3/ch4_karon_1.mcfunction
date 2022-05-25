@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Karön : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Karön : ","color":"green","extra":[{"text":"Are you the stranger who's messing with the Eternäns? This fortress no longer belongs to them. Here I am the KING!","color":"red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Karön : ","color":"green","extra":[{"text":"Are you the stranger who's messing with the Eternäns? This fortress no longer belongs to them. Here I am the KING!","color":"red"}]}

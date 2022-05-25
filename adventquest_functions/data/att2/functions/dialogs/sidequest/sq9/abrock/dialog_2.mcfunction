@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Abrock : ","color":"green","extr
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Abrock : ","color":"green","extra":[{"text":"Hello foreigner, do you want wood? It's 3 Chronotons per log.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Abrock : ","color":"green","extra":[{"text":"Hello foreigner, do you want wood? It's 3 Chronotons per log.","color":"dark_aqua"}]}
+
 function att2:dialogs/sidequest/sq9/player_1
 function att2:dialogs/sidequest/sq9/abrock_1
 function att2:dialogs/sidequest/sq9/abrock/player_proposal_1/choice_1

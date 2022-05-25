@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Jade Rozaell : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jade Rozaell : ","color":"green","extra":[{"text":"Comes fearlessly to my shop. There is rare equipment here that I gladly sell in exchange for: ","color":"dark_aqua"},{"text":"<Sovereign Scale of Chaos>","color":"light_purple"},{"text":" On my left you can store them as you wish. Okay, now let's do business.","color":"dark_aqua","extra":[{"text":" [See the merchandise-->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/jade_rozaell_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Jade is selling."}}]}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jade Rozaell : ","color":"green","extra":[{"text":"Comes fearlessly to my shop. There is rare equipment here that I gladly sell in exchange for: ","color":"dark_aqua"},{"text":"<Sovereign Scale of Chaos>","color":"light_purple"},{"text":" On my left you can store them as you wish. Okay, now let's do business.","color":"dark_aqua","extra":[{"text":" [See the merchandise-->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/jade_rozaell_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Jade is selling."}}]}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Korlaph : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"Let me focus, I need to talk to her! Lucimène you are safe now, I brought you back to this world so that we could be reunited again!","color":"dark_red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"Let me focus, I need to talk to her! Lucimène you are safe now, I brought you back to this world so that we could be reunited again!","color":"dark_red"}]}

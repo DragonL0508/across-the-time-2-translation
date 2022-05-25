@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"According to Indra Lorth, a large structure would house a space gemme in the Owsästr swamps, so I have to head south, but I have a long way to go. Indra advised me to go to Méleïm's stable and take a horse to make my movements easier.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"According to Indra Lorth, a large structure would house a space gemme in the Owsästr swamps, so I have to head south, but I have a long way to go. Indra advised me to go to Méleïm's stable and take a horse to make my movements easier.","color":"aqua","bold":false}]}

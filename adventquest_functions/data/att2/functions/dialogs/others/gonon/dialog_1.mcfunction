@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Gonon : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gonon : ","color":"green","extra":[{"text":"So, were you able to exterminate the damn spiders?","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gonon : ","color":"green","extra":[{"text":"So, were you able to exterminate the damn spiders?","color":"dark_aqua"}]}

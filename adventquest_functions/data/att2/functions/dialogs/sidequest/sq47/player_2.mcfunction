@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"That? It's a crown that confers the power of resurrection to whom wears it. It's an evil and dangerous artifact, but where I kept it before was no longer safe. I was looking for a better place to hide it.","color":"aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"That? It's a crown that confers the power of resurrection to whom wears it. It's an evil and dangerous artifact, but where I kept it before was no longer safe. I was looking for a better place to hide it.","color":"aqua"}]}

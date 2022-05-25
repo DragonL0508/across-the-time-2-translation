@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Elisa Meli : ","color":"green","e
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elisa Meli : ","color":"green","extra":[{"text":"What! I'm not the one who has, no I mean... But what right does an idiot like... You wouldn't be a guard!? Wait, no, please don't put me in jail, I didn't mean to hurt her horses!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elisa Meli : ","color":"green","extra":[{"text":"What! I'm not the one who has, no I mean... But what right does an idiot like... You wouldn't be a guard!? Wait, no, please don't put me in jail, I didn't mean to hurt her horses!","color":"dark_aqua"}]}

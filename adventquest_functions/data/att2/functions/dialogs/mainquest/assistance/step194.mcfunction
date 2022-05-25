@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"There is a kind of horizontal door that blocks my progress. I must surely activate three different mechanisms to open it. I should look for these mechanisms inside the cloudy area not far from the door.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"There is a kind of horizontal door that blocks my progress. I must surely activate three different mechanisms to open it. I should look for these mechanisms inside the cloudy area not far from the door.","color":"aqua","bold":false}]}

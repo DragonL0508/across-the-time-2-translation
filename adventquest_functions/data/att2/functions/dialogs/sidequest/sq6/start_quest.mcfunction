@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[La clef d'Hurriel]","color":"gold"}
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[The Hurriel's Key]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[The Hurriel's Key]","color":"gold"}

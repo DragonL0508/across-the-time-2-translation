@@ -10,3 +10,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Nouveau niveau débloqué pour Absorpti
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"New level unlock for Absorption!","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"New level unlock for Absorption!","color":"gold"}

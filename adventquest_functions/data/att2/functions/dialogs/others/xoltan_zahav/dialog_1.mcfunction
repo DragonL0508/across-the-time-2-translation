@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Xoltan Zahav : ","color":"green",
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Xoltan Zahav : ","color":"green","extra":[{"text":"Hi, do you need weapons or armor? I have a well-stocked store ... Make your choice, my prices are affordable for this quality!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/xoltan_zahav_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Xoltan is selling."}}]}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Xoltan Zahav : ","color":"green","extra":[{"text":"Hi, do you need weapons or armor? I have a well-stocked store ... Make your choice, my prices are affordable for this quality!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/xoltan_zahav_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Xoltan is selling."}}]}]}
+
 
 
 function att2:dialogs/gameplay/shop/mending/proposal

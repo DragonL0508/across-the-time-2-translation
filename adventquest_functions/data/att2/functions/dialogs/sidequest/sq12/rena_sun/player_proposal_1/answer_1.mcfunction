@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Rena Sun : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Thank you. We had tremors recently, and now something seems to be blocking the door on the other side. You can enter the temple by climbing to the highest point of the fields above, there is an opening for the rain to enter the temple. I will pray for you!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Thank you. We had tremors recently, and now something seems to be blocking the door on the other side. You can enter the temple by climbing to the highest point of the fields above, there is an opening for the rain to enter the temple. I will pray for you!","color":"dark_aqua"}]}

@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Warren : ","color":"green","extr
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Warren : ","color":"green","extra":[{"text":"It's my lucky day, can you help me? I am a merchant and I often take this shortcut under the mountains to deliver my goods in town. I took the risk of crossing despite the activity of the volcano. Unfortunately, there were tremors then landslides and I lost my load while fleeing to save my skin.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Warren : ","color":"green","extra":[{"text":"It's my lucky day, can you help me? I am a merchant and I often take this shortcut under the mountains to deliver my goods in town. I took the risk of crossing despite the activity of the volcano. Unfortunately, there were tremors then landslides and I lost my load while fleeing to save my skin.","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq32/warren/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq32/warren/player_proposal_1/choice_2

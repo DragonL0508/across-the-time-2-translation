@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Skaolon considers that a Néleptron will not be enough to have an audience with the king. It begins to enrage me ... So be it! Let's go get another Neleptron, there should be another path leading there.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Skaolon considers that a Néleptron will not be enough to have an audience with the king. It begins to enrage me ... So be it! Let's go get another Neleptron, there should be another path leading there.","color":"aqua","bold":false}]}

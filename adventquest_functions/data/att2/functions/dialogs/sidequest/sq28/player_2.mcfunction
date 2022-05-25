@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"It's Korlaph. According to what is written in her diary, following the decision of Tatiana to make a dangerous ascent, his wife died. He held your mother solely responsible... So, he was in terrible pain. I know what I'm talking about, I paid the price recently, being manipulated...","color":"aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"It's Korlaph. According to what is written in her diary, following the decision of Tatiana to make a dangerous ascent, his wife died. He held your mother solely responsible... So, he was in terrible pain. I know what I'm talking about, I paid the price recently, being manipulated...","color":"aqua"}]}

@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[La fierté de Vulk]","color":"gold"}
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[The pride of Vulk]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[The pride of Vulk]","color":"gold"}

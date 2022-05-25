@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Aldelrion : ","color":"green","ex
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"Your compensation, you will get it. But if I am not the one that will distribute it, life will be. Have faith in me.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"Your compensation, you will get it. But if I am not the one that will distribute it, life will be. Have faith in me.","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq45/aldelrion/player_proposal_2/choice_1
 function att2:dialogs/sidequest/sq45/aldelrion/player_proposal_2/choice_3

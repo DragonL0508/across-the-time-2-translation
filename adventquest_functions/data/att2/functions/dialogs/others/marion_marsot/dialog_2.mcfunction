@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Marion Marsot : ","color":"green"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Marion Marsot : ","color":"green","extra":[{"text":"Leave me alone, go! I... I beg you...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Marion Marsot : ","color":"green","extra":[{"text":"Leave me alone, go! I... I beg you...","color":"dark_aqua"}]}

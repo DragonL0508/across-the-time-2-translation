@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Emerald : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"I knew you'd be interested in these things. The places she visits seem to relate to all these dead coming back to life... But the most important thing is to find my daughter! The treasures do not interest me, take what you want in these dismal places, but help me find her alive. I'm sure she will be able to tell you more about the treasures she is looking for... Go to the Mornith mines by following the path west of Méleïm. Good luck!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"I knew you'd be interested in these things. The places she visits seem to relate to all these dead coming back to life... But the most important thing is to find my daughter! The treasures do not interest me, take what you want in these dismal places, but help me find her alive. I'm sure she will be able to tell you more about the treasures she is looking for... Go to the Mornith mines by following the path west of Méleïm. Good luck!","color":"dark_aqua"}]}

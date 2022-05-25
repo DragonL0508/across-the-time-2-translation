@@ -15,3 +15,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Phoebius : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Phoebius : ","color":"green","extra":[{"text":"Oh, yes, a thousand apologies! Take it and may you make good use of it....","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Phoebius : ","color":"green","extra":[{"text":"Oh, yes, a thousand apologies! Take it and may you make good use of it....","color":"dark_aqua"}]}

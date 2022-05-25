@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Omeryn White : ","color":"green"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Omeryn White : ","color":"green","extra":[{"text":"What nerve! So let's fight!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Omeryn White : ","color":"green","extra":[{"text":"What nerve! So let's fight!","color":"dark_aqua"}]}

@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Here I am in Méleïm, I should talk to the city chief to find Indra, he probably knows her. His house is located just in front of the large bridge, on a rock overlooking the sea.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Here I am in Méleïm, I should talk to the city chief to find Indra, he probably knows her. His house is located just in front of the large bridge, on a rock overlooking the sea.","color":"aqua","bold":false}]}

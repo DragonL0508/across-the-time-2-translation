@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Oh, how interesting! I realize now it was you! I won't ruin the surprise for you, but know that this will be a difficult ordeal.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Oh, how interesting! I realize now it was you! I won't ruin the surprise for you, but know that this will be a difficult ordeal.","color":"dark_aqua"}]}

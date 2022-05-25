@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I have to earn Aramis' trust to get his help in return. He told me that a certain Marlene would have a problem to solve, she is in the kitchen of the Academy of Eolorion.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I have to earn Aramis' trust to get his help in return. He told me that a certain Marlene would have a problem to solve, she is in the kitchen of the Academy of Eolorion.","color":"aqua","bold":false}]}

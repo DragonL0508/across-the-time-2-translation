@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Ithil : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"I know who you are. You're coming for the time gems are'nt you ? My father insisted that I help you... I must warn you : you shall be surprised, even terrified by what's waiting for you.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"I know who you are. You're coming for the time gems are'nt you ? My father insisted that I help you... I must warn you : you shall be surprised, even terrified by what's waiting for you.","color":"dark_aqua"}]}

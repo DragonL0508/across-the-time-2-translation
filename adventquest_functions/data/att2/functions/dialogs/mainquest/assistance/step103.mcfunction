@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"From what Aramis told me, Vonaheim would have made an immense structure wander with the help of his minions. Surely he found the Time gem ... So I have to look for his home. Let's start by taking the west path of Eolorion.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"From what Aramis told me, Vonaheim would have made an immense structure wander with the help of his minions. Surely he found the Time gem ... So I have to look for his home. Let's start by taking the west path of Eolorion.","color":"aqua","bold":false}]}

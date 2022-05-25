@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Emerald : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Did you find her jacket? So this track is the right one. She follows in her mother's footsteps and the trail leads to the Adanoi cemetery near the town of Meleim on the east coast . Maybe we'll cross paths again. Good luck, sir.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Did you find her jacket? So this track is the right one. She follows in her mother's footsteps and the trail leads to the Adanoi cemetery near the town of Meleim on the east coast . Maybe we'll cross paths again. Good luck, sir.","color":"dark_aqua"}]}

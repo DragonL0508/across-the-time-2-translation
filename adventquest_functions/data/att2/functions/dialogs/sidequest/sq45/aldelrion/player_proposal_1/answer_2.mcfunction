@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Aldelrion : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"From me? Not much. But the rewards of life don't always come where we expect them. By helping me voluntarily, you might be surprised.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"From me? Not much. But the rewards of life don't always come where we expect them. By helping me voluntarily, you might be surprised.","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Sylvandre : ","color":"green","e
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Sylvandre : ","color":"green","extra":[{"text":"If Estelle asks you, don't forget to tell her how beneficial this visit has been to you! I'd like her to think more highly of me...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sylvandre : ","color":"green","extra":[{"text":"If Estelle asks you, don't forget to tell her how beneficial this visit has been to you! I'd like her to think more highly of me...","color":"dark_aqua"}]}

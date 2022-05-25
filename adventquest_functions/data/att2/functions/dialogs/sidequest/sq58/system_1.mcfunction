@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Abmup & Nomit regagnent toutes leurs vi
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Abmup & Nomit regains all their lives...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Abmup & Nomit regains all their lives...","color":"gray","italic":true}

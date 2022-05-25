@@ -10,3 +10,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Pas de sort séléctionné...","color":
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"No spell selected...","color":"gray"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"No spell selected...","color":"gray"}

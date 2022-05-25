@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- La légendaire quête de J'zargo -
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 3 -°- : ","color":"gray","extra":[{"text":"I found an emerald, I think it will interest J'zargo. Let's go show him that.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 3 -°- : ","color":"gray","extra":[{"text":"I found an emerald, I think it will interest J'zargo. Let's go show him that.","color":"aqua","italic":true}]}

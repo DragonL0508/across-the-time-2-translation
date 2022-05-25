@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Berni Dalph : ","color":"green","
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Berni Dalph : ","color":"green","extra":[{"text":"No sir, access to the sewers is strictly prohibited, by order of the king...","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Berni Dalph : ","color":"green","extra":[{"text":"No sir, access to the sewers is strictly prohibited, by order of the king...","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq6/berni_dalph/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq6/berni_dalph/player_proposal_1/choice_2

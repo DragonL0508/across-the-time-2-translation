@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Retrouver Mia -°- : ","color":"gr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Find Mia -°- : ","color":"gray","extra":[{"text":"Romuald asked me to find his lost dog. He lost her near Méleïm, I would need to find clues in the city by asking the citizens.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Find Mia -°- : ","color":"gray","extra":[{"text":"Romuald asked me to find his lost dog. He lost her near Méleïm, I would need to find clues in the city by asking the citizens.","color":"aqua","italic":true}]}

@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Linda Shelly : ","color":"green",
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"*In tears* I will not be able to live like this without him...","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"*In tears* I will not be able to live like this without him...","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq42/linda_shelly/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq42/linda_shelly/player_proposal_1/choice_2

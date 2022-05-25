@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Etotsira : ","color":"blue","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"From the source of Dahäl springs power that is not made to be used in this state. The masters of Dahäl receive only a fraction of this power. However, abosorbing this liquid confers capacities exceeding those of a half god.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"From the source of Dahäl springs power that is not made to be used in this state. The masters of Dahäl receive only a fraction of this power. However, abosorbing this liquid confers capacities exceeding those of a half god.","color":"dark_aqua"}]}

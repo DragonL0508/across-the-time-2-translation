@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Very well I must find this Raphael for Marlene. He is in charge of supply and he usually drives from Ryliath to Eolorion. I have to check the main route where I climbed to Eolorion, it may have been attacked or had a problem along the way ...","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Very well I must find this Raphael for Marlene. He is in charge of supply and he usually drives from Ryliath to Eolorion. I have to check the main route where I climbed to Eolorion, it may have been attacked or had a problem along the way ...","color":"aqua","bold":false}]}

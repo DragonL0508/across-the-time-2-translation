@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Lucas : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Lucas : ","color":"green","extra":[{"text":"Not a word, human of Tellurön. Wind doesn't only brings leaves and clouds, the information flies much quickier than we think.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Lucas : ","color":"green","extra":[{"text":"Not a word, human of Tellurön. Wind doesn't only brings leaves and clouds, the information flies much quickier than we think.","color":"dark_aqua"}]}

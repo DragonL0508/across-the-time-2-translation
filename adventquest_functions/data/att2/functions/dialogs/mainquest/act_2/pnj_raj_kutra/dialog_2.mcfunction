@@ -15,6 +15,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Raj Kutra : ","color":"green","ex
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Raj, is that you? I wanted to talk to you about Syri Lorth...","color":"aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Raj, is that you? I wanted to talk to you about Syri Lorth...","color":"aqua"}]}
+
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Raj Kutra : ","color":"green","extra":[{"text":"Ah Syri, isn't she so lovely? Her golden hair floating in the north wind transports me to dreams... ...","color":"dark_aqua"}]}
 
 function att2:dialogs/mainquest/act_2/pnj_raj_kutra/player_answer_proposal_1_1

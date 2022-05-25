@@ -15,3 +15,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Phoebius : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Phoebius : ","color":"green","extra":[{"text":"If it makes you leave our village without causing any problems, I will give it to you. But you will have to face Relgon, because this seal is his property.... I don't wish you good luck, because you won't have any.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Phoebius : ","color":"green","extra":[{"text":"If it makes you leave our village without causing any problems, I will give it to you. But you will have to face Relgon, because this seal is his property.... I don't wish you good luck, because you won't have any.","color":"dark_aqua"}]}

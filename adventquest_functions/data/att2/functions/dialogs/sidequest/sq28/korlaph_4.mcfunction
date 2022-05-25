@@ -17,4 +17,8 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"A.BRA.HA.DA.BRA","obfuscated":true,"col
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"Don't worry, I'm here now!","color":"dark_red"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"Don't worry, I'm here now!","color":"dark_red"}]}
+
 tellraw @a[scores={LANGUAGE=1}] {"text":"A.BRA.HA.DA.BRA","obfuscated":true,"color":"dark_red"}

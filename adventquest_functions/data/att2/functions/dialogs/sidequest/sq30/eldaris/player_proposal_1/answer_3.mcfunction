@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Eldaris : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Eldaris : ","color":"green","extra":[{"text":"Whatever, here's your money... Now go, but don't betray us, or you'll regret it.","bold":false,"color":"gold"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Eldaris : ","color":"green","extra":[{"text":"Whatever, here's your money... Now go, but don't betray us, or you'll regret it.","bold":false,"color":"gold"}]}

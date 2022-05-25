@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[L'évasion du frère Gacko]","color":"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[Brother Gacko's escape]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[Brother Gacko's escape]","color":"gold"}

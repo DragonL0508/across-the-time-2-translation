@@ -15,3 +15,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Brutus : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Brutus : ","color":"green","extra":[{"text":"*Changing voices* Wait! I do not do anything about it, I am not one of them and I do not want any trouble! I'm in exile, you see. You're here to enter the temple, aren't you? Go to the west of the temple, there should be an entrance.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Brutus : ","color":"green","extra":[{"text":"*Changing voices* Wait! I do not do anything about it, I am not one of them and I do not want any trouble! I'm in exile, you see. You're here to enter the temple, aren't you? Go to the west of the temple, there should be an entrance.","color":"dark_aqua"}]}

@@ -18,3 +18,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Capitaine : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Captain : ","color":"green","extra":[{"text":"It's a bunch of skeletons! If you have a bow or know how to use the Dahäl, go to the top of the fortifications from inside the wall!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Captain : ","color":"green","extra":[{"text":"It's a bunch of skeletons! If you have a bow or know how to use the Dahäl, go to the top of the fortifications from inside the wall!","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Derim Kril : ","color":"green","
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Hey thief, we will make you pay for your crimes!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Hey thief, we will make you pay for your crimes!","color":"dark_aqua"}]}

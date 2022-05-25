@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Parfois, il n'y a juste pas assez 
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Sometimes, I guess there's just not enough rocks -°- : ","color":"gray","extra":[{"text":"Babbu gave me a map. It indicates a specific place noted with a cross in the south of the region. I have to go and see what is hidden there.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Sometimes, I guess there's just not enough rocks -°- : ","color":"gray","extra":[{"text":"Babbu gave me a map. It indicates a specific place noted with a cross in the south of the region. I have to go and see what is hidden there.","color":"aqua","italic":true}]}

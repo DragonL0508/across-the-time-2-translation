@@ -10,3 +10,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Vous obtenez ","color":"dark_gray","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"You obtain ","color":"dark_gray","extra":[{"score":{"name":"total","objective":"RECYCLER"},"color":"yellow"},{"text":" chronotons.","color":"dark_gray"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"You obtain ","color":"dark_gray","extra":[{"score":{"name":"total","objective":"RECYCLER"},"color":"yellow"},{"text":" chronotons.","color":"dark_gray"}]}

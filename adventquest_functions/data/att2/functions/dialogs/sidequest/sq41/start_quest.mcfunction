@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[On ne sait jamais sur quoi on va tombe
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[You never know what you're gonna get]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[You never know what you're gonna get]","color":"gold"}

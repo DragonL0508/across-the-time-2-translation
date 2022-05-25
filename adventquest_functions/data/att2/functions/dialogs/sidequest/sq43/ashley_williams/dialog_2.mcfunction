@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Ashley Williams : ","color":"gree
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ashley Williams : ","color":"green","extra":[{"text":"Yes, what do you want?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ashley Williams : ","color":"green","extra":[{"text":"Yes, what do you want?","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq43/ashley_williams/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq43/ashley_williams/player_proposal_1/choice_2

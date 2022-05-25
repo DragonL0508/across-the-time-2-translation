@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Linda Shelly : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"All this money? Are you sure? I don't know how to thank you... It will alleviate many debts. You know, with these Chronotons I will even be able to buy my parents' house. You will always be welcome.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"All this money? Are you sure? I don't know how to thank you... It will alleviate many debts. You know, with these Chronotons I will even be able to buy my parents' house. You will always be welcome.","color":"dark_aqua"}]}

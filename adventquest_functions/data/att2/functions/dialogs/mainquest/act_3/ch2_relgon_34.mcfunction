@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Good. I entrusted the first seal to the chief of a mortal village who remained loyal to us: Phoenix. Just tell him:''I'm going back to Angor'', and he'll entrust it to you. I dissolved the second one in the Angor fortress. Unfortunately, I could not find it, because the mortals who invaded our city had to move him...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Good. I entrusted the first seal to the chief of a mortal village who remained loyal to us: Phoenix. Just tell him:''I'm going back to Angor'', and he'll entrust it to you. I dissolved the second one in the Angor fortress. Unfortunately, I could not find it, because the mortals who invaded our city had to move him...","color":"dark_aqua"}]}

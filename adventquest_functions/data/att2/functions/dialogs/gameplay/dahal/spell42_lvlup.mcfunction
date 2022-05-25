@@ -10,3 +10,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Nouveau niveau débloqué pour Guériso
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"New level unlock for Healing!","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"New level unlock for Healing!","color":"gold"}

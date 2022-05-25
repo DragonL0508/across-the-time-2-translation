@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Eldaris : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Eldaris : ","color":"green","extra":[{"text":"Listen, please, and try to understand. Adrian, my king, excels in his function but in spite of things of much greater importance for his wife...","color":"gold"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Eldaris : ","color":"green","extra":[{"text":"Listen, please, and try to understand. Adrian, my king, excels in his function but in spite of things of much greater importance for his wife...","color":"gold"}]}

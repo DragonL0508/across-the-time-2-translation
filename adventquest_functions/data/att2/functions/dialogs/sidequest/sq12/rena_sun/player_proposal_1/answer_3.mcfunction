@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Rena Sun : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Ah... I don't have much but... I'll give you all my money. Please don't do anything that could damage the temple! There is another way to pass to unlock the door on the other side: you can enter the temple by climbing to the highest point of the fields above, there is an opening to bring rain into the temple.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Ah... I don't have much but... I'll give you all my money. Please don't do anything that could damage the temple! There is another way to pass to unlock the door on the other side: you can enter the temple by climbing to the highest point of the fields above, there is an opening to bring rain into the temple.","color":"dark_aqua"}]}

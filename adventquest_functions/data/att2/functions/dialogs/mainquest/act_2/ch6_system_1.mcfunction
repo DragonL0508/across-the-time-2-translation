@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Vous n'avez pas assez de chronotons..."
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"You don't have enough chronotons...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"You don't have enough chronotons...","color":"gray","italic":true}

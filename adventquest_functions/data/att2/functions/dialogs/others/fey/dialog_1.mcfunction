@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Fey : ","color":"green","extra":[
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Fey : ","color":"green","extra":[{"text":"If you come here to bet, go see my husband. He is at the bottom, after the door just to my left... And if you want to sell your items, I will take them back here!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Fey."}}]}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Fey : ","color":"green","extra":[{"text":"If you come here to bet, go see my husband. He is at the bottom, after the door just to my left... And if you want to sell your items, I will take them back here!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Fey."}}]}]}

@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Gaëlle : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Gaëlle : ","color":"green","extra":[{"text":"Welcome to the bank of Méleïm, you can safely deposit and withdraw your money, here and throughout all our banks across the land. Click on the signs to proceed to the transfers.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Gaëlle : ","color":"green","extra":[{"text":"Welcome to the bank of Méleïm, you can safely deposit and withdraw your money, here and throughout all our banks across the land. Click on the signs to proceed to the transfers.","color":"dark_aqua"}]}

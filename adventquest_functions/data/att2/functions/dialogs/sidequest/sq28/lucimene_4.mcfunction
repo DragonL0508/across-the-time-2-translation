@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Lucimène : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Lucimène : ","color":"green","extra":[{"text":"Who .. Who are these people? *Howl of pain* You can't imagine... the pain I feel...","color":"blue"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Lucimène : ","color":"green","extra":[{"text":"Who .. Who are these people? *Howl of pain* You can't imagine... the pain I feel...","color":"blue"}]}

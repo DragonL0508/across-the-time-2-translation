@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Malak : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"So that's how it is, strangers are really foul pests who only deserve the stick!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"So that's how it is, strangers are really foul pests who only deserve the stick!","color":"dark_aqua"}]}

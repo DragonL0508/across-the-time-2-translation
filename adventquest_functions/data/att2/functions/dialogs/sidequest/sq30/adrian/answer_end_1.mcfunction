@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Adrian : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Adrian : ","color":"green","extra":[{"text":"Well you are here... So these plans were stolen by a simple resident of Ryliath? If I understand correctly, this Jaris wanted to have access to the palace room to steal our most precious possessions... He will therefore be taken to the dungeon... Thanks to you, we were able to settle this matter. Thank you! I would like to offer you a nice reward. Go see the Intendant of our town, his house is next to the blacksmith in front of the paddle wheel. You will not be disappointed to have helped us solve this case!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Adrian : ","color":"green","extra":[{"text":"Well you are here... So these plans were stolen by a simple resident of Ryliath? If I understand correctly, this Jaris wanted to have access to the palace room to steal our most precious possessions... He will therefore be taken to the dungeon... Thanks to you, we were able to settle this matter. Thank you! I would like to offer you a nice reward. Go see the Intendant of our town, his house is next to the blacksmith in front of the paddle wheel. You will not be disappointed to have helped us solve this case!","color":"dark_aqua"}]}

@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Retrouver Mia -°- : ","color":"gr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Find Mia -°- : ","color":"gray","extra":[{"text":"I need to go see Alphonse to get the reward he promised me. After this massacre, I should lie to Romuald about what happened, it's safer.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Find Mia -°- : ","color":"gray","extra":[{"text":"I need to go see Alphonse to get the reward he promised me. After this massacre, I should lie to Romuald about what happened, it's safer.","color":"aqua","italic":true}]}

@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Emerald : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Indeed, it is my daughter : she is still young, I hit the road to find hear. She has always been passionate about finding treasures but she does as she pleases and it will be now four years since she left... However I found a track in a mine not far east of here. Alas, age is catching up to me, so I would like you to take a look. There are surely hidden places where she could sneak. I'm counting on you!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Indeed, it is my daughter : she is still young, I hit the road to find hear. She has always been passionate about finding treasures but she does as she pleases and it will be now four years since she left... However I found a track in a mine not far east of here. Alas, age is catching up to me, so I would like you to take a look. There are surely hidden places where she could sneak. I'm counting on you!","color":"dark_aqua"}]}

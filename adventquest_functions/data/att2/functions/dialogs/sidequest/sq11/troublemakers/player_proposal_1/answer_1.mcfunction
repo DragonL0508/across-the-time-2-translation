@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0},x=-4980,y=82,z=-5027,distance=0..7] {"text":"째-�
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1},x=-4980,y=82,z=-5027,distance=0..7] {"text":" 째-째 Troublemakers : ","color":"green","extra":[{"text":"Haha! Who is this fool? And how dare you give us orders!? Go away if you don't want trouble!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1},x=-4980,y=82,z=-5027,distance=0..7] {"text":" 째-째 Troublemakers : ","color":"green","extra":[{"text":"Haha! Who is this fool? And how dare you give us orders!? Go away if you don't want trouble!","color":"dark_aqua"}]}

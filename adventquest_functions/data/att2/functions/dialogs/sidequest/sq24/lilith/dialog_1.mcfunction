@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Lilith : ","color":"green","extra
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Lilith : ","color":"green","extra":[{"text":"Please, I need help. My horse panicked and with my cart I crashed into a tree that knocked over all my goods. Not only has my horse fled, but my cart has also been destroyed... I don't live very far away, will you help me bring the goods home? I will give you a little something in return...","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Lilith : ","color":"green","extra":[{"text":"Please, I need help. My horse panicked and with my cart I crashed into a tree that knocked over all my goods. Not only has my horse fled, but my cart has also been destroyed... I don't live very far away, will you help me bring the goods home? I will give you a little something in return...","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq24/lilith/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq24/lilith/player_proposal_1/choice_2

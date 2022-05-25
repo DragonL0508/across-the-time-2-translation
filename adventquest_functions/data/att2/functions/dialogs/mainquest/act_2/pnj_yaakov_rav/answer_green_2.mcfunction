@@ -19,6 +19,10 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Yaakov Rav : ","color":"green","e
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Yaakov Rav : ","color":"green","extra":[{"text":"It is said that, in the past, many portals emerged randomly on either side of the dimensions. Some of them were able to be stabilized by former eminent mages in order to connect different regions of Tellurön. In order for the gate to activate, they had to channel the energy necessary for its operation into special stones.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Yaakov Rav : ","color":"green","extra":[{"text":"It is said that, in the past, many portals emerged randomly on either side of the dimensions. Some of them were able to be stabilized by former eminent mages in order to connect different regions of Tellurön. In order for the gate to activate, they had to channel the energy necessary for its operation into special stones.","color":"dark_aqua"}]}
+
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Yaakov Rav : ","color":"green","extra":[{"text":"Unfortunately, they have been scattered all over the world, or even lost. However, it is said that the portal could work, even with fragments of these stones. These are also called ''gem of space''. If you are interested in using the portal of Ryliath then you will need at least three gems to make it work...","color":"dark_aqua"}]}
 
 

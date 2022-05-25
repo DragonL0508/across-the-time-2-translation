@@ -13,5 +13,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Chiara : ","color":"green","extra
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Heck, still you?!","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Heck, still you?!","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq20/chiara/player_proposal_3/choice_2

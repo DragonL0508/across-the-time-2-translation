@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Un malheureux accrochage -°- : ",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- An unfortunate incident -°- : ","color":"gray","extra":[{"text":"A young woman, Lilith, seems to have hit something and destroyed her cart carrying merchandise. She asked me to help her carry the rest home, I have to join her by following the muddy path and drop everything there.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- An unfortunate incident -°- : ","color":"gray","extra":[{"text":"A young woman, Lilith, seems to have hit something and destroyed her cart carrying merchandise. She asked me to help her carry the rest home, I have to join her by following the muddy path and drop everything there.","color":"aqua","italic":true}]}

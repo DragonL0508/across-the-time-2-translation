@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Marlène : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Marlène : ","color":"green","extra":[{"text":"Boudiou, what do you want me to do with your money? In Eolorion we don't feed on coins and that's not what's going to bring Raphael back to us.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Marlène : ","color":"green","extra":[{"text":"Boudiou, what do you want me to do with your money? In Eolorion we don't feed on coins and that's not what's going to bring Raphael back to us.","color":"dark_aqua"}]}

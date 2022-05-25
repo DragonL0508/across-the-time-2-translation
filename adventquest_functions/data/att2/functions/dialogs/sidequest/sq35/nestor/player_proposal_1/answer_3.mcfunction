@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Nestor : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nestor : ","color":"green","extra":[{"text":"You are getting straight to the point and I will do the same. However, a thousand Chronotons is not within my means. This is precisely part of my problem... The filth of bandits have settled in my area and stolen almost everything. But if you get rid of them then I will give you the rest of my savings, i.e. 500 Chronotons.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nestor : ","color":"green","extra":[{"text":"You are getting straight to the point and I will do the same. However, a thousand Chronotons is not within my means. This is precisely part of my problem... The filth of bandits have settled in my area and stolen almost everything. But if you get rid of them then I will give you the rest of my savings, i.e. 500 Chronotons.","color":"dark_aqua"}]}

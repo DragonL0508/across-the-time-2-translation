@@ -13,3 +13,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"-°- Retrouver Mia -°- : ","color":"gr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"-°- Find Mia -°- : ","color":"gray","extra":[{"text":"It's not complicated, I need to bring Mia and her puppies to Romuald in Ryliath, waiting in the tavern.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Find Mia -°- : ","color":"gray","extra":[{"text":"It's not complicated, I need to bring Mia and her puppies to Romuald in Ryliath, waiting in the tavern.","color":"aqua","italic":true}]}

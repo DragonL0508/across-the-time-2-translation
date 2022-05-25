@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- La légendaire quête de J'zargo -
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 3 -°- : ","color":"gray","extra":[{"text":"Luckily I'm here... Well, I have to find one more item J'zargo covets in these places far from Billgart.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 3 -°- : ","color":"gray","extra":[{"text":"Luckily I'm here... Well, I have to find one more item J'zargo covets in these places far from Billgart.","color":"aqua","italic":true}]}

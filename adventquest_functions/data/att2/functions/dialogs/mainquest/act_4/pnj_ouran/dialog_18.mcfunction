@@ -20,3 +20,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Ouran : ","color":"gold","extra":
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Ouran : ","color":"gold","extra":[{"text":"In that case, take the gem, it's yours. But don't you think about coming back without this princess's head with you...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ouran : ","color":"gold","extra":[{"text":"In that case, take the gem, it's yours. But don't you think about coming back without this princess's head with you...","color":"dark_aqua"}]}

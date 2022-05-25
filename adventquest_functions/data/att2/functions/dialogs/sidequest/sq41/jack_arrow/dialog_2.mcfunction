@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Jack Arrow : ","color":"green","e
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jack Arrow : ","color":"green","extra":[{"text":"Don't stay around. Even though i'm neutral in every conflict, my acolytes are far from being the same, especially in this place!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jack Arrow : ","color":"green","extra":[{"text":"Don't stay around. Even though i'm neutral in every conflict, my acolytes are far from being the same, especially in this place!","color":"dark_aqua"}]}

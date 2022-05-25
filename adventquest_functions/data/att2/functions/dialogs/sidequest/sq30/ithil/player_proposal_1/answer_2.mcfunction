@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Jaris : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"I don't know how to thank you! Here they are!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"I don't know how to thank you! Here they are!","color":"dark_aqua"}]}

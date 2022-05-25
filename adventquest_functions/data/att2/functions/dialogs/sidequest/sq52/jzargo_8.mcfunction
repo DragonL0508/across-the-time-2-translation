@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"The master and his pupil are at the feet of this sand ocean. An impressive landscape, much more than J'zargo expected it to be.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"The master and his pupil are at the feet of this sand ocean. An impressive landscape, much more than J'zargo expected it to be.","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Triss : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"Of course, I had protected him from vicious murderers like you. But It might be too naive to believe tolerance resides in everyone's heart.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"Of course, I had protected him from vicious murderers like you. But It might be too naive to believe tolerance resides in everyone's heart.","color":"dark_aqua"}]}

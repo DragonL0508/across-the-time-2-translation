@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Vous n'avez pas d'éclat épique sur vo
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"You don't have epic sparkle!","color":"gray"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"You don't have epic sparkle!","color":"gray"}

@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Placez vos marchandises sur le comptoir
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Place your goods on the counter....","color":"gray"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Place your goods on the counter....","color":"gray"}

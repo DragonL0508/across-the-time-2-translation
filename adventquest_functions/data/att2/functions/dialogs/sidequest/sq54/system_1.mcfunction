@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Blobby regagne toutes ses vies...","col
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Blobby regains all his lives...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Blobby regains all his lives...","color":"gray","italic":true}

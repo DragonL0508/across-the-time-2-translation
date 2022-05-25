@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Intendant Joffrey : ","color":"gr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Intendant Joffrey : ","color":"green","extra":[{"text":"Hello, I am the steward of the city of Ryliath. I take care of everything that concerns administration here. If you're looking for a real adventure, you'll find it here... ... ... .. . I envy you so much traveller!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Intendant Joffrey : ","color":"green","extra":[{"text":"Hello, I am the steward of the city of Ryliath. I take care of everything that concerns administration here. If you're looking for a real adventure, you'll find it here... ... ... .. . I envy you so much traveller!","color":"dark_aqua"}]}

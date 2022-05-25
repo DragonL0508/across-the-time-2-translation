@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Salma Neyith : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Salma Neyith : ","color":"green","extra":[{"text":"Sorry, but I can't do anything for you if you don't have enough Chronotons.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Salma Neyith : ","color":"green","extra":[{"text":"Sorry, but I can't do anything for you if you don't have enough Chronotons.","color":"dark_aqua"}]}

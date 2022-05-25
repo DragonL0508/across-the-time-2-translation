@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Gaëlle : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Gaëlle : ","color":"green","extra":[{"text":"Welcome to the Kortaek bank, you can safely deposit your money and of course you can withdraw it at any time here. Click on the panels to proceed with the transfers.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Gaëlle : ","color":"green","extra":[{"text":"Welcome to the Kortaek bank, you can safely deposit your money and of course you can withdraw it at any time here. Click on the panels to proceed with the transfers.","color":"dark_aqua"}]}

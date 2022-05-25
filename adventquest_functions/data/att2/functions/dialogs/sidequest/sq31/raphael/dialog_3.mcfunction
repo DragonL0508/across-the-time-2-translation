@@ -15,6 +15,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Raphaël : ","color":"green","ex
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Indeed, I need your cargo to arrive at Eolorion.","color":"aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Indeed, I need your cargo to arrive at Eolorion.","color":"aqua"}]}
+
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Raphaël : ","color":"green","extra":[{"text":"So take a crate with you, it will allow them to last a couple of extra days.","color":"dark_aqua"}]}
 
 

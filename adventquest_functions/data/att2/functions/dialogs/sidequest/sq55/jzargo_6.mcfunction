@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Did the pupil came to apologize to J'zargo? Oh, yes, here is the last artifact j'zargo was looking for. There, his journey is coming to an end!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Did the pupil came to apologize to J'zargo? Oh, yes, here is the last artifact j'zargo was looking for. There, his journey is coming to an end!","color":"dark_aqua"}]}

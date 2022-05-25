@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Patrick Corth : ","color":"green"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Patrick Corth : ","color":"green","extra":[{"text":"I already adore you! You will not need to cut wood, just go to Jarat camp, he will give you the 16 logs he promised me.","bold":false,"color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Patrick Corth : ","color":"green","extra":[{"text":"I already adore you! You will not need to cut wood, just go to Jarat camp, he will give you the 16 logs he promised me.","bold":false,"color":"dark_aqua"}]}

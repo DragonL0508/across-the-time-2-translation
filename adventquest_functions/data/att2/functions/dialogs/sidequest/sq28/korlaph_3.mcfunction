@@ -17,4 +17,8 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Korlaph : ","color":"green","extr
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"Let me show you why I brought you here...","color":"dark_red"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"Let me show you why I brought you here...","color":"dark_red"}]}
+
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Korlaph : ","color":"green","extra":[{"text":"...ABRAXAM ! ABRA..HA..DA...","color":"dark_red","obfuscated":true}]}

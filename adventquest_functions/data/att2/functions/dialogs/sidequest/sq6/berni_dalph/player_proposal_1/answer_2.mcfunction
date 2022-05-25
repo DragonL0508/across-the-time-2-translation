@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Berni Dalph : ","color":"green","
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Berni Dalph : ","color":"green","extra":[{"text":"Let's say it will help, but if you get caught, don't say I let you pass.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Berni Dalph : ","color":"green","extra":[{"text":"Let's say it will help, but if you get caught, don't say I let you pass.","color":"dark_aqua"}]}

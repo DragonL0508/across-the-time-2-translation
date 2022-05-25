@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Le Gardien se retire...","color":"gray"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"The Guardian goes away...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"The Guardian goes away...","color":"gray","italic":true}

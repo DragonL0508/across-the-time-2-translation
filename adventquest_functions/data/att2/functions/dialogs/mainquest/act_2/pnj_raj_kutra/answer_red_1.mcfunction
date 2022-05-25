@@ -17,3 +17,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Raj Kutra : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Raj Kutra : ","color":"green","extra":[{"text":"What, what?! No, wait, it can only be a misunderstanding! DON'T KILL ME, PLEASE!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Raj Kutra : ","color":"green","extra":[{"text":"What, what?! No, wait, it can only be a misunderstanding! DON'T KILL ME, PLEASE!","color":"dark_aqua"}]}

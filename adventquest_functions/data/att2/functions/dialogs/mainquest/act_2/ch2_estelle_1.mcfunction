@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Estelle : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Estelle : ","color":"green","extra":[{"text":"For sure, I'd have fun, but with an irresponsible and selfish waiter, I doubt it...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Estelle : ","color":"green","extra":[{"text":"For sure, I'd have fun, but with an irresponsible and selfish waiter, I doubt it...","color":"dark_aqua"}]}

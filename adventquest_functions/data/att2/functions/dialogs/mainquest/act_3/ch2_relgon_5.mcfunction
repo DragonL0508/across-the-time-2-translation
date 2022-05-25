@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"From Tellurön?..... I present to you Etotsira, wise and warrior who comes to us from the same world. I still don't know your ancestry, but if it is similar to his, your help will not be too much.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"From Tellurön?..... I present to you Etotsira, wise and warrior who comes to us from the same world. I still don't know your ancestry, but if it is similar to his, your help will not be too much.","color":"dark_aqua"}]}

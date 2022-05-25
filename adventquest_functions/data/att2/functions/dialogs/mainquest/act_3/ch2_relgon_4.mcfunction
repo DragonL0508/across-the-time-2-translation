@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Relgon : ","color":"red","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"*Without enthusiasm, seriously* Welcome traveller. I am Relgon, General of the Eternäns armies and representative of the throne of Angband. What is your name and what kingdom do you come from?","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"*Without enthusiasm, seriously* Welcome traveller. I am Relgon, General of the Eternäns armies and representative of the throne of Angband. What is your name and what kingdom do you come from?","color":"dark_aqua"}]}

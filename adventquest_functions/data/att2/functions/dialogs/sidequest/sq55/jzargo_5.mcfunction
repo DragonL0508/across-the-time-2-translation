@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Now that is done. J'zargo is cold, he will continue his studies lower in the mountain. Now, the pupil gets along without him.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Now that is done. J'zargo is cold, he will continue his studies lower in the mountain. Now, the pupil gets along without him.","color":"dark_aqua"}]}

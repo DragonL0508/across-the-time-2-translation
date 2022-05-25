@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"[L'ultime challenge]","color":"gold"}
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[The ultimate challenge]","color":"gold"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"[The ultimate challenge]","color":"gold"}

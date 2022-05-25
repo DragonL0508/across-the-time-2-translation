@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Le périple d'Emerald -°- : ","co
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The journey of Emerald -°- : ","color":"gray","extra":[{"text":"Apparently Emerald thinks his daughter went to the Adanoi Cemetery near Meleim.... I absolutely must join Emerald there to continue to help him...","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The journey of Emerald -°- : ","color":"gray","extra":[{"text":"Apparently Emerald thinks his daughter went to the Adanoi Cemetery near Meleim.... I absolutely must join Emerald there to continue to help him...","color":"aqua","italic":true}]}

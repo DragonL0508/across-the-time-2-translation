@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Violette : ","color":"green","ext
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Violette : ","color":"green","extra":[{"text":"My parents left me a fairly large fortune, so I can give you Chronotons in return.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Violette : ","color":"green","extra":[{"text":"My parents left me a fairly large fortune, so I can give you Chronotons in return.","color":"dark_aqua"}]}

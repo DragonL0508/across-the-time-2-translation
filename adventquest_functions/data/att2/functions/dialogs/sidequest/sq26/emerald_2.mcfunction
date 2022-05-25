@@ -12,3 +12,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Emerald : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Yes, only she would venture into a place like that! We're further away from finding her! I am going to Méleïm to question the inhabitants. Perhaps some would have seen her recently...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"Yes, only she would venture into a place like that! We're further away from finding her! I am going to Méleïm to question the inhabitants. Perhaps some would have seen her recently...","color":"dark_aqua"}]}

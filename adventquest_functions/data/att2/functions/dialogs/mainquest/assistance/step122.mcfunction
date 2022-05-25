@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"According to Ithil there would be time gems in other dimensions. She opened the way for me to the portal of Billgart being at the top of the palace of Ryliath at the edge of the waterfall.","color":"aqua","bold":false}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"According to Ithil there would be time gems in other dimensions. She opened the way for me to the portal of Billgart being at the top of the palace of Ryliath at the edge of the waterfall.","color":"aqua","bold":false}]}

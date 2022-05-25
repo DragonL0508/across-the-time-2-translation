@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° J'zargo : ","color":"green","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"The pupil is lucky, he does not realize it yet hence he is too idiotic. J'zargo will not lose time explaining his discovery to him, since he would forget it all. ","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"The pupil is lucky, he does not realize it yet hence he is too idiotic. J'zargo will not lose time explaining his discovery to him, since he would forget it all. ","color":"dark_aqua"}]}

@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Raj Kutra : ","color":"green","ex
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Raj Kutra : ","color":"green","extra":[{"text":"Sincerely greeting! What do you want strange traveller? A cup of tea maybe? But come on, sit down! Visits don't overwhelm me, especially since I don't have enough to be satisfied with them.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Raj Kutra : ","color":"green","extra":[{"text":"Sincerely greeting! What do you want strange traveller? A cup of tea maybe? But come on, sit down! Visits don't overwhelm me, especially since I don't have enough to be satisfied with them.","color":"dark_aqua"}]}

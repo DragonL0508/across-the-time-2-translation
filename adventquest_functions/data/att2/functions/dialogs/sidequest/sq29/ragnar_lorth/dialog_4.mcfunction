@@ -13,6 +13,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Ragnar Lorth : ","color":"green",
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"Back in Méleïm? Well you came back at the right time, indeed I have a quest to offer you. We have recently had thefts and attacks on the transport of goods around the Elvetta forest. Despite the competence of my men, some brigands give us a hard time. Would you be willing to help us clear their camps?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"Back in Méleïm? Well you came back at the right time, indeed I have a quest to offer you. We have recently had thefts and attacks on the transport of goods around the Elvetta forest. Despite the competence of my men, some brigands give us a hard time. Would you be willing to help us clear their camps?","color":"dark_aqua"}]}
+
 
 function att2:dialogs/sidequest/sq29/ragnar_lorth/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq29/ragnar_lorth/player_proposal_1/choice_2

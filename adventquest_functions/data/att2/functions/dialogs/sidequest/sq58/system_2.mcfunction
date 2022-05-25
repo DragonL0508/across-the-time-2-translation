@@ -14,3 +14,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Hive regagne toutes ses vies...","color
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"Hive regains all his lives...","color":"gray","italic":true}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"Hive regains all his lives...","color":"gray","italic":true}

@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- La légendaire quête de J'zargo -
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 1 -°- : ","color":"gray","extra":[{"text":"A bone with engravings, I surely found what J'zargo was looking for. Let's go bring it back to him.","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 1 -°- : ","color":"gray","extra":[{"text":"A bone with engravings, I surely found what J'zargo was looking for. Let's go bring it back to him.","color":"aqua","italic":true}]}

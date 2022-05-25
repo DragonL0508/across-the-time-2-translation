@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"Je ne peux rien faire avec ça !","colo
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"I can't do anything with this!","color":"gray"}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"I can't do anything with this!","color":"gray"}

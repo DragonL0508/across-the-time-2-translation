@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Commandant Trevor : ","color":"gr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"°-° Commandant Trevor : ","color":"green","extra":[{"text":"... unannounced visits ... I wish you, more than once a moon, my dear ... What!? Who are you!? And how did you get here?!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Commandant Trevor : ","color":"green","extra":[{"text":"... unannounced visits ... I wish you, more than once a moon, my dear ... What!? Who are you!? And how did you get here?!","color":"dark_aqua"}]}

@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Gonon : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Gonon : ","color":"green","extra":[{"text":"Did you sleep well? If you're looking for equipment or work... I'd advise you go to Ryliath. Follow the dirt road in front of my inn, it'll guide you there.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Gonon : ","color":"green","extra":[{"text":"Did you sleep well? If you're looking for equipment or work... I'd advise you go to Ryliath. Follow the dirt road in front of my inn, it'll guide you there.","color":"dark_aqua"}]}

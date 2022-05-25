@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0,NUMEROJOUEUR=1}] {"text":" °-° Gaya : ","color":
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1,NUMEROJOUEUR=1}] {"text":" °-° Gaya : ","color":"dark_green","extra":[{"text":"Don't worry, your identity is yours. There is nothing to force you to take up Relgon's duty or punishment.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=1,NUMEROJOUEUR=1}] {"text":" °-° Gaya : ","color":"dark_green","extra":[{"text":"Don't worry, your identity is yours. There is nothing to force you to take up Relgon's duty or punishment.","color":"dark_aqua"}]}

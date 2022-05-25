@@ -15,6 +15,10 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Sylvandre : ","color":"green","ex
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"You always come at the right time don't you!","color":"aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"You always come at the right time don't you!","color":"aqua"}]}
+
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Sylvandre : ","color":"green","extra":[{"text":"Ahah, Sylvandre, always ready to help!","color":"dark_aqua"}]}
 
 

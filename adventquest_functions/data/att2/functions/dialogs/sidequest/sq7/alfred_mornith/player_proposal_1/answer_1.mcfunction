@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Alfred Mornith : ","color":"gree
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alfred Mornith : ","color":"green","extra":[{"text":"The collapse occurred on our lowest entry. We have explosives, enough to blow everything up. The problem is that we need more wicks. I have a few left in this trunk, behind me, but it won't be enough. Well, there are plenty in the mines so when you have enough, go to the collapsed entrance, use the wick and set off the explosion.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alfred Mornith : ","color":"green","extra":[{"text":"The collapse occurred on our lowest entry. We have explosives, enough to blow everything up. The problem is that we need more wicks. I have a few left in this trunk, behind me, but it won't be enough. Well, there are plenty in the mines so when you have enough, go to the collapsed entrance, use the wick and set off the explosion.","color":"dark_aqua"}]}

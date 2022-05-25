@@ -13,5 +13,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":" °-° Aramis : ","color":"green","extr
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"Did you find the gem?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"Did you find the gem?","color":"dark_aqua"}]}
+
 
 function att2:dialogs/others/aramis/player_answer_proposal_4

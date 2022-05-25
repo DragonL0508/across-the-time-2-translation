@@ -15,3 +15,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"< ","color":"dark_red","extra":[{"text"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"< ","color":"dark_red","extra":[{"text":"Quest Failed","color":"red"},{"text":" >","color":"dark_red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"< ","color":"dark_red","extra":[{"text":"Quest Failed","color":"red"},{"text":" >","color":"dark_red"}]}

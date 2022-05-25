@@ -15,5 +15,9 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Brutus : ","color":"green","extra
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Brutus : ","color":"green","extra":[{"text":"*Whispering! Tell me about it! I'm not the kind of person who actually hits people.... But let me help you: to the west of the village, there is a grove cluttered with vegetation.","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Brutus : ","color":"green","extra":[{"text":"*Whispering! Tell me about it! I'm not the kind of person who actually hits people.... But let me help you: to the west of the village, there is a grove cluttered with vegetation.","color":"dark_aqua"}]}
+
 
 function att2:dialogs/mainquest/act_2/pnj_brutus/answer_end_1

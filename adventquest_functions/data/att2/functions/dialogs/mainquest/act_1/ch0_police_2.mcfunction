@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"(-)=(-) Police : ","color":"gray","extr
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":"(-)=(-) Police : ","color":"gray","extra":[{"text":"THE PARLIAMENT IS SURROUNDED!! YOU CANNOT ESCAPE..! EXIT THE BUILDING AND PUT YOUR HANDS IN THE AIR!!","color":"dark_red"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":"(-)=(-) Police : ","color":"gray","extra":[{"text":"THE PARLIAMENT IS SURROUNDED!! YOU CANNOT ESCAPE..! EXIT THE BUILDING AND PUT YOUR HANDS IN THE AIR!!","color":"dark_red"}]}

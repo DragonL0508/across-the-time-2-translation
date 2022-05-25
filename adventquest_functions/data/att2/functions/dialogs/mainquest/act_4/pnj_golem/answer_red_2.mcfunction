@@ -19,3 +19,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":"°-° Golem : ","color":"green","extra"
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"So, eye of metal being will melt him. Little flesh being's carbonized flesh will wait with him, until the end.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"So, eye of metal being will melt him. Little flesh being's carbonized flesh will wait with him, until the end.","color":"dark_aqua"}]}

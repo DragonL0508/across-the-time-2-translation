@@ -13,3 +13,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"-°- Une ville dans le besoin -°- : ",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Town in Need -°- : ","color":"gray","extra":[{"text":"I found Raphaël, he is alive but his cart is broken and wolves attacked him. Fortunately he was able to take refuge at the height of the stream, I should help him !","color":"aqua","italic":true}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Town in Need -°- : ","color":"gray","extra":[{"text":"I found Raphaël, he is alive but his cart is broken and wolves attacked him. Fortunately he was able to take refuge at the height of the stream, I should help him !","color":"aqua","italic":true}]}

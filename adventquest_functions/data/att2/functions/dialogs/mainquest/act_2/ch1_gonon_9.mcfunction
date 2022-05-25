@@ -14,3 +14,7 @@ tellraw @a[scores={LANGUAGE=0}] {"text":" °-° Gonon : ","color":"green","extra
 #ENGLISH LANGUAGE
 
 tellraw @a[scores={LANGUAGE=1}] {"text":" °-° Gonon : ","color":"green","extra":[{"text":"Here, drink this broth, it'll give you strength. I'll open the entrance to the cave for you, go behind the counter.","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Gonon : ","color":"green","extra":[{"text":"Here, drink this broth, it'll give you strength. I'll open the entrance to the cave for you, go behind the counter.","color":"dark_aqua"}]}

@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Ragnar Lorth : ","color":"green",
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"So did you find these brigands? So look for their camp in the birch forest, there should be a few. Destroy them and we don't talk about them anymore!","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"So did you find these brigands? So look for their camp in the birch forest, there should be a few. Destroy them and we don't talk about them anymore!","color":"dark_aqua"}]}

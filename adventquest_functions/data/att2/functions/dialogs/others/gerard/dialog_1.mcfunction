@@ -13,5 +13,9 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Gerard : ","color":"green","extra
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gerard : ","color":"green","extra":[{"text":"Another stranger in my house? Since this portal was opened, there are plenty of foreigners here now. But wait a moment, I hope you are not responsible for opening the portal right?","color":"dark_aqua"}]}
 
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gerard : ","color":"green","extra":[{"text":"Another stranger in my house? Since this portal was opened, there are plenty of foreigners here now. But wait a moment, I hope you are not responsible for opening the portal right?","color":"dark_aqua"}]}
+
 
 function att2:dialogs/others/gerard/player_answer_proposal_1

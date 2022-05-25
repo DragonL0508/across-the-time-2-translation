@@ -12,3 +12,7 @@ tellraw @s[scores={LANGUAGE=0}] {"text":"°-° Semeurs de troubles : ","color":"
 #ENGLISH LANGUAGE
 
 tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Troublemakers : ","color":"green","extra":[{"text":"Wait, wait! Okay, okay, guys let's go. But you will not always be there to protect this idiot tavern keeper...","color":"dark_aqua"}]}
+
+#TRADITIONAL CHINESE
+
+tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Troublemakers : ","color":"green","extra":[{"text":"Wait, wait! Okay, okay, guys let's go. But you will not always be there to protect this idiot tavern keeper...","color":"dark_aqua"}]}
