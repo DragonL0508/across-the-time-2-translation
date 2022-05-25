@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"I don't know how to thank you! Here they are!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"I don't know how to thank you! Here they are!","color":"dark_aqua"}]}

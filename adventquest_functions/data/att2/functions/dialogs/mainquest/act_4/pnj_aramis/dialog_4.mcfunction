@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"Be careful, these mountaines can conceal terrible secrets...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"Be careful, these mountaines can conceal terrible secrets...","color":"dark_aqua"}]}

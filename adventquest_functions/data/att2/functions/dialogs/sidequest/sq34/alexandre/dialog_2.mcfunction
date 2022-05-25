@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alexandre : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alexandre : ","color":"green","extra":[{"text":"So, are you helping me get back to the job site with the cargo?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alexandre : ","color":"green","extra":[{"text":"So, are you helping me get back to the job site with the cargo?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq34/alexandre/player_proposal_2/choice_1

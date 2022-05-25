@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Mysterious Theft -°- : ","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Mysterious Theft -°- : ","color":"gray","extra":[{"text":"Well, I'd better go back to see the king to learn more about the secrets of the place. I'll probably find better clues.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A Mysterious Theft -°- : ","color":"gray","extra":[{"text":"Well, I'd better go back to see the king to learn more about the secrets of the place. I'll probably find better clues.","color":"aqua","italic":true}]}

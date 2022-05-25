@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Hi you. I wanted to thank you for letting me live here. It is a beautiful village and so peaceful...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Hi you. I wanted to thank you for letting me live here. It is a beautiful village and so peaceful...","color":"dark_aqua"}]}

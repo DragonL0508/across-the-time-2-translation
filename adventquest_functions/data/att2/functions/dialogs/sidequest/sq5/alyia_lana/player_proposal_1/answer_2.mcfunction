@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alyia Lana : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alyia Lana : ","color":"green","extra":[{"text":"Ah yes, Mia, his dog... I have not seen her, but I heard that a dog wanders on the quays. Farmers have also had a lot of disappearances in their livestock, an animal must have attacked their hutches and stolen rabbits... You can probably start there, the farms are above the village.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alyia Lana : ","color":"green","extra":[{"text":"Ah yes, Mia, his dog... I have not seen her, but I heard that a dog wanders on the quays. Farmers have also had a lot of disappearances in their livestock, an animal must have attacked their hutches and stolen rabbits... You can probably start there, the farms are above the village.","color":"dark_aqua"}]}

@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The west wing of the dungeon is almost accessible. Come on, I feel like I'm getting to the point!","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The west wing of the dungeon is almost accessible. Come on, I feel like I'm getting to the point!","color":"aqua","bold":false}]}

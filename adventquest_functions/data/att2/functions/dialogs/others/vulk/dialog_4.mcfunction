@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Vulk : ","color":"green","extra":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Vulk : ","color":"green","extra":[{"text":"Hey there, how are you? Since you brought me this strange mace, I have found a way to create other weapons of the same kind. So don't hesitate to look at what I have in stock.","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/vulk_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Vulk is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Vulk : ","color":"green","extra":[{"text":"Hey there, how are you? Since you brought me this strange mace, I have found a way to create other weapons of the same kind. So don't hesitate to look at what I have in stock.","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/vulk_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Vulk is selling."}}]}]}
 
 
 

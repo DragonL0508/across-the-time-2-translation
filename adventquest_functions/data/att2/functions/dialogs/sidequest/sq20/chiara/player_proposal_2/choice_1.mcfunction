@@ -14,4 +14,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Let's see... [Kick the wall] -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute if entity @a[x=-5063,y=92,z=-4957,distance=..5,gamemode=adventure] run function att2:cinematic/sidequest/20/bankwall_breaking"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Let's see... [Kick the wall] -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute if entity @a[x=-5063,y=92,z=-4957,distance=..5,gamemode=adventure] run function att2:cinematic/sidequest/20/bankwall_breaking"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}

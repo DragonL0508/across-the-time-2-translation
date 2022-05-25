@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Babbu : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Babbu : ","color":"green","extra":[{"text":"It's an old map I caught off the coast of Asunark. It seems to indicate a place in the southern region, I kept it hoping to sell it, but you can have it. I owe you at least this.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Babbu : ","color":"green","extra":[{"text":"It's an old map I caught off the coast of Asunark. It seems to indicate a place in the southern region, I kept it hoping to sell it, but you can have it. I owe you at least this.","color":"dark_aqua"}]}

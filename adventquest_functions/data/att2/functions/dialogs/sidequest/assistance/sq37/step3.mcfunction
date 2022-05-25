@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Budding archaeologist -°- : ","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Budding archaeologist -°- : ","color":"gray","extra":[{"text":"Walton was looking for the artifact I found in the catacombs of Eol Cemetery. He seemed to know how and where to use it. He told me to find him in the ruins of Schestrown north of the Owsästr swamp.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Budding archaeologist -°- : ","color":"gray","extra":[{"text":"Walton was looking for the artifact I found in the catacombs of Eol Cemetery. He seemed to know how and where to use it. He told me to find him in the ruins of Schestrown north of the Owsästr swamp.","color":"aqua","italic":true}]}

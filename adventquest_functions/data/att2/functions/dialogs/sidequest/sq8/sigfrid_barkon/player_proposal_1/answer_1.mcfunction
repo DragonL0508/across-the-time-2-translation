@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sigfrid Barkon : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sigfrid Barkon : ","color":"green","extra":[{"text":"The beef is in my cellar, there must be eight slices in my chests. Transport it to the tavern of Méleïm. And don't touch the meat, if there is one missing, you won't be paid! Have a good trip, come back to me when it is done!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sigfrid Barkon : ","color":"green","extra":[{"text":"The beef is in my cellar, there must be eight slices in my chests. Transport it to the tavern of Méleïm. And don't touch the meat, if there is one missing, you won't be paid! Have a good trip, come back to me when it is done!","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Samal Eph : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Samal Eph : ","color":"green","extra":[{"text":"I am eternally grateful to you, without you I would have died...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Samal Eph : ","color":"green","extra":[{"text":"I am eternally grateful to you, without you I would have died...","color":"dark_aqua"}]}

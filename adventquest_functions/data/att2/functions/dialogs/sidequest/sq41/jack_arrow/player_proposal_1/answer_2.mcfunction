@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jack Arrow : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jack Arrow : ","color":"green","extra":[{"text":"You will find no treasure here... You are standing in the lair of former sailor and soldiers who've chosen to live a life of liberty.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Jack Arrow : ","color":"green","extra":[{"text":"You will find no treasure here... You are standing in the lair of former sailor and soldiers who've chosen to live a life of liberty.","color":"dark_aqua"}]}

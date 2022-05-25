@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- You never know what you're gonna g
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- You never know what you're gonna get -°- : ","color":"gray","extra":[{"text":"Here we are, now the secret passage open, I will be able to infiltrate inside the lair and finally find a priceless treasure worthy of the name!","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- You never know what you're gonna get -°- : ","color":"gray","extra":[{"text":"Here we are, now the secret passage open, I will be able to infiltrate inside the lair and finally find a priceless treasure worthy of the name!","color":"aqua","italic":true}]}

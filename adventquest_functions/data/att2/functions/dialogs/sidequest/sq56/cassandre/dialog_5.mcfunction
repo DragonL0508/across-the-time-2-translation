@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Cassandre : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"I love watching snow falling outside, it makes me realize how comfortable I am...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"I love watching snow falling outside, it makes me realize how comfortable I am...","color":"dark_aqua"}]}

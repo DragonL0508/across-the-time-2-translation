@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Okay, the bridge seems to activate with a mechanism, I will have to take the opposite path to hopefully find what will make it work.","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Okay, the bridge seems to activate with a mechanism, I will have to take the opposite path to hopefully find what will make it work.","color":"aqua","bold":false}]}

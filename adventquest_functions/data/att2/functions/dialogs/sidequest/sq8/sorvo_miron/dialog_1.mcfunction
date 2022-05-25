@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sorvo Miron : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sorvo Miron : ","color":"green","extra":[{"text":"Hello, I'm Sorvo, tavern keeper of Méleïm, what do you want my good sir?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sorvo Miron : ","color":"green","extra":[{"text":"Hello, I'm Sorvo, tavern keeper of Méleïm, what do you want my good sir?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq8/sorvo_miron/player_proposal_1/choice_1

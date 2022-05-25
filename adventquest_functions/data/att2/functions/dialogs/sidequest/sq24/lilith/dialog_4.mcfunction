@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Lilith : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Lilith : ","color":"green","extra":[{"text":"Thank you very much, go to my house right there, inside is a nice reward.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Lilith : ","color":"green","extra":[{"text":"Thank you very much, go to my house right there, inside is a nice reward.","color":"dark_aqua"}]}

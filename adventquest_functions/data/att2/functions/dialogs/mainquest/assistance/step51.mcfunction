@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I can now go to Earndhel and finish Etotsira. If I remember correctly, his house is a little isolated from the village and is at the northern end of the bridge.","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I can now go to Earndhel and finish Etotsira. If I remember correctly, his house is a little isolated from the village and is at the northern end of the bridge.","color":"aqua","bold":false}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Miguel : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Miguel : ","color":"green","extra":[{"text":"If you have items of good quality to get rid of, I will take them for Chronotons!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Miguel."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Miguel : ","color":"green","extra":[{"text":"If you have items of good quality to get rid of, I will take them for Chronotons!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Miguel."}}]}]}

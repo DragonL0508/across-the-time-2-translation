@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Captain : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Captain : ","color":"green","extra":[{"text":"Finished? We have to make sure that the enemies have all been eliminated. If you don't mind going a little further up the road....","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Captain : ","color":"green","extra":[{"text":"Finished? We have to make sure that the enemies have all been eliminated. If you don't mind going a little further up the road....","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Walton Jones : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Walton Jones : ","color":"green","extra":[{"text":"Hmmm, do you need information that only I have? So get rid of all those monsters and I'll take a look at your ''thing''...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Walton Jones : ","color":"green","extra":[{"text":"Hmmm, do you need information that only I have? So get rid of all those monsters and I'll take a look at your ''thing''...","color":"dark_aqua"}]}

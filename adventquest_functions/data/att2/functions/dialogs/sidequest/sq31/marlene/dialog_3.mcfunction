@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Marlène : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Marlène : ","color":"green","extra":[{"text":"So? Any news of Raphael? The kid is certainly not far from the road that connects Ryliath to Eolorion. His cart is not made for walks in the forest or mountain climbing...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Marlène : ","color":"green","extra":[{"text":"So? Any news of Raphael? The kid is certainly not far from the road that connects Ryliath to Eolorion. His cart is not made for walks in the forest or mountain climbing...","color":"dark_aqua"}]}

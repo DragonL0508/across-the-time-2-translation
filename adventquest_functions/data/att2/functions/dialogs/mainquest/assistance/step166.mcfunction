@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The emerald cannot move, I need to activate a mechanism to continue. Next to it must be another system that will unblock the situation ...","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The emerald cannot move, I need to activate a mechanism to continue. Next to it must be another system that will unblock the situation ...","color":"aqua","bold":false}]}

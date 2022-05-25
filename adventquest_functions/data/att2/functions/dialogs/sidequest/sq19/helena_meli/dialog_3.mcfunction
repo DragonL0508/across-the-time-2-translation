@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Why would anyone want to poison my animals ... Help me, please!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Why would anyone want to poison my animals ... Help me, please!","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq19/helena_meli/player_proposal_1/choice_1

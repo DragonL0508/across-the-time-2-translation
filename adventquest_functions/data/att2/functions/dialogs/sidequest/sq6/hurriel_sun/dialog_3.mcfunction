@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hurriel Sun : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hurriel Sun : ","color":"green","extra":[{"text":"Will you help me with my keys?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Hurriel Sun : ","color":"green","extra":[{"text":"Will you help me with my keys?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq6/hurriel_sun/player_proposal_1/choice_1

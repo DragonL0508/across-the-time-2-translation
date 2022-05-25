@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hermona : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hermona : ","color":"green","extra":[{"text":"Did you find the bandages? Drop them aside when you have everything. There, you should feel a little better now...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Hermona : ","color":"green","extra":[{"text":"Did you find the bandages? Drop them aside when you have everything. There, you should feel a little better now...","color":"dark_aqua"}]}

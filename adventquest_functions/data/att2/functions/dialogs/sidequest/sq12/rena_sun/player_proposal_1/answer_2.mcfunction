@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Ah I see... I will continue to pray for someone to come help me. Alas, I am the only person who still cares about this temple...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Ah I see... I will continue to pray for someone to come help me. Alas, I am the only person who still cares about this temple...","color":"dark_aqua"}]}

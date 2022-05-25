@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Syri Lorth : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Syri Lorth : ","color":"green","extra":[{"text":"Meet me on the boat, I'll gather my crew and we'll leave whenever you want!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Syri Lorth : ","color":"green","extra":[{"text":"Meet me on the boat, I'll gather my crew and we'll leave whenever you want!","color":"dark_aqua"}]}

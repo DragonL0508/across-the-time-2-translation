@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 2
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 2 -°- : ","color":"gray","extra":[{"text":"A tear holding in my hand... This must be the object J'zargo is looking for in this place. In that case, let's go talk to him again.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- J'zargo's legendary quest - Part 2 -°- : ","color":"gray","extra":[{"text":"A tear holding in my hand... This must be the object J'zargo is looking for in this place. In that case, let's go talk to him again.","color":"aqua","italic":true}]}

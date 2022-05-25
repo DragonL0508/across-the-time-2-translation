@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ormack : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ormack : ","color":"green","extra":[{"text":"The thieves' camp is south of our village in the forest near a mine. By taking the path, or by folowing the hills, you will easily find...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ormack : ","color":"green","extra":[{"text":"The thieves' camp is south of our village in the forest near a mine. By taking the path, or by folowing the hills, you will easily find...","color":"dark_aqua"}]}

@@ -13,4 +13,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Môt \n","color":"black","obfuscated":t
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Môt \n","color":"black","obfuscated":true,"extra":[{"text":"Can you feel the power of absolution, fear, time or chaos? Be proud, son of Irilion, your fate will only be despair and desolation...","obfuscated":false,"color":"dark_gray"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Môt \n","color":"black","obfuscated":true,"extra":[{"text":"Can you feel the power of absolution, fear, time or chaos? Be proud, son of Irilion, your fate will only be despair and desolation...","obfuscated":false,"color":"dark_gray"}]}

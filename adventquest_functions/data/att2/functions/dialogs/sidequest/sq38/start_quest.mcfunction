@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[A dark artefact]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[A dark artefact]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[A dark artefact]","color":"gold"}

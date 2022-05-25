@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The bait of gain -°- : ","color":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The bait of gain -°- : ","color":"gray","extra":[{"text":"And that's done, Ahsley got what he deserved. Let's tell that to Linda !","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The bait of gain -°- : ","color":"gray","extra":[{"text":"And that's done, Ahsley got what he deserved. Let's tell that to Linda !","color":"aqua","italic":true}]}

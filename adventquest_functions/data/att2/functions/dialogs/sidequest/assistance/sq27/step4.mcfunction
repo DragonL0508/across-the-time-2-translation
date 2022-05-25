@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The End of a Journey -°- : ","col
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The End of a Journey -°- : ","color":"gray","extra":[{"text":"I figured it out, I have to go to Eolorion now to join Emerald. He told me he would be in the inn.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The End of a Journey -°- : ","color":"gray","extra":[{"text":"I figured it out, I have to go to Eolorion now to join Emerald. He told me he would be in the inn.","color":"aqua","italic":true}]}

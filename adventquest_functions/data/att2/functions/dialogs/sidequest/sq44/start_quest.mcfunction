@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Addicted for life]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Addicted for life]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Addicted for life]","color":"gold"}

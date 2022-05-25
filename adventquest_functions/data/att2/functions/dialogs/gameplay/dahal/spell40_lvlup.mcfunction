@@ -13,4 +13,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Your corruption intensifies...","color"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Your corruption intensifies...","color":"black"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Your corruption intensifies...","color":"black"}

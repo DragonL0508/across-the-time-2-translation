@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[From ridge to the bridge]","color":"go
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[From ridge to the bridge]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[From ridge to the bridge]","color":"gold"}

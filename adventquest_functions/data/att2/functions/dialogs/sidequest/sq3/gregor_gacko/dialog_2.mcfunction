@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gregor Gacko : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gregor Gacko : ","color":"green","extra":[{"text":"So, have you changed your mind? Please note that my offer is still valid.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Gregor Gacko : ","color":"green","extra":[{"text":"So, have you changed your mind? Please note that my offer is still valid.","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq3/gregor_gacko/player_proposal_3/choice_1

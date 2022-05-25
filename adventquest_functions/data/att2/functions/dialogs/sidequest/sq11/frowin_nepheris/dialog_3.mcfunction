@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Frowin Nepheris : ","color":"gre
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Frowin Nepheris : ","color":"green","extra":[{"text":"The agitators don't seem to have decided to leave! Go and kick their train ...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Frowin Nepheris : ","color":"green","extra":[{"text":"The agitators don't seem to have decided to leave! Go and kick their train ...","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq11/frowin_nepheris/player_proposal_2/choice_1

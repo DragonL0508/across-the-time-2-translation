@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ormack : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ormack : ","color":"green","extra":[{"text":"What did you not understand abroad? Leave while you still can...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ormack : ","color":"green","extra":[{"text":"What did you not understand abroad? Leave while you still can...","color":"dark_aqua"}]}

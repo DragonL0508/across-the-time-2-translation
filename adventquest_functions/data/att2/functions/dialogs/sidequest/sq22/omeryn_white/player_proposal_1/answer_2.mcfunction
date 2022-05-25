@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Omeryn White : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Omeryn White : ","color":"green","extra":[{"text":"What nerve!... I like this! Here, 30 Chronotons! Also take the key to the warehouse. They are in a cave next to it.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Omeryn White : ","color":"green","extra":[{"text":"What nerve!... I like this! Here, 30 Chronotons! Also take the key to the warehouse. They are in a cave next to it.","color":"dark_aqua"}]}

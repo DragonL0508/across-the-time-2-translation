@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Raphael : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Raphael : ","color":"green","extra":[{"text":"Your horse? But I don't see a horse here...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Raphael : ","color":"green","extra":[{"text":"Your horse? But I don't see a horse here...","color":"dark_aqua"}]}

@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Catch cat -°- : ","color":"gray",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Catch cat -°- : ","color":"gray","extra":[{"text":"Cassandre told me about J'zargo who stole his medallion. This J'zargo cannot be found, but Triss, a mage from the academy, knows him well, I will have to go talk to him...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Catch cat -°- : ","color":"gray","extra":[{"text":"Cassandre told me about J'zargo who stole his medallion. This J'zargo cannot be found, but Triss, a mage from the academy, knows him well, I will have to go talk to him...","color":"aqua","italic":true}]}

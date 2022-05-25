@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Yaakov Rav : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Yaakov Rav : ","color":"green","extra":[{"text":"Hello, I'm afraid I can not help you at the moment. Would you mind coming back latter?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Yaakov Rav : ","color":"green","extra":[{"text":"Hello, I'm afraid I can not help you at the moment. Would you mind coming back latter?","color":"dark_aqua"}]}

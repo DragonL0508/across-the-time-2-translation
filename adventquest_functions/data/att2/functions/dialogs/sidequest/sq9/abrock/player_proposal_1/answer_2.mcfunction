@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Abrock : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Abrock : ","color":"green","extra":[{"text":"Ah yeah, go on then, I'll do it at 2 Chronotons a log.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Abrock : ","color":"green","extra":[{"text":"Ah yeah, go on then, I'll do it at 2 Chronotons a log.","color":"dark_aqua"}]}

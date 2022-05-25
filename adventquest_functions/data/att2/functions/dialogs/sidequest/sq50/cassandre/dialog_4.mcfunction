@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Cassandre : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"Look at that face! Such cuteness, such innocence. My small Totoro...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"Look at that face! Such cuteness, such innocence. My small Totoro...","color":"dark_aqua"}]}

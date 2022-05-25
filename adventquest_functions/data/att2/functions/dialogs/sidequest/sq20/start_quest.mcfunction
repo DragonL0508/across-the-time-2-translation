@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[The Heist of the cycle]","color":"gold
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[The Heist of the cycle]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[The Heist of the cycle]","color":"gold"}

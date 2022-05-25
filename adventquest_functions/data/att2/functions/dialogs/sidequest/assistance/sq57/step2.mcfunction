@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- clean the nest -°- : ","color":"g
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- clean the nest -°- : ","color":"gray","extra":[{"text":"Here I got rid of those critters, let's go bring the news to Feanorth.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- clean the nest -°- : ","color":"gray","extra":[{"text":"Here I got rid of those critters, let's go bring the news to Feanorth.","color":"aqua","italic":true}]}

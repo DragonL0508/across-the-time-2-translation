@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Now that I have deposited the first gem, I need to speak again with Wirth Razgork to get more information on the next one. He's probably still at home in the city.","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Now that I have deposited the first gem, I need to speak again with Wirth Razgork to get more information on the next one. He's probably still at home in the city.","color":"aqua","bold":false}]}

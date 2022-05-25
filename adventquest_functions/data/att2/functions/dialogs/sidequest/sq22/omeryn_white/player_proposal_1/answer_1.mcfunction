@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Omeryn White : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Omeryn White : ","color":"green","extra":[{"text":"Here is the key to my warehouse. They are in a cave. Leaving here, follow the path on the right, enter the cave and you will fall upon it. I will wait for you here.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Omeryn White : ","color":"green","extra":[{"text":"Here is the key to my warehouse. They are in a cave. Leaving here, follow the path on the right, enter the cave and you will fall upon it. I will wait for you here.","color":"dark_aqua"}]}

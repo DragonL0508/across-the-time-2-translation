@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Rukyrion -°- : ","color":"gray","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Rukyrion -°- : ","color":"gray","extra":[{"text":"I should follow Namrïn...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Rukyrion -°- : ","color":"gray","extra":[{"text":"I should follow Namrïn...","color":"aqua","italic":true}]}

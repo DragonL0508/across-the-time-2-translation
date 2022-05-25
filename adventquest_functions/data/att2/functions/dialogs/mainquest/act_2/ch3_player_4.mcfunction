@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"t
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"This door seems as huge as it is massive. I'll have to find another way....","color":"aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"This door seems as huge as it is massive. I'll have to find another way....","color":"aqua"}]}

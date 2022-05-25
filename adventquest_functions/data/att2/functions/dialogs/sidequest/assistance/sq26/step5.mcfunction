@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Adanoï Catacombs -°- : ","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Adanoï Catacombs -°- : ","color":"gray","extra":[{"text":"The Adanoi catacombs can be opened, let's discover a clue on the passage of Emerald's daughter.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The Adanoï Catacombs -°- : ","color":"gray","extra":[{"text":"The Adanoi catacombs can be opened, let's discover a clue on the passage of Emerald's daughter.","color":"aqua","italic":true}]}

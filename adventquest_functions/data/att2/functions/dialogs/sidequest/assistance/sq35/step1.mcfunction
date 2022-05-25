@@ -16,7 +16,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A declining business -°- : ","col
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A declining business -°- : ","color":"gray","extra":[{"text":"I have to get rid of the bandits so Nestor can work in his inn again normally. Let's go kill some thieves, just to teach them some manners!","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A declining business -°- : ","color":"gray","extra":[{"text":"I have to get rid of the bandits so Nestor can work in his inn again normally. Let's go kill some thieves, just to teach them some manners!","color":"aqua","italic":true}]}
 
 
 function att2:dialogs/sidequest/sq35/mobs_killed_total

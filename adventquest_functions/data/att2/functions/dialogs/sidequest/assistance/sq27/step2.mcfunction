@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Like mother, Like daughter -°- : 
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Like mother, Like daughter -°- : ","color":"gray","extra":[{"text":"This great emerald mine must contain old structures like catacombs, otherwise why else would Emerald's daughter have passed through here? I have to find a trace of her passage...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Like mother, Like daughter -°- : ","color":"gray","extra":[{"text":"This great emerald mine must contain old structures like catacombs, otherwise why else would Emerald's daughter have passed through here? I have to find a trace of her passage...","color":"aqua","italic":true}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Edwin Vortid : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Edwin Vortid : ","color":"green","extra":[{"text":"Ah I knew it! The establishment is located to the north of the Soquai forest adjoining the mountain. To find it easily, you just have to go up the stream along the east side. So make some bets and you will quickly get a taste if you have of course enough Chronotons...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Edwin Vortid : ","color":"green","extra":[{"text":"Ah I knew it! The establishment is located to the north of the Soquai forest adjoining the mountain. To find it easily, you just have to go up the stream along the east side. So make some bets and you will quickly get a taste if you have of course enough Chronotons...","color":"dark_aqua"}]}

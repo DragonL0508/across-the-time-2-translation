@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Samal Eph : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Samal Eph : ","color":"green","extra":[{"text":"What do you mean? Is that a threat? I believe you don't realize, right now, I have nothing more to lose!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Samal Eph : ","color":"green","extra":[{"text":"What do you mean? Is that a threat? I believe you don't realize, right now, I have nothing more to lose!","color":"dark_aqua"}]}

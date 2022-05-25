@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Wirth Razgork : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Wirth Razgork : ","color":"green","extra":[{"text":"What are you looking for in my house? You better get the hell out of here if you don't want any trouble!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Wirth Razgork : ","color":"green","extra":[{"text":"What are you looking for in my house? You better get the hell out of here if you don't want any trouble!","color":"dark_aqua"}]}

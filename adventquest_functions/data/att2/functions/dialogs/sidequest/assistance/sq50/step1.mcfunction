@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Catch cat -°- : ","color":"gray",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Catch cat -°- : ","color":"gray","extra":[{"text":"Cassandre lost her kitten, I told her I was going to bring it back. He shouldn't have gone very far...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Catch cat -°- : ","color":"gray","extra":[{"text":"Cassandre lost her kitten, I told her I was going to bring it back. He shouldn't have gone very far...","color":"aqua","italic":true}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"You can not miss the nest, it is near the big tree next to my field.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"You can not miss the nest, it is near the big tree next to my field.","color":"dark_aqua"}]}

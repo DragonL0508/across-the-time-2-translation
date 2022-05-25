@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Romuald : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Romuald : ","color":"green","extra":[{"text":"Thanksh! Thank you very much! *Hiccups* Go to Méleïm, find Alyia over there, she can help you!","bold":false,"color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Romuald : ","color":"green","extra":[{"text":"Thanksh! Thank you very much! *Hiccups* Go to Méleïm, find Alyia over there, she can help you!","bold":false,"color":"dark_aqua"}]}

@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"Hey, you did not respond to my proposal, are you still available to help me get rid of all these critters from my fields?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"Hey, you did not respond to my proposal, are you still available to help me get rid of all these critters from my fields?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq23/philipo_tisdal/player_proposal_1/choice_1

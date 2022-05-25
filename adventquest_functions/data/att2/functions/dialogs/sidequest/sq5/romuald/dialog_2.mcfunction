@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Romuald : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Romuald : ","color":"green","extra":[{"text":"So, did you learn anything about my Mia? The last time I saw her was around Méleïm. I was with Alyia...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Romuald : ","color":"green","extra":[{"text":"So, did you learn anything about my Mia? The last time I saw her was around Méleïm. I was with Alyia...","color":"dark_aqua"}]}

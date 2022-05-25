@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sorvo Miron : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sorvo Miron : ","color":"green","extra":[{"text":"I have a very special beverage, an elixir of vigor, well, that's what my most loyal customers call it. 2 Chronotons a glass!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sorvo Miron : ","color":"green","extra":[{"text":"I have a very special beverage, an elixir of vigor, well, that's what my most loyal customers call it. 2 Chronotons a glass!","color":"dark_aqua"}]}

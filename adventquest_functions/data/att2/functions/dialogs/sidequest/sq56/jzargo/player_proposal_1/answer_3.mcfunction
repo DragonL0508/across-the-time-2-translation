@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"J'zargo could care less of the titles the pupils thinks he wears, for they soon shall be of no use!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"J'zargo could care less of the titles the pupils thinks he wears, for they soon shall be of no use!","color":"dark_aqua"}]}

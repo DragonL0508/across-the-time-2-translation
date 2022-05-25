@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"You and I don't come from the same Tellurön. I lived during what is called the primitive Tellurön, during my first life. Nothing was the same, the sky, the mountains... I saw the destruction of a world.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"You and I don't come from the same Tellurön. I lived during what is called the primitive Tellurön, during my first life. Nothing was the same, the sky, the mountains... I saw the destruction of a world.","color":"dark_aqua"}]}

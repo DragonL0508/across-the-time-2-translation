@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"Are you satisfied with your new home? You do not have to answer in the affirmative... Many have decided to leave the city because of the difficult environmental conditions...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"Are you satisfied with your new home? You do not have to answer in the affirmative... Many have decided to leave the city because of the difficult environmental conditions...","color":"dark_aqua"}]}

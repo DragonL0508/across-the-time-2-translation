@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Never leave anything behind -°- :
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Never leave anything behind -°- : ","color":"gray","extra":[{"text":"I found the entrance to a cave north of the volcanic mountains. I can now continue on my way and find Warren's lost merchandise.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Never leave anything behind -°- : ","color":"gray","extra":[{"text":"I found the entrance to a cave north of the volcanic mountains. I can now continue on my way and find Warren's lost merchandise.","color":"aqua","italic":true}]}

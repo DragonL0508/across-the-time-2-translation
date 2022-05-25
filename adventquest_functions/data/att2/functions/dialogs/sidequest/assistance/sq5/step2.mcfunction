@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Find Mia -°- : ","color":"gray","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Find Mia -°- : ","color":"gray","extra":[{"text":"Thanks to Alphonse I know where I might find Mia. Apparently, I should look for a cavern deep into the forest along the river that hugs the fields.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Find Mia -°- : ","color":"gray","extra":[{"text":"Thanks to Alphonse I know where I might find Mia. Apparently, I should look for a cavern deep into the forest along the river that hugs the fields.","color":"aqua","italic":true}]}

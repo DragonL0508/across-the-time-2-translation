@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Aozathreyon is restoring all his health
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Aozathreyon is restoring all his health...","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Aozathreyon is restoring all his health...","color":"gray","italic":true}

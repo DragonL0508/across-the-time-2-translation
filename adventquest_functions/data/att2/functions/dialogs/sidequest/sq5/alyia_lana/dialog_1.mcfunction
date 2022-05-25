@@ -17,7 +17,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alyia Lana : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alyia Lana : ","color":"green","extra":[{"text":"Hello, are you interested in a pie? Or whatever, I have lots of things here ...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alyia Lana : ","color":"green","extra":[{"text":"Hello, are you interested in a pie? Or whatever, I have lots of things here ...","color":"dark_aqua"}]}
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"[Show me what you have. -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/alyia_lana_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Alyia is selling."}}]}
 

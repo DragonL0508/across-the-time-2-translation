@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"May fate be favorable to you...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"May fate be favorable to you...","color":"dark_aqua"}]}

@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 5
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 5 -°- : ","color":"gray","extra":[{"text":"I hope this is the last I will have to assist this oddball... Let's go find J'zargo in the mountains of Elcheol.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- J'zargo's legendary quest - Part 5 -°- : ","color":"gray","extra":[{"text":"I hope this is the last I will have to assist this oddball... Let's go find J'zargo in the mountains of Elcheol.","color":"aqua","italic":true}]}

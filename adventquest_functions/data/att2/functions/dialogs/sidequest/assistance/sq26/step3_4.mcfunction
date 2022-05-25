@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Adanoï Catacombs -°- : ","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Adanoï Catacombs -°- : ","color":"gray","extra":[{"text":"I cleaned the area ... Let's go ask Lary Brett to open the Adanoï catacombs for me.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The Adanoï Catacombs -°- : ","color":"gray","extra":[{"text":"I cleaned the area ... Let's go ask Lary Brett to open the Adanoï catacombs for me.","color":"aqua","italic":true}]}

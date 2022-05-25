@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The immemorial duty -°- : ","colo
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The immemorial duty -°- : ","color":"gray","extra":[{"text":"I found a bow lost in the rubble of old structures. It is of a rare quality, it is perhaps the one Trias told me about.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The immemorial duty -°- : ","color":"gray","extra":[{"text":"I found a bow lost in the rubble of old structures. It is of a rare quality, it is perhaps the one Trias told me about.","color":"aqua","italic":true}]}

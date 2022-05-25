@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I have activated all the pillars of the room, but the traps are not open... Something must be blocking them, as long as it's not the wear and tear of time. However, I can now go to the last wing of the temple....","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I have activated all the pillars of the room, but the traps are not open... Something must be blocking them, as long as it's not the wear and tear of time. However, I can now go to the last wing of the temple....","color":"aqua","bold":false}]}

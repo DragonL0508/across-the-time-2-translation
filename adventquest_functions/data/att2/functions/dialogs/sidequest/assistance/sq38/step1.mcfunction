@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A dark artifact -°- : ","color":"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A dark artifact -°- : ","color":"gray","extra":[{"text":"Walton gave me a key that could surely be used in the ruins of Scheströwn. I must invest the place and find the ritual room housing the altar.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A dark artifact -°- : ","color":"gray","extra":[{"text":"Walton gave me a key that could surely be used in the ruins of Scheströwn. I must invest the place and find the ritual room housing the altar.","color":"aqua","italic":true}]}

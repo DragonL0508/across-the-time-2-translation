@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nestor : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nestor : ","color":"green","extra":[{"text":"The scoundrels have not yet cleared my domain. Please send them away quickly...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Nestor : ","color":"green","extra":[{"text":"The scoundrels have not yet cleared my domain. Please send them away quickly...","color":"dark_aqua"}]}

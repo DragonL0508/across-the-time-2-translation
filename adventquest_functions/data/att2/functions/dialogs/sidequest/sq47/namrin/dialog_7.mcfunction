@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Namrïn : ","color":"dark_purple"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Namrïn : ","color":"dark_purple","extra":[{"text":"What are you waiting for? Come back with Relgon's sword, if what you claim is true...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Namrïn : ","color":"dark_purple","extra":[{"text":"What are you waiting for? Come back with Relgon's sword, if what you claim is true...","color":"dark_aqua"}]}

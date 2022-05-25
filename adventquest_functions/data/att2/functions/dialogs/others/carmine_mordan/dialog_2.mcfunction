@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Carmine Mordan : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Carmine Mordan : ","color":"green","extra":[{"text":"Would you like to see what I have in store?","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/carmine_mordan_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Carmine is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Carmine Mordan : ","color":"green","extra":[{"text":"Would you like to see what I have in store?","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/carmine_mordan_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Carmine is selling."}}]}]}
 
 
 

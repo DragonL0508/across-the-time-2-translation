@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[The end of a journey]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[The end of a journey]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[The end of a journey]","color":"gold"}

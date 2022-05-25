@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Is the idiot still squealing?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Is the idiot still squealing?","color":"dark_aqua"}]}

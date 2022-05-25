@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garret : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garret : ","color":"green","extra":[{"text":"That's right, all at a price for you mortals. But I'm going to try to collect the few pieces of Chronotons we have left to reward you if you come back with a pair of hundreds of arrows. Go to the Angor barracks which is in the east of the city.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Garret : ","color":"green","extra":[{"text":"That's right, all at a price for you mortals. But I'm going to try to collect the few pieces of Chronotons we have left to reward you if you come back with a pair of hundreds of arrows. Go to the Angor barracks which is in the east of the city.","color":"dark_aqua"}]}

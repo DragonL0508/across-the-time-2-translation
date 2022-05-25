@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Troublemakers -°- : ","color":"gr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Troublemakers -°- : ","color":"gray","extra":[{"text":"Nepheris asked me to shoo away the troublemakers in his tavern at the top floor.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Troublemakers -°- : ","color":"gray","extra":[{"text":"Nepheris asked me to shoo away the troublemakers in his tavern at the top floor.","color":"aqua","italic":true}]}

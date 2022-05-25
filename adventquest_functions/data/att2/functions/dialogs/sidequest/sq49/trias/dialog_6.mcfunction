@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"The land of eternal mornings is sublime. Age and ages seem to have no grasp on this world...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"The land of eternal mornings is sublime. Age and ages seem to have no grasp on this world...","color":"dark_aqua"}]}

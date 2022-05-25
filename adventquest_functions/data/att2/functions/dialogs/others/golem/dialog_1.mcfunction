@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Golem : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Golem : ","color":"green","extra":[{"text":"Ma...te..rials! Hungry!!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Golem."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Golem : ","color":"green","extra":[{"text":"Ma...te..rials! Hungry!!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Golem."}}]}]}

@@ -19,4 +19,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Do you think I didn't hear you? Go on!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Do you think I didn't hear you? Go on!","color":"dark_aqua"}]}

@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- You never know what you're gonna g
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- You never know what you're gonna get -°- : ","color":"gray","extra":[{"text":"Jack Arrow told me about a beached ship that could hold treasure. I have to find it, it is south of the region in the depths.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- You never know what you're gonna get -°- : ","color":"gray","extra":[{"text":"Jack Arrow told me about a beached ship that could hold treasure. I have to find it, it is south of the region in the depths.","color":"aqua","italic":true}]}

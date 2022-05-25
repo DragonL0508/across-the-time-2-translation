@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ormack : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ormack : ","color":"green","extra":[{"text":"I learned about the mess you put in our village. For having brought back Malak's crops, I am ready to forgive you.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ormack : ","color":"green","extra":[{"text":"I learned about the mess you put in our village. For having brought back Malak's crops, I am ready to forgive you.","color":"dark_aqua"}]}

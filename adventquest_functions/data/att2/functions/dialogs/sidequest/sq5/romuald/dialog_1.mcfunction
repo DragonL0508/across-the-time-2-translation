@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Romuald : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Romuald : ","color":"green","extra":[{"text":"*Loud snoring*","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Romuald : ","color":"green","extra":[{"text":"*Loud snoring*","color":"dark_aqua"}]}
 
 function att2:dialogs/sidequest/sq5/romuald/player_proposal_1/choice_1
 function att2:dialogs/sidequest/sq5/romuald/player_proposal_1/choice_2

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"You don't look peaceful. Whatever your problem, don't forget that you don't know what the future holds for you, but also the past...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"You don't look peaceful. Whatever your problem, don't forget that you don't know what the future holds for you, but also the past...","color":"dark_aqua"}]}

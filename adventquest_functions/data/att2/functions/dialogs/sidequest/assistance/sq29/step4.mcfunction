@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Annoying Bandits -°- : ","color":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Annoying Bandits -°- : ","color":"gray","extra":[{"text":"I have finished with these brigand camps, I should inform Ragnar in Méleïm that my mission is finished.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Annoying Bandits -°- : ","color":"gray","extra":[{"text":"I have finished with these brigand camps, I should inform Ragnar in Méleïm that my mission is finished.","color":"aqua","italic":true}]}

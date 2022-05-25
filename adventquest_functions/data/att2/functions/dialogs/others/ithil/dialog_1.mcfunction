@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ithil : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"What are you doing here? Get out of my room!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ithil : ","color":"green","extra":[{"text":"What are you doing here? Get out of my room!","color":"dark_aqua"}]}

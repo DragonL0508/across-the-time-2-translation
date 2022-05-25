@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"*Dry, worn-out voice* Welcome to our academy, young traveller. I am the archimage Aramis, master of the place and intendant of the city of Eolorion. I was told you were looking for me, what do you want?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Aramis : ","color":"green","extra":[{"text":"*Dry, worn-out voice* Welcome to our academy, young traveller. I am the archimage Aramis, master of the place and intendant of the city of Eolorion. I was told you were looking for me, what do you want?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/mainquest/act_4/pnj_aramis/player_answer_proposal_1

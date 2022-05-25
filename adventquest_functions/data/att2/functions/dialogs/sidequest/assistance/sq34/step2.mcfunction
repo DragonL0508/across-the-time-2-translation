@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- From ridge to the bridge -°- : ",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- From ridge to the bridge -°- : ","color":"gray","extra":[{"text":"I found the cargo but I didn't see anyone except for signs of a bloody struggle... I have to go see in the cave next door.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- From ridge to the bridge -°- : ","color":"gray","extra":[{"text":"I found the cargo but I didn't see anyone except for signs of a bloody struggle... I have to go see in the cave next door.","color":"aqua","italic":true}]}

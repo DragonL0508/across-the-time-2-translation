@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alréan : ","color":"gold","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alréan : ","color":"gold","extra":[{"text":"Ah ! So you've found wings. if it's not the case, you should go encounter our king. The entry door from his home is located in the northeast. But I'll let you explore, after all, isn't this wonderful to be able to fly?!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alréan : ","color":"gold","extra":[{"text":"Ah ! So you've found wings. if it's not the case, you should go encounter our king. The entry door from his home is located in the northeast. But I'll let you explore, after all, isn't this wonderful to be able to fly?!","color":"dark_aqua"}]}

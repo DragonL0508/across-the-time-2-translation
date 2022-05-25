@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Brutus : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Brutus : ","color":"green","extra":[{"text":"*Not so credible voice* Brutus too tired; don't want fight today.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Brutus : ","color":"green","extra":[{"text":"*Not so credible voice* Brutus too tired; don't want fight today.","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ithil : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ithil : ","color":"green","extra":[{"text":"Yes of course, take everything he has in the trunk ! Jaris will hand over the plans and everything will be fine!","color":"blue"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ithil : ","color":"green","extra":[{"text":"Yes of course, take everything he has in the trunk ! Jaris will hand over the plans and everything will be fine!","color":"blue"}]}

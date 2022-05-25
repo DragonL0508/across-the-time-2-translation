@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Brutus : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Brutus : ","color":"green","extra":[{"text":"Who are yo-... *Changing voice* Who are you? If you want trouble, go elsewhere, or I'll knock you out!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Brutus : ","color":"green","extra":[{"text":"Who are yo-... *Changing voice* Who are you? If you want trouble, go elsewhere, or I'll knock you out!","color":"dark_aqua"}]}
 
 
 function att2:dialogs/mainquest/act_2/pnj_brutus/player_answer_proposal_1

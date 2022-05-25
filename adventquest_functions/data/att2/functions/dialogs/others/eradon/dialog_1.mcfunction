@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Eradon : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Eradon : ","color":"green","extra":[{"text":"Hello, if you have good weapons and armor to get rid of, I would be ready to pay you well in Chronotons!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Eradon."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Eradon : ","color":"green","extra":[{"text":"Hello, if you have good weapons and armor to get rid of, I would be ready to pay you well in Chronotons!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Eradon."}}]}]}

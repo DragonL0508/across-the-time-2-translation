@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","extra":[{"text":" : "},{"text"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","extra":[{"text":" : "},{"text":"[Pay 1000 Chronotons -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-100a-0000-00000000100a if entity @s[distance=..7] if score intendant_joffrey_PNJ DIALOG matches 3 run function att2:dialogs/others/intendant_joffrey/answer_green_1"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@s","extra":[{"text":" : "},{"text":"[Pay 1000 Chronotons -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-100a-0000-00000000100a if entity @s[distance=..7] if score intendant_joffrey_PNJ DIALOG matches 3 run function att2:dialogs/others/intendant_joffrey/answer_green_1"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}

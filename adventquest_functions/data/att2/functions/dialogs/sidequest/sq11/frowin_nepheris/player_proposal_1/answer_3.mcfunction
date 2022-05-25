@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Frowin Nepheris : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Frowin Nepheris : ","color":"green","extra":[{"text":"If it were enough to be authoritarian... Forget it...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Frowin Nepheris : ","color":"green","extra":[{"text":"If it were enough to be authoritarian... Forget it...","color":"dark_aqua"}]}

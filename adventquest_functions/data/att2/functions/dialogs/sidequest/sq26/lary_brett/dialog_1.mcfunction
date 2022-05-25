@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"Hello, what are you doing around here? Ah a traveler, again... A word of advice, avoid the cemetery at this time: some of the dead have come back to life and are attacking everyone. The city of Méleïm does not intend to help me to settle this... In short alone, I do not dare to venture too...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"Hello, what are you doing around here? Ah a traveler, again... A word of advice, avoid the cemetery at this time: some of the dead have come back to life and are attacking everyone. The city of Méleïm does not intend to help me to settle this... In short alone, I do not dare to venture too...","color":"dark_aqua"}]}

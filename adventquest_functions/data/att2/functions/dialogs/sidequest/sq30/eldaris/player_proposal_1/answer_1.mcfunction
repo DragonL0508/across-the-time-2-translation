@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Commandant Trevor : ","color":"gr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Commandant Trevor : ","color":"green","extra":[{"text":"Thank you, but don't change your mind, you might regret it.","bold":false,"color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Commandant Trevor : ","color":"green","extra":[{"text":"Thank you, but don't change your mind, you might regret it.","bold":false,"color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elisa Meli : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elisa Meli : ","color":"green","extra":[{"text":"Yes, sir, I promise. I'll go see this thief...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Elisa Meli : ","color":"green","extra":[{"text":"Yes, sir, I promise. I'll go see this thief...","color":"dark_aqua"}]}

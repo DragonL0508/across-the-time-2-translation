@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"*whispering* Psst it was you who activated the Ryliath portal, right? How would you like to make a lot of money? Personally, I have too much debt here, and as I plan to leave soon... There is no shortage of money in the bank, and he stands guard there, I suggest that we lean over and take it! If you help me take what's in there, we'll do half and half...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"*whispering* Psst it was you who activated the Ryliath portal, right? How would you like to make a lot of money? Personally, I have too much debt here, and as I plan to leave soon... There is no shortage of money in the bank, and he stands guard there, I suggest that we lean over and take it! If you help me take what's in there, we'll do half and half...","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq20/chiara/player_proposal_1/choice_1

@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Memories from outer-time]","color":"go
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Memories from outer-time]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Memories from outer-time]","color":"gold"}

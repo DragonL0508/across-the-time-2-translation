@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"There are far too many undead who roam there. But if you kill enough and clear the way, I could help you!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"There are far too many undead who roam there. But if you kill enough and clear the way, I could help you!","color":"dark_aqua"}]}

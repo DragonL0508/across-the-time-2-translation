@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 3
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 3 -°- : ","color":"gray","extra":[{"text":"I must now find J'zargo in Billgart...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- J'zargo's legendary quest - Part 3 -°- : ","color":"gray","extra":[{"text":"I must now find J'zargo in Billgart...","color":"aqua","italic":true}]}

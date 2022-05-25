@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Wulk : ","color":"green","extra":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Wulk : ","color":"green","extra":[{"text":"Well I understand, it does not matter. Notify me if you change your mind.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Wulk : ","color":"green","extra":[{"text":"Well I understand, it does not matter. Notify me if you change your mind.","color":"dark_aqua"}]}

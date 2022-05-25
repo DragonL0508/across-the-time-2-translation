@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Walton Jones : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Walton Jones : ","color":"green","extra":[{"text":"Deal, I'll look at it when you scare off those monsters. Go down and walk along the torrent you will not have trouble finding them...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Walton Jones : ","color":"green","extra":[{"text":"Deal, I'll look at it when you scare off those monsters. Go down and walk along the torrent you will not have trouble finding them...","color":"dark_aqua"}]}

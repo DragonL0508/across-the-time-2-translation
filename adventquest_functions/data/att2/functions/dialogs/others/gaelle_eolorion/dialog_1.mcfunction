@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Gaëlle : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Gaëlle : ","color":"green","extra":[{"text":"Welcome to the Eolorion Bank, you can safely deposit your money and of course you can withdraw it at any time here. Click on the panels to proceed with the transfers.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Gaëlle : ","color":"green","extra":[{"text":"Welcome to the Eolorion Bank, you can safely deposit your money and of course you can withdraw it at any time here. Click on the panels to proceed with the transfers.","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"Wait... *Wiping her tears Excuse me... There you go, I left with two other people for an excursion to the abandoned Sathnok mansion. Terrifying monsters haunt these places. We got lost in catcombs, I panicked, ran and miraculously found the exit. But my friend, Sylvain, I haven't seen him since. He is surely still there, so please, find him! I'll give you all I have left.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"Wait... *Wiping her tears Excuse me... There you go, I left with two other people for an excursion to the abandoned Sathnok mansion. Terrifying monsters haunt these places. We got lost in catcombs, I panicked, ran and miraculously found the exit. But my friend, Sylvain, I haven't seen him since. He is surely still there, so please, find him! I'll give you all I have left.","color":"dark_aqua"}]}

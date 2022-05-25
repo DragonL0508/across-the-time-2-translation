@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Babbu : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Babbu : ","color":"green","extra":[{"text":"Have a nice day...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Babbu : ","color":"green","extra":[{"text":"Have a nice day...","color":"dark_aqua"}]}

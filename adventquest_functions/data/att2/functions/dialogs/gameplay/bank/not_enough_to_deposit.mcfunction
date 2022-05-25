@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gaelle : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gaelle : ","color":"green","extra":[{"text":"Sorry, but you don't have enough chronoton to deposit that amount...","color":"gold"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Gaelle : ","color":"green","extra":[{"text":"Sorry, but you don't have enough chronoton to deposit that amount...","color":"gold"}]}

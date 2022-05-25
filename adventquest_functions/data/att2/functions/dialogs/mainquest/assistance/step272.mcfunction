@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Another mechanism blocks my progress. And to make my job easier, this monster is still chasing me. I apparently have to activate switches to charge the door and open it.","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Another mechanism blocks my progress. And to make my job easier, this monster is still chasing me. I apparently have to activate switches to charge the door and open it.","color":"aqua","bold":false}]}

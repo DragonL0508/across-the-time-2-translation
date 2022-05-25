@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Your inventory is full...","color":"gra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Your inventory is full...","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Your inventory is full...","color":"gray","italic":true}

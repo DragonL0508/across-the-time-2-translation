@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Ahhh! But! There are no more doors, for sure I would have no problem going through... Where am I going to sleep now? ... Well, hold on, but leave here, I don't want to see you anymore. But why...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Ahhh! But! There are no more doors, for sure I would have no problem going through... Where am I going to sleep now? ... Well, hold on, but leave here, I don't want to see you anymore. But why...","color":"dark_aqua"}]}

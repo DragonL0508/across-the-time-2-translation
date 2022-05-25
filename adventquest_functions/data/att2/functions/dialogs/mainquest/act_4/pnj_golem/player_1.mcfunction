@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"He almost killed me with his beam! I'm going to shoot him an arrow in the eye, it will teach him good manners!","color":"aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"He almost killed me with his beam! I'm going to shoot him an arrow in the eye, it will teach him good manners!","color":"aqua"}]}

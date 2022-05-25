@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Edwin Vortid : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Edwin Vortid : ","color":"green","extra":[{"text":"I know, but I can't stop! Come on, I'm sure that might interest you, right?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Edwin Vortid : ","color":"green","extra":[{"text":"I know, but I can't stop! Come on, I'm sure that might interest you, right?","color":"dark_aqua"}]}

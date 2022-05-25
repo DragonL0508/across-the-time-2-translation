@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Lilith : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Lilith : ","color":"green","extra":[{"text":"So I will wait here alone to beg in the mud for someone to come help me...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Lilith : ","color":"green","extra":[{"text":"So I will wait here alone to beg in the mud for someone to come help me...","color":"dark_aqua"}]}

@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[J'zargo's legendary quest - Part 4]","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[J'zargo's legendary quest - Part 4]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[J'zargo's legendary quest - Part 4]","color":"gold"}

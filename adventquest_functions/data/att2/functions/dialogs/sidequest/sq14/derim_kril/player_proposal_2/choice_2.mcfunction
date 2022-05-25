@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[I'm back. For your key, your neighbor found it. She didn't want to give it to me... -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-055a-0000-00000000055a if entity @a[distance=..7] if score derim_kril_PNJ DIALOG matches 5 run function att2:cinematic/sidequest/14/end_lie"},"hoverEvent":{"action":"show_text","value":"Click here - answer 2"}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[I'm back. For your key, your neighbor found it. She didn't want to give it to me... -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-055a-0000-00000000055a if entity @a[distance=..7] if score derim_kril_PNJ DIALOG matches 5 run function att2:cinematic/sidequest/14/end_lie"},"hoverEvent":{"action":"show_text","value":"Click here - answer 2"}}]}

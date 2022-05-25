@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[A badly placed warehouse]","color":"go
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[A badly placed warehouse]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[A badly placed warehouse]","color":"gold"}

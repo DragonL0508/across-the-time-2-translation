@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"According to the king and queen of Ryliath, a time gem will be found in the legendary city of Elorion! Located in the high mountains of Elcheol in the north of the region, the city is also home to a Dahäl academy. So I should be able to learn a little more about the exact location of the gem.","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"According to the king and queen of Ryliath, a time gem will be found in the legendary city of Elorion! Located in the high mountains of Elcheol in the north of the region, the city is also home to a Dahäl academy. So I should be able to learn a little more about the exact location of the gem.","color":"aqua","bold":false}]}

@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Hello, I'm in luck! I need someone to ... unlock in my room, the door leading to the temple nearby. It is very rarely visited and I am the only one who takes care of it.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Rena Sun : ","color":"green","extra":[{"text":"Hello, I'm in luck! I need someone to ... unlock in my room, the door leading to the temple nearby. It is very rarely visited and I am the only one who takes care of it.","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq12/rena_sun/player_proposal_1/choice_1

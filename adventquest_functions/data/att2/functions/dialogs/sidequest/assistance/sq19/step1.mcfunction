@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Hélèna's horses -°- : ","color"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Hélèna's horses -°- : ","color":"gray","extra":[{"text":"Helena's horses are sick, apparently someone would be angry with her and give poisoned apples to her horses. I have to go to Ryliath to see if I can find anyone who might have a grudge against her... ","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Hélèna's horses -°- : ","color":"gray","extra":[{"text":"Helena's horses are sick, apparently someone would be angry with her and give poisoned apples to her horses. I have to go to Ryliath to see if I can find anyone who might have a grudge against her... ","color":"aqua","italic":true}]}

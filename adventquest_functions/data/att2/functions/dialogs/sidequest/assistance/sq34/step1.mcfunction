@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- From ridge to the bridge -°- : ",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- From ridge to the bridge -°- : ","color":"gray","extra":[{"text":"Gustave is on a project to build a bridge between the region of Kert and Worlëst. However, he has a problem, the construction equipment must be delivered to the site and it has not arrived. I have to find out where the cargo and its carriers are. They would have taken the road to the Kert mine in the far south of the region.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- From ridge to the bridge -°- : ","color":"gray","extra":[{"text":"Gustave is on a project to build a bridge between the region of Kert and Worlëst. However, he has a problem, the construction equipment must be delivered to the site and it has not arrived. I have to find out where the cargo and its carriers are. They would have taken the road to the Kert mine in the far south of the region.","color":"aqua","italic":true}]}

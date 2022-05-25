@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Wulk needs iron -°- : ","color":"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Wulk needs iron -°- : ","color":"gray","extra":[{"text":"I can go deeper into the mines and look for the iron ingots.","bold":false,"color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Wulk needs iron -°- : ","color":"gray","extra":[{"text":"I can go deeper into the mines and look for the iron ingots.","bold":false,"color":"aqua","italic":true}]}

@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[The key to profitability]","color":"go
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[The key to profitability]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[The key to profitability]","color":"gold"}

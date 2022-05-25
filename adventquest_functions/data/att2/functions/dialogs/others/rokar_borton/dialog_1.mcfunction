@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Borton : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Borton : ","color":"green","extra":[{"text":"Yes? What do you want? Leggings, chestplates, helmets, swords, daggers, axes... I do everything here! Hmm... I would like to know where you got the weapons and armor that you carry... Anyway, I'm sure it will never be worth my confections!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/rokar_borton_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Rokar is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Borton : ","color":"green","extra":[{"text":"Yes? What do you want? Leggings, chestplates, helmets, swords, daggers, axes... I do everything here! Hmm... I would like to know where you got the weapons and armor that you carry... Anyway, I'm sure it will never be worth my confections!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/rokar_borton_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Rokar is selling."}}]}]}
 
 
 scoreboard players set rokar_borton_PNJ DIALOG 2

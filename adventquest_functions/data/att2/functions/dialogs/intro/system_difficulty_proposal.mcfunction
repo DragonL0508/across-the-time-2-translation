@@ -25,7 +25,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Now choose the difficulty in which you 
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Now choose the difficulty in which you want to do the adventure (cannot be changed during the game):","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Now choose the difficulty in which you want to do the adventure (cannot be changed during the game):","color":"gray","italic":true}
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"[Apprentice -->]","color":"dark_green","clickEvent":{"action":"run_command","value":"/execute as @a[x=800,y=80,z=907,dx=3,dy=3,dz=3] if score update INTRO matches 1 run function att2:cinematic/intro/launch/difficulty_easy"},"hoverEvent":{"action":"show_text","value":"Very affordable difficulty, for a more relaxed experience. (Recommended 1 to 2 Players, if you just want to follow the story)"}}
 

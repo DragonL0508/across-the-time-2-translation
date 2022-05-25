@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[The corrupted cloud's den]","color":"g
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[The corrupted cloud's den]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[The corrupted cloud's den]","color":"gold"}

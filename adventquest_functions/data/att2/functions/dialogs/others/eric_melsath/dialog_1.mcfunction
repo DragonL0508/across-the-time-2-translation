@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Eric Melsath : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Eric Melsath : ","color":"green","extra":[{"text":"Hello, are you interested in my horses?","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/eric_melsath_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Eric is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Eric Melsath : ","color":"green","extra":[{"text":"Hello, are you interested in my horses?","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/eric_melsath_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Eric is selling."}}]}]}

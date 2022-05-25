@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"Hello, thanks again for your help. Be careful if you go to the swamps, it's dangerous there!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"Hello, thanks again for your help. Be careful if you go to the swamps, it's dangerous there!","color":"dark_aqua"}]}

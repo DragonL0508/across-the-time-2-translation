@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Carmen Ysta : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Carmen Ysta : ","color":"green","extra":[{"text":"Fantastic! In fact, I'm not looking for just any mushroom: a rare variety grows in a cave in the middle of the forest. Its entrance is not easy to find, in fact, it is hidden by bushes and is on the edge of a pond. Leaving Ryliath, go straight north in the forest, you will come across it.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Carmen Ysta : ","color":"green","extra":[{"text":"Fantastic! In fact, I'm not looking for just any mushroom: a rare variety grows in a cave in the middle of the forest. Its entrance is not easy to find, in fact, it is hidden by bushes and is on the edge of a pond. Leaving Ryliath, go straight north in the forest, you will come across it.","color":"dark_aqua"}]}

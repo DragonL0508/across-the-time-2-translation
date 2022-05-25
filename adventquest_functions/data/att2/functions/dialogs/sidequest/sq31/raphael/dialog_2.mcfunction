@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Raphaël : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Raphaël : ","color":"green","extra":[{"text":"Thank you, knight, you saved my life! But... look at my cart! And my poor Kashu, he got eaten... He was panicked when he saw them and drove us off the road... How am I going to transport all my cargo to Eolorion now? They must be waiting for me! How many days have I been stuck here?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Raphaël : ","color":"green","extra":[{"text":"Thank you, knight, you saved my life! But... look at my cart! And my poor Kashu, he got eaten... He was panicked when he saw them and drove us off the road... How am I going to transport all my cargo to Eolorion now? They must be waiting for me! How many days have I been stuck here?","color":"dark_aqua"}]}

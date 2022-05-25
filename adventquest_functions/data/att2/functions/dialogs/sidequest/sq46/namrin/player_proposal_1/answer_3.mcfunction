@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Namrïn : ","color":"dark_purple"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Namrïn : ","color":"dark_purple","extra":[{"text":"Relgon left many times for lone travels that took more than tens of cycles!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Namrïn : ","color":"dark_purple","extra":[{"text":"Relgon left many times for lone travels that took more than tens of cycles!","color":"dark_aqua"}]}

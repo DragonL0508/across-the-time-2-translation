@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Commandant Trevor : ","color":"gr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Commandant Trevor : ","color":"green","extra":[{"text":"Have you found any clues? The room where the theft took place is now open: at the back of the library behind me.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Commandant Trevor : ","color":"green","extra":[{"text":"Have you found any clues? The room where the theft took place is now open: at the back of the library behind me.","color":"dark_aqua"}]}

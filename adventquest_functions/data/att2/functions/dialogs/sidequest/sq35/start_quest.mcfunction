@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[A declining business]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[A declining business]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[A declining business]","color":"gold"}

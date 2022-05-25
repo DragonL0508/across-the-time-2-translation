@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"At the end of the path, the sticky stones. Their strength and will, the metal being requires.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"At the end of the path, the sticky stones. Their strength and will, the metal being requires.","color":"dark_aqua"}]}

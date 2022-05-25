@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"So, ready to fill your pockets?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"So, ready to fill your pockets?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq20/chiara/player_proposal_1/choice_1

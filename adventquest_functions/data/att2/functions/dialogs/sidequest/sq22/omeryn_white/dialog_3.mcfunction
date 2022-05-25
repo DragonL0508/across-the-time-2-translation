@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Omeryn White : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Omeryn White : ","color":"green","extra":[{"text":"You haven't finished yet? What nerve to come back to see me without being occupied with skeletons! I like that, but hop, go do your work!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Omeryn White : ","color":"green","extra":[{"text":"You haven't finished yet? What nerve to come back to see me without being occupied with skeletons! I like that, but hop, go do your work!","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"I understand... I would wait for your return or someone else to come help me because I'm starting to be weak.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"I understand... I would wait for your return or someone else to come help me because I'm starting to be weak.","color":"dark_aqua"}]}

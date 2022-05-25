@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Thank you, but take your leftovers back
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Thank you, but take your leftovers back, I don't want them.","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Thank you, but take your leftovers back, I don't want them.","color":"gray"}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Sylvandre : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Sylvandre : ","color":"green","extra":[{"text":"So do you like my city? Do not hesitate to speak to merchants and residents, they can surely help you in your quest.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Sylvandre : ","color":"green","extra":[{"text":"So do you like my city? Do not hesitate to speak to merchants and residents, they can surely help you in your quest.","color":"dark_aqua"}]}

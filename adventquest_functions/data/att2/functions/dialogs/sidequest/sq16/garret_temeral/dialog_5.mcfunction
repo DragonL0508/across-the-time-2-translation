@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garret : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garret : ","color":"green","extra":[{"text":"The war is finally over, finally we can give up arms, and rebuild our kingdom!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Garret : ","color":"green","extra":[{"text":"The war is finally over, finally we can give up arms, and rebuild our kingdom!","color":"dark_aqua"}]}

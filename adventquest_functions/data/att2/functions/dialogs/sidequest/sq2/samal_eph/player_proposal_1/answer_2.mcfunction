@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Samal Eph : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Samal Eph : ","color":"green","extra":[{"text":"Ahahah, what sarcasm! But spare me a little, I'm on the verge of going crazy!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Samal Eph : ","color":"green","extra":[{"text":"Ahahah, what sarcasm! But spare me a little, I'm on the verge of going crazy!","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Ah darn. Well, it's nothing, I'm going to ask her right away. Wait for me here!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Ah darn. Well, it's nothing, I'm going to ask her right away. Wait for me here!","color":"dark_aqua"}]}

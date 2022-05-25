@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" ° ","bold":true,"color":"dark_red","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" ° ","bold":true,"color":"dark_red","extra":[{"text":"<Spectral Arrow x1>","bold":false,"color":"gray","hoverEvent":{"action":"show_item","value":"{id:\"minecraft:spectral_arrow\",Count:1}"},"extra":[{"text":" [4 Chronotons]","color":"yellow","clickEvent":{"action":"run_command","value":"/execute positioned as @e[tag=TRADER,distance=..7] at @s run function att2:gameplay/shop/purchase/misc/spectral_arrow_0"},"hoverEvent":{"action":"show_text","value":"Click here to buy!"}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" ° ","bold":true,"color":"dark_red","extra":[{"text":"<Spectral Arrow x1>","bold":false,"color":"gray","hoverEvent":{"action":"show_item","value":"{id:\"minecraft:spectral_arrow\",Count:1}"},"extra":[{"text":" [4 Chronotons]","color":"yellow","clickEvent":{"action":"run_command","value":"/execute positioned as @e[tag=TRADER,distance=..7] at @s run function att2:gameplay/shop/purchase/misc/spectral_arrow_0"},"hoverEvent":{"action":"show_text","value":"Click here to buy!"}}]}]}

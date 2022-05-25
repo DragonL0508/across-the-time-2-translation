@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"To continue, please make sure you use t
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"To continue, please make sure you use the ","color":"gray","italic":true,"extra":[{"text":"<resource-pack official of Across the Time 2 - Time For Regrets>.","color":"blue","italic":false,"clickEvent":{"action":"open_url","value":"https://adventquest.com/across-the-time-ii-time-for-regrets/resource-pack"},"hoverEvent":{"action":"show_text","value":"Download"}},{"text":" Without it you will not be able to solve the riddle.","color":"gray","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"To continue, please make sure you use the ","color":"gray","italic":true,"extra":[{"text":"<resource-pack official of Across the Time 2 - Time For Regrets>.","color":"blue","italic":false,"clickEvent":{"action":"open_url","value":"https://adventquest.com/across-the-time-ii-time-for-regrets/resource-pack"},"hoverEvent":{"action":"show_text","value":"Download"}},{"text":" Without it you will not be able to solve the riddle.","color":"gray","italic":true}]}

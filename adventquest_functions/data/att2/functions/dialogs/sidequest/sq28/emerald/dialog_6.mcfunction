@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"I was looking forward to seeing you again. I asked the innkeeper if a girl who met Selene's description had recently visited her establishment. Luckily, she slept here last night. She must have left in a hurry because she left her diary. I fear that we will not have much time: Korlaph, an acquaintance of late my wife engaged him in an expedition to the summits. I'm begging you, go find her before it's too late.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"I was looking forward to seeing you again. I asked the innkeeper if a girl who met Selene's description had recently visited her establishment. Luckily, she slept here last night. She must have left in a hurry because she left her diary. I fear that we will not have much time: Korlaph, an acquaintance of late my wife engaged him in an expedition to the summits. I'm begging you, go find her before it's too late.","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq28/emerald/player_proposal_1/choice_1

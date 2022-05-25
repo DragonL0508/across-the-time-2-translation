@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Aldelrion : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"I don't know what happened to my son. He left Angband so long ago, but I want to believe he is still alive.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Aldelrion : ","color":"green","extra":[{"text":"I don't know what happened to my son. He left Angband so long ago, but I want to believe he is still alive.","color":"dark_aqua"}]}

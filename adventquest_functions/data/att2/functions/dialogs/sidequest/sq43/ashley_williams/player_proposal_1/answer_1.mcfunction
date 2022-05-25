@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ashley Williams : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ashley Williams : ","color":"green","extra":[{"text":"I'm sorry for what happened to her friend. But I am not the only one responsible. Sylvain came to see me, he needed money. As I often go on expeditions and this abandoned mansion was an opportunity for them, we decided to go there.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ashley Williams : ","color":"green","extra":[{"text":"I'm sorry for what happened to her friend. But I am not the only one responsible. Sylvain came to see me, he needed money. As I often go on expeditions and this abandoned mansion was an opportunity for them, we decided to go there.","color":"dark_aqua"}]}

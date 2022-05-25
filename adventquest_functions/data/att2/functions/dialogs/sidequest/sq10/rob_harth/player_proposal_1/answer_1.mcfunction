@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rob Harth : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Rob Harth : ","color":"green","extra":[{"text":"Great! Now go to my fields to slaughter them!","bold":false,"color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Rob Harth : ","color":"green","extra":[{"text":"Great! Now go to my fields to slaughter them!","bold":false,"color":"dark_aqua"}]}

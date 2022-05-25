@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Sometimes, I guess there's just not en
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Sometimes, I guess there's just not enough rocks]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Sometimes, I guess there's just not enough rocks]","color":"gold"}

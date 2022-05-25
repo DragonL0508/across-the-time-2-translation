@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Berni Dalph : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Berni Dalph : ","color":"green","extra":[{"text":"Sewers, in you go, but hurry.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Berni Dalph : ","color":"green","extra":[{"text":"Sewers, in you go, but hurry.","color":"dark_aqua"}]}

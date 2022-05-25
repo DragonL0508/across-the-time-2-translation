@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Town in Need -°- : ","color":"g
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Town in Need -°- : ","color":"gray","extra":[{"text":"Raphael is in charge of supply and he usually drives from Ryliath to Eolorion, but he is missing. I have to check the main route where I climbed to Eolorion, it may have been attacked or had a problem along the way...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A Town in Need -°- : ","color":"gray","extra":[{"text":"Raphael is in charge of supply and he usually drives from Ryliath to Eolorion, but he is missing. I have to check the main route where I climbed to Eolorion, it may have been attacked or had a problem along the way...","color":"aqua","italic":true}]}

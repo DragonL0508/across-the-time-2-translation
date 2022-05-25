@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ethan Mordheim : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ethan Mordheim : ","color":"green","extra":[{"text":"Welcome to the Mordheim grocery store, I don't have a lot of food to sell but here at least you will have no risk of ingestion!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/ethan_mordheim_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Ethan is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ethan Mordheim : ","color":"green","extra":[{"text":"Welcome to the Mordheim grocery store, I don't have a lot of food to sell but here at least you will have no risk of ingestion!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/ethan_mordheim_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Ethan is selling."}}]}]}

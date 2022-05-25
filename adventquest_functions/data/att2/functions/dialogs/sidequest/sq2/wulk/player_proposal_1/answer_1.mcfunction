@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Wulk : ","color":"green","extra":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Wulk : ","color":"green","extra":[{"text":"Great, you're going to have to go to the mine explored by the Ryliath miners. It is not very complicated, it is in the forest to the east. A small path will lead you there directly. You will be able to melt the ore and refine it easily thanks to my ovens.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Wulk : ","color":"green","extra":[{"text":"Great, you're going to have to go to the mine explored by the Ryliath miners. It is not very complicated, it is in the forest to the east. A small path will lead you there directly. You will be able to melt the ore and refine it easily thanks to my ovens.","color":"dark_aqua"}]}

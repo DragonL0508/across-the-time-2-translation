@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Addicted for life -°- : ","color"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Addicted for life -°- : ","color":"gray","extra":[{"text":"Edwin Vortid told me about Charles who in exchange for Chronotons would offer random prizes... Let's go to the forest of Soquaï near the torrent, where his establishment is located, to make some bets.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Addicted for life -°- : ","color":"gray","extra":[{"text":"Edwin Vortid told me about Charles who in exchange for Chronotons would offer random prizes... Let's go to the forest of Soquaï near the torrent, where his establishment is located, to make some bets.","color":"aqua","italic":true}]}

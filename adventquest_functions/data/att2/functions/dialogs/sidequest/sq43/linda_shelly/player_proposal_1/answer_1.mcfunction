@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"If he thinks these Chronotons are going to make me forget all that... Thank you, but now leave me please, I want to be alone...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"If he thinks these Chronotons are going to make me forget all that... Thank you, but now leave me please, I want to be alone...","color":"dark_aqua"}]}

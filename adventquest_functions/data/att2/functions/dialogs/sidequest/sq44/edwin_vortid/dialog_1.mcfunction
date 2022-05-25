@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Edwin Vortid : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Edwin Vortid : ","color":"green","extra":[{"text":"Hey you the curious, do you know the establishment of Charles? We make all kinds of bets there, to have the chance to win the jackpot! It's so addictive that I had to sell a good part lot of my goods... I don't come begging but if I send people to discover this place, Charles told me that he would allow me to make some bets free to regain my financial health!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Edwin Vortid : ","color":"green","extra":[{"text":"Hey you the curious, do you know the establishment of Charles? We make all kinds of bets there, to have the chance to win the jackpot! It's so addictive that I had to sell a good part lot of my goods... I don't come begging but if I send people to discover this place, Charles told me that he would allow me to make some bets free to regain my financial health!","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq44/edwin_vortid/player_proposal_1/choice_1

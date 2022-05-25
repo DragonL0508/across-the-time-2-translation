@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Omeryn White : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Omeryn White : ","color":"green","extra":[{"text":"So? Are you going to hunt these monsters in my warehouse?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Omeryn White : ","color":"green","extra":[{"text":"So? Are you going to hunt these monsters in my warehouse?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq22/omeryn_white/player_proposal_1/choice_1

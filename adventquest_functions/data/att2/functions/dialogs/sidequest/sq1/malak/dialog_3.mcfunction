@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Malak : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"Out of my lair before I curse you with a thousand miseries!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"Out of my lair before I curse you with a thousand miseries!","color":"dark_aqua"}]}

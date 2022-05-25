@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Mysterious Theft -°- : ","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Mysterious Theft -°- : ","color":"gray","extra":[{"text":"Apparently, secret plans of the Palace were stolen. The commander is informed of this case but the king is counting on me to look for clues and find the thief.... The commander is waiting for me on the floor of the palace in the library.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A Mysterious Theft -°- : ","color":"gray","extra":[{"text":"Apparently, secret plans of the Palace were stolen. The commander is informed of this case but the king is counting on me to look for clues and find the thief.... The commander is waiting for me on the floor of the palace in the library.","color":"aqua","italic":true}]}

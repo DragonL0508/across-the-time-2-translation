@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Clear the passage -°- : ","color"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Clear the passage -°- : ","color":"gray","extra":[{"text":" : "},{"text":"I have to go back and speak to Alfred Mornith so he can reward me for the work I have done successfully.","color":"aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Clear the passage -°- : ","color":"gray","extra":[{"text":" : "},{"text":"I have to go back and speak to Alfred Mornith so he can reward me for the work I have done successfully.","color":"aqua"}]}

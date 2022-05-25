@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garry Traskel : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garry Traskel : ","color":"green","extra":[{"text":"Awesome! The entrance to the mine is right next to my house. Kill a good twenty of these animals, and I will reward you!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Garry Traskel : ","color":"green","extra":[{"text":"Awesome! The entrance to the mine is right next to my house. Kill a good twenty of these animals, and I will reward you!","color":"dark_aqua"}]}

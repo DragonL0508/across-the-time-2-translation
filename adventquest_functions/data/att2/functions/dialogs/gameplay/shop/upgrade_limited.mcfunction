@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"You have reached the maximum level!","c
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"You have reached the maximum level!","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"You have reached the maximum level!","color":"gray"}

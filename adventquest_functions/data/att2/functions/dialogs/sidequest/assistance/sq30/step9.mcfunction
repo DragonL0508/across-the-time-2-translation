@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Mysterious Theft -°- : ","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Mysterious Theft -°- : ","color":"gray","extra":[{"text":"Finally the mystery is solved, let's go see the king to get the reward.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A Mysterious Theft -°- : ","color":"gray","extra":[{"text":"Finally the mystery is solved, let's go see the king to get the reward.","color":"aqua","italic":true}]}

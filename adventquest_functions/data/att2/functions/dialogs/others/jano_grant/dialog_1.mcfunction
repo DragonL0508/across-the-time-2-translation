@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jano Grant : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jano Grant : ","color":"green","extra":[{"text":"Hello, come and buy my fish, they are fresh!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/jano_grant_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Jano is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Jano Grant : ","color":"green","extra":[{"text":"Hello, come and buy my fish, they are fresh!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/jano_grant_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Jano is selling."}}]}]}

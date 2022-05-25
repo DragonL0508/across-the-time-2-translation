@@ -13,4 +13,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"New level unlock for Spectral Axe!","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"New level unlock for Spectral Axe!","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"New level unlock for Spectral Axe!","color":"gold"}

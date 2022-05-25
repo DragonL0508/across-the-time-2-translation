@@ -19,7 +19,7 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Just curious, how do you intend to make the disrespectfuls pay?","color":"aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Just curious, how do you intend to make the disrespectfuls pay?","color":"aqua"}]}
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"The pupil is too curious about things that do not concern him and his uglyness in itself is a disrespect against his generous master.","color":"dark_aqua"}]}
 

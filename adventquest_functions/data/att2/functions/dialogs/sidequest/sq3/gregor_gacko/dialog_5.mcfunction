@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gregor Gacko : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Gregor Gacko : ","color":"green","extra":[{"text":"Again thank you for the help. With my brother we will be a little more discreet in the near future...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Gregor Gacko : ","color":"green","extra":[{"text":"Again thank you for the help. With my brother we will be a little more discreet in the near future...","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Vulk : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Vulk : ","color":"green","extra":[{"text":"I'm not done yet, come back to see me later.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Vulk : ","color":"green","extra":[{"text":"I'm not done yet, come back to see me later.","color":"dark_aqua"}]}

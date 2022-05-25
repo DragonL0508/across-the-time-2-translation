@@ -13,4 +13,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"You obtain ","color":"dark_gray","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"You obtain ","color":"dark_gray","extra":[{"score":{"name":"total","objective":"RECYCLER"},"color":"yellow"},{"text":" chronotons.","color":"dark_gray"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"You obtain ","color":"dark_gray","extra":[{"score":{"name":"total","objective":"RECYCLER"},"color":"yellow"},{"text":" chronotons.","color":"dark_gray"}]}

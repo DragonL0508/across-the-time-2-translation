@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Fëanorth : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Fëanorth : ","color":"green","extra":[{"text":"Our army is ready! The battle ahead of us will be decisive. We are only waiting for General Relgon's orders...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Fëanorth : ","color":"green","extra":[{"text":"Our army is ready! The battle ahead of us will be decisive. We are only waiting for General Relgon's orders...","color":"dark_aqua"}]}

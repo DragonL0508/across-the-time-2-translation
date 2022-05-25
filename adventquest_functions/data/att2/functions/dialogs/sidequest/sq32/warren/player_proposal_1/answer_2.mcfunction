@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Warren : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Warren : ","color":"green","extra":[{"text":"Very well, I can offer you a hundred Chronotons if you return with the goods. Here we can no longer pass, but there will be other caves going up to the north. Come back alive!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Warren : ","color":"green","extra":[{"text":"Very well, I can offer you a hundred Chronotons if you return with the goods. Here we can no longer pass, but there will be other caves going up to the north. Come back alive!","color":"dark_aqua"}]}

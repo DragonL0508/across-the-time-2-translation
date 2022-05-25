@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[The remains of the past]","color":"gol
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[The remains of the past]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[The remains of the past]","color":"gold"}

@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The situation in this kingdom is chaotic. I must help them and to do so, I must gather two seals: one with the symbol of lava and the other of fire, to bring them to the lair of the devastating monster. The first is in a village called Phoenix.","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The situation in this kingdom is chaotic. I must help them and to do so, I must gather two seals: one with the symbol of lava and the other of fire, to bring them to the lair of the devastating monster. The first is in a village called Phoenix.","color":"aqua","bold":false}]}

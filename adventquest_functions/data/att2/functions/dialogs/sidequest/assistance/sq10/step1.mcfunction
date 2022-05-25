@@ -14,7 +14,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The infested fields -°- : ","colo
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The infested fields -°- : ","color":"gray","extra":[{"text":"I'm going to have to kill at least 15 zombies in the fields and barn in front of Ryliath to get Rob Harth to work.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The infested fields -°- : ","color":"gray","extra":[{"text":"I'm going to have to kill at least 15 zombies in the fields and barn in front of Ryliath to get Rob Harth to work.","color":"aqua","italic":true}]}
 
 
 function att2:dialogs/sidequest/sq10/mobs_killed_total

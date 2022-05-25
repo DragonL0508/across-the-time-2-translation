@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" ° ","bold":true,"color":"dark_red","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" ° ","bold":true,"color":"dark_red","extra":[{"text":"<Cookie>","bold":false,"color":"dark_green","hoverEvent":{"action":"show_item","value":"{id:\"minecraft:cookie\",Count:1}"},"extra":[{"text":" [2 Chronotons]","color":"yellow","clickEvent":{"action":"run_command","value":"/execute positioned as @e[tag=TRADER,distance=..7] at @s run function att2:gameplay/shop/purchase/food/cookie_0"},"hoverEvent":{"action":"show_text","value":"Click here to buy!"}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" ° ","bold":true,"color":"dark_red","extra":[{"text":"<Cookie>","bold":false,"color":"dark_green","hoverEvent":{"action":"show_item","value":"{id:\"minecraft:cookie\",Count:1}"},"extra":[{"text":" [2 Chronotons]","color":"yellow","clickEvent":{"action":"run_command","value":"/execute positioned as @e[tag=TRADER,distance=..7] at @s run function att2:gameplay/shop/purchase/food/cookie_0"},"hoverEvent":{"action":"show_text","value":"Click here to buy!"}}]}]}

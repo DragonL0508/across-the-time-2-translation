@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The End of a Journey -°- : ","col
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The End of a Journey -°- : ","color":"gray","extra":[{"text":"Emerald knows where his daughter Selene is, I have to look for her before anything happens to her. An ascent awaits me to an ancient sanctuary in the mountain, there is a path that climbs north-east along the Eolorion palace!","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The End of a Journey -°- : ","color":"gray","extra":[{"text":"Emerald knows where his daughter Selene is, I have to look for her before anything happens to her. An ascent awaits me to an ancient sanctuary in the mountain, there is a path that climbs north-east along the Eolorion palace!","color":"aqua","italic":true}]}

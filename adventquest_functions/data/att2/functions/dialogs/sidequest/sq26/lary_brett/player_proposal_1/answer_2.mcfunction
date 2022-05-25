@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"What do you mean? I will certainly not give the keys to the cemetery to a stranger like you! But we can surely arrange it, if you get rid of all these skeletons that roam at the entrance.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"What do you mean? I will certainly not give the keys to the cemetery to a stranger like you! But we can surely arrange it, if you get rid of all these skeletons that roam at the entrance.","color":"dark_aqua"}]}

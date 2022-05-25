@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The sleeping darkness -°- : ","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The sleeping darkness -°- : ","color":"gray","extra":[{"text":"Namrïn does not believe that I am the reincarnation of Relgon. I have to find a way to prove it.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The sleeping darkness -°- : ","color":"gray","extra":[{"text":"Namrïn does not believe that I am the reincarnation of Relgon. I have to find a way to prove it.","color":"aqua","italic":true}]}

@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Budding archaeologist]","color":"gold"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Budding archaeologist]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Budding archaeologist]","color":"gold"}

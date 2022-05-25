@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nicolas Chavez : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nicolas Chavez : ","color":"green","extra":[{"text":"...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Nicolas Chavez : ","color":"green","extra":[{"text":"...","color":"dark_aqua"}]}

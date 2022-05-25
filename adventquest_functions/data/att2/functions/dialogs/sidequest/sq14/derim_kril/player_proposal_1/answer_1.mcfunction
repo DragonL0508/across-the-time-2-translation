@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Awesome! The entrance to the tunnel is on the west front of the village.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Awesome! The entrance to the tunnel is on the west front of the village.","color":"dark_aqua"}]}

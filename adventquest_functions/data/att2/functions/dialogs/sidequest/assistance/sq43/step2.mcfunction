@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The bait of gain -°- : ","color":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The bait of gain -°- : ","color":"gray","extra":[{"text":"I finally found the secret entry under the waterfall from Kert's mine. Let's take everything we can care and let's return to Linda to give her a part of the treasure so that she can pay her debts.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The bait of gain -°- : ","color":"gray","extra":[{"text":"I finally found the secret entry under the waterfall from Kert's mine. Let's take everything we can care and let's return to Linda to give her a part of the treasure so that she can pay her debts.","color":"aqua","italic":true}]}

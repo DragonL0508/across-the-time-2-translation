@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ramsay Tork : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ramsay Tork : ","color":"green","extra":[{"text":"Hello, but what an intriguing outfit! We lack gold to forge the highest quality armor! I know where to find it: in the big hangars and foundry of the ruins of Angor there is this unused gold. If you bring me a lot, I will forge excellent armor for you.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ramsay Tork : ","color":"green","extra":[{"text":"Hello, but what an intriguing outfit! We lack gold to forge the highest quality armor! I know where to find it: in the big hangars and foundry of the ruins of Angor there is this unused gold. If you bring me a lot, I will forge excellent armor for you.","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq15/ramsay_tork/player_proposal_1/choice_1

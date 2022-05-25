@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[An interrupted mourning]","color":"gol
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[An interrupted mourning]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[An interrupted mourning]","color":"gold"}

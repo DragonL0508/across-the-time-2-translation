@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Adanoï Catacombs -°- : ","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Adanoï Catacombs -°- : ","color":"gray","extra":[{"text":"Myrath, this undead being, spoke of a thief. By the way, Meleim is mentioned in Myrath's invitation. These are very good leads for the future. Let's go back to Emerald at the entrance to the south if the cemetery.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The Adanoï Catacombs -°- : ","color":"gray","extra":[{"text":"Myrath, this undead being, spoke of a thief. By the way, Meleim is mentioned in Myrath's invitation. These are very good leads for the future. Let's go back to Emerald at the entrance to the south if the cemetery.","color":"aqua","italic":true}]}

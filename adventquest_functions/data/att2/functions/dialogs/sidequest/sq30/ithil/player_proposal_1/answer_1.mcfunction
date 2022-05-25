@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"We will meet again my love! Don't worry, everything will work out!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Jaris : ","color":"green","extra":[{"text":"We will meet again my love! Don't worry, everything will work out!","color":"dark_aqua"}]}

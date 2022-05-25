@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Syri Lorth : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Syri Lorth : ","color":"green","extra":[{"text":"...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Syri Lorth : ","color":"green","extra":[{"text":"...","color":"dark_aqua"}]}
 
 
 function att2:dialogs/mainquest/act_2/pnj_syri_lorth/player_answer_proposal_1_0

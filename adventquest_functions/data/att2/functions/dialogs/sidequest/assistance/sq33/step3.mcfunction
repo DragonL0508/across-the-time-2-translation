@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Treasure of Silberländ -°- : ","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Treasure of Silberländ -°- : ","color":"gray","extra":[{"text":"Mortimer deciphered an interesting clue about a stone. There is something hidden where the monoliths are located on the plains of Sylberländ.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Treasure of Silberländ -°- : ","color":"gray","extra":[{"text":"Mortimer deciphered an interesting clue about a stone. There is something hidden where the monoliths are located on the plains of Sylberländ.","color":"aqua","italic":true}]}

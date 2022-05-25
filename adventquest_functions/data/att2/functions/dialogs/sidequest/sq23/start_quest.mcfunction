@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Gluttonous rats]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Gluttonous rats]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Gluttonous rats]","color":"gold"}

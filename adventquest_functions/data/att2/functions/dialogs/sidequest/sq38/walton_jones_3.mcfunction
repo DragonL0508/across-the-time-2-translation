@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Walton Jones : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Walton Jones : ","color":"green","extra":[{"text":"The temptation is too great ... Do something to activate it to see what's going on.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Walton Jones : ","color":"green","extra":[{"text":"The temptation is too great ... Do something to activate it to see what's going on.","color":"dark_aqua"}]}

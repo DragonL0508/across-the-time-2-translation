@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Ignorants are good at giving lessons, they are too blind to see the luck they grew with! My time now to teach them a lesson!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° J'zargo : ","color":"green","extra":[{"text":"Ignorants are good at giving lessons, they are too blind to see the luck they grew with! My time now to teach them a lesson!","color":"dark_aqua"}]}

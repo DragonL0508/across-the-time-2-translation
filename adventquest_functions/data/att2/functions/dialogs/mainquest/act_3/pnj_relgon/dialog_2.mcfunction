@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Are you ready for the final battle?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"Are you ready for the final battle?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/mainquest/act_3/pnj_relgon/player_answer_proposal_1

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[I rather hoped for a return on investment in Chronotons but hey, show me the map anyway. -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-137a-0000-00000000137a if entity @s[distance=..7] if score babbu_PNJ DIALOG matches 3 run function att2:cinematic/sidequest/40/babbu/answer_2_1"},"hoverEvent":{"action":"show_text","value":"Click here - answer 2"}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[I rather hoped for a return on investment in Chronotons but hey, show me the map anyway. -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-137a-0000-00000000137a if entity @s[distance=..7] if score babbu_PNJ DIALOG matches 3 run function att2:cinematic/sidequest/40/babbu/answer_2_1"},"hoverEvent":{"action":"show_text","value":"Click here - answer 2"}}]}

@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- An unfortunate incident -°- : ","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- An unfortunate incident -°- : ","color":"gray","extra":[{"text":"A young woman, Lilith, seems to have hit something and destroyed her cart carrying merchandise. She asked me to help her carry the rest home, I have to join her by following the muddy path and drop everything there.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- An unfortunate incident -°- : ","color":"gray","extra":[{"text":"A young woman, Lilith, seems to have hit something and destroyed her cart carrying merchandise. She asked me to help her carry the rest home, I have to join her by following the muddy path and drop everything there.","color":"aqua","italic":true}]}

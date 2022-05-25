@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"Are you sure? All right, let's do it like that then. Bring me samples of ancient structures from different regions of Sylberländ and I will pay you accordingly.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"Are you sure? All right, let's do it like that then. Bring me samples of ancient structures from different regions of Sylberländ and I will pay you accordingly.","color":"dark_aqua"}]}

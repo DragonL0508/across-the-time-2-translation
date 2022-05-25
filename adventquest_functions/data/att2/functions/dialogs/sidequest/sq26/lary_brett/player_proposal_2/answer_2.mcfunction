@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"Wh .. What? You would not dare! Yes? V ... Ve ... Very well, here are the keys k .. kee .. keep them ...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Lary Brett : ","color":"green","extra":[{"text":"Wh .. What? You would not dare! Yes? V ... Ve ... Very well, here are the keys k .. kee .. keep them ...","color":"dark_aqua"}]}

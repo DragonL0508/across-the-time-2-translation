@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Ithil has no further information to give me about the location of a time gem. Etotsira seems to be my best option for finding what I'm looking for. Let's go to Earndhel to talk to him.","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Ithil has no further information to give me about the location of a time gem. Etotsira seems to be my best option for finding what I'm looking for. Let's go to Earndhel to talk to him.","color":"aqua","bold":false}]}

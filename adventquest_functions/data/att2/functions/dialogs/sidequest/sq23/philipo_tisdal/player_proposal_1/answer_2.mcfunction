@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"I understand, bargain concluded! But get rid of all these critters! Their nest is behind my house and my fields, under the roots of a large tree. You will see a hole dug deep in the ground. Be careful, they are voracious!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"I understand, bargain concluded! But get rid of all these critters! Their nest is behind my house and my fields, under the roots of a large tree. You will see a hole dug deep in the ground. Be careful, they are voracious!","color":"dark_aqua"}]}

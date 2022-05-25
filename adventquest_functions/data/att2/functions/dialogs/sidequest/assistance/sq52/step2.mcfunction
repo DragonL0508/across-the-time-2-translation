@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 2
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 2 -°- : ","color":"gray","extra":[{"text":"Well, let's go search these ruins, I will surely find what J'zargo is looking for...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- J'zargo's legendary quest - Part 2 -°- : ","color":"gray","extra":[{"text":"Well, let's go search these ruins, I will surely find what J'zargo is looking for...","color":"aqua","italic":true}]}

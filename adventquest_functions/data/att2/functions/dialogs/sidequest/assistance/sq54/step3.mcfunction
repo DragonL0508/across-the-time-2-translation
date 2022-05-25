@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 4
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 4 -°- : ","color":"gray","extra":[{"text":"I found a strange vial of blood. I must bring it back to J'zargo...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- J'zargo's legendary quest - Part 4 -°- : ","color":"gray","extra":[{"text":"I found a strange vial of blood. I must bring it back to J'zargo...","color":"aqua","italic":true}]}

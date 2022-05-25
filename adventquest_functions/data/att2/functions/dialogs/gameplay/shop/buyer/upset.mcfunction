@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Take back your junk, I'm not a trash ca
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Take back your junk, I'm not a trash can!","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Take back your junk, I'm not a trash can!","color":"gray"}

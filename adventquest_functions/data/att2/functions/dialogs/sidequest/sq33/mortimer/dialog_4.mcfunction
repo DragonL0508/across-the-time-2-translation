@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"So did you find anything interesting in the plains of Sylberländ? No? You must continue to search near the monoliths thoroughly, the stone that you brought me from this place is different from the others.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"So did you find anything interesting in the plains of Sylberländ? No? You must continue to search near the monoliths thoroughly, the stone that you brought me from this place is different from the others.","color":"dark_aqua"}]}

@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 4
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- J'zargo's legendary quest - Part 4 -°- : ","color":"gray","extra":[{"text":"In order to not change, I will have to find another item for J'zargo in this cave in Worlëst...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- J'zargo's legendary quest - Part 4 -°- : ","color":"gray","extra":[{"text":"In order to not change, I will have to find another item for J'zargo in this cave in Worlëst...","color":"aqua","italic":true}]}

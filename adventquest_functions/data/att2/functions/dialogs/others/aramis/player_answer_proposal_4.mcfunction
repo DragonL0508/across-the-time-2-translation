@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","extra":[{"text":" : "},{"text"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","extra":[{"text":" : "},{"text":"[Yes, and Vonaheim is no more. -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-087a-0000-00000000087a if entity @s[distance=..7] if score aramis_PNJ DIALOG matches 5 run function att2:dialogs/others/aramis/answer_green_4"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@s","extra":[{"text":" : "},{"text":"[Yes, and Vonaheim is no more. -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-087a-0000-00000000087a if entity @s[distance=..7] if score aramis_PNJ DIALOG matches 5 run function att2:dialogs/others/aramis/answer_green_4"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}

@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alphonse Rae : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alphonse Rae : ","color":"green","extra":[{"text":"There's something that keeps attacking my hutches! I already lost four rabbits this week, but there's nothing I can do, the guy always breaks the barrier. It must be a damn big bug the beast!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alphonse Rae : ","color":"green","extra":[{"text":"There's something that keeps attacking my hutches! I already lost four rabbits this week, but there's nothing I can do, the guy always breaks the barrier. It must be a damn big bug the beast!","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq5/alphonse_rae/player_proposal_1/choice_1

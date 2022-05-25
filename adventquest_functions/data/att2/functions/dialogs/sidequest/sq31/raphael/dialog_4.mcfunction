@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Raphaël : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Raphaël : ","color":"green","extra":[{"text":"Thank you again for the help!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Raphaël : ","color":"green","extra":[{"text":"Thank you again for the help!","color":"dark_aqua"}]}

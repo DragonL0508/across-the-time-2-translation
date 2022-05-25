@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The End of a Journey -°- : ","col
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The End of a Journey -°- : ","color":"gray","extra":[{"text":"Korlaph is no longer of this world and Emerald has found his daughter Selene. Before I left, she gave me a map showing me a secret place in the Owsästr swamps, which is weird, this place shows the entrance to the dungeon. There must be something hidden out there...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The End of a Journey -°- : ","color":"gray","extra":[{"text":"Korlaph is no longer of this world and Emerald has found his daughter Selene. Before I left, she gave me a map showing me a secret place in the Owsästr swamps, which is weird, this place shows the entrance to the dungeon. There must be something hidden out there...","color":"aqua","italic":true}]}

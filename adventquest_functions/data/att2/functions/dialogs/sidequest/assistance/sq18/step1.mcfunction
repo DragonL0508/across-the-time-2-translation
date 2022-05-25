@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A well-deserved revenge -°- : ","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A well-deserved revenge -°- : ","color":"gray","extra":[{"text":"Daril Gram's son has been mutilated by fanatics, his father wants me to avenge him, to end these monsters. Their camp would be in the far west district of Angor.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A well-deserved revenge -°- : ","color":"gray","extra":[{"text":"Daril Gram's son has been mutilated by fanatics, his father wants me to avenge him, to end these monsters. Their camp would be in the far west district of Angor.","color":"aqua","italic":true}]}

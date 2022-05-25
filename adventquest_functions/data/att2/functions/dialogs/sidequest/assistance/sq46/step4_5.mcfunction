@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The sleeping darkness -°- : ","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The sleeping darkness -°- : ","color":"gray","extra":[{"text":"This crown is strange, maybe I will find a use for it later...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The sleeping darkness -°- : ","color":"gray","extra":[{"text":"This crown is strange, maybe I will find a use for it later...","color":"aqua","italic":true}]}

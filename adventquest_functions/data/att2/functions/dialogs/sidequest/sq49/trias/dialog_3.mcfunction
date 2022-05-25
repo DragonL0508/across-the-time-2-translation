@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"So, and my bow?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"So, and my bow?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq49/trias/player_proposal_2/choice_1

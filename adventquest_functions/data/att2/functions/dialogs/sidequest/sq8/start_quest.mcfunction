@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[A delayed delivery]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[A delayed delivery]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[A delayed delivery]","color":"gold"}

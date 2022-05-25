@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garry Traskel : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garry Traskel : ","color":"green","extra":[{"text":"Let's say 150 Chronotons! Bargain ! Kill a good twenty of these animals, and you will pocket the sum!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Garry Traskel : ","color":"green","extra":[{"text":"Let's say 150 Chronotons! Bargain ! Kill a good twenty of these animals, and you will pocket the sum!","color":"dark_aqua"}]}

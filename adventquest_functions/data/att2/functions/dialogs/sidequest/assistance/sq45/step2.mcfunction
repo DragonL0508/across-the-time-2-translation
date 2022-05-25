@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Memories from outer-time -°- : ",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Memories from outer-time -°- : ","color":"gray","extra":[{"text":"I found a strange badge. It must belong to a mysterious small group which is surely still hiding in this city...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Memories from outer-time -°- : ","color":"gray","extra":[{"text":"I found a strange badge. It must belong to a mysterious small group which is surely still hiding in this city...","color":"aqua","italic":true}]}

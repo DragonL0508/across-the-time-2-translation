@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hurriel Sun : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hurriel Sun : ","color":"green","extra":[{"text":"Hello, thank you again for the help you have given me.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Hurriel Sun : ","color":"green","extra":[{"text":"Hello, thank you again for the help you have given me.","color":"dark_aqua"}]}

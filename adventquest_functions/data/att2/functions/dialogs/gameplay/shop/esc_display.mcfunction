@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Ecaille Souveraine du Chaos deposit: ",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Ecaille Souveraine du Chaos deposit: ","color":"light_purple","extra":[{"score":{"name":"@s","objective":"ESC"},"color":"gold"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Ecaille Souveraine du Chaos deposit: ","color":"light_purple","extra":[{"score":{"name":"@s","objective":"ESC"},"color":"gold"}]}

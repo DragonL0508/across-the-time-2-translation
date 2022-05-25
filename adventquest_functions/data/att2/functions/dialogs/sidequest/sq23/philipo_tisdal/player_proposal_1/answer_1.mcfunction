@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"Thank you, I was afraid that you would refuse ... Well then, these pesky critters seem to come out of the ground, but I spotted the entrance to their nest. Do you see the very big tree behind my house, outside my fields? There is a hole that goes deep into the root, I dare not venture inside. Do not have mercy on these critters.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Philipo Tisdal : ","color":"green","extra":[{"text":"Thank you, I was afraid that you would refuse ... Well then, these pesky critters seem to come out of the ground, but I spotted the entrance to their nest. Do you see the very big tree behind my house, outside my fields? There is a hole that goes deep into the root, I dare not venture inside. Do not have mercy on these critters.","color":"dark_aqua"}]}

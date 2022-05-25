@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"So did you find anything in the mine?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Emerald : ","color":"green","extra":[{"text":"So did you find anything in the mine?","color":"dark_aqua"}]}

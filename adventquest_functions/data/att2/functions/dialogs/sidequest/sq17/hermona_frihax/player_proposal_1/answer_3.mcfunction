@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hermona : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hermona : ","color":"green","extra":[{"text":"I understand completely, but I have no money. I'm going to see the injured if they can get their hands on the dough. Well, there should still be bandages in the ruins of Angor. I had, in my old residence, a substantial supply of bandages. However, if they have not been consumed by fire... My house is in the neighborhood overlooking the city. Please bring me a minimum of 6 packs of 64 bandages. Good luck...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Hermona : ","color":"green","extra":[{"text":"I understand completely, but I have no money. I'm going to see the injured if they can get their hands on the dough. Well, there should still be bandages in the ruins of Angor. I had, in my old residence, a substantial supply of bandages. However, if they have not been consumed by fire... My house is in the neighborhood overlooking the city. Please bring me a minimum of 6 packs of 64 bandages. Good luck...","color":"dark_aqua"}]}

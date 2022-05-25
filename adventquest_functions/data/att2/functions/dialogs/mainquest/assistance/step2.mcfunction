@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I have to go down to the reserve of the inn in the basement to get rid of the spider's nest. So Gonon can at least give me some food and a room for the night.","color":"aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"I have to go down to the reserve of the inn in the basement to get rid of the spider's nest. So Gonon can at least give me some food and a room for the night.","color":"aqua"}]}

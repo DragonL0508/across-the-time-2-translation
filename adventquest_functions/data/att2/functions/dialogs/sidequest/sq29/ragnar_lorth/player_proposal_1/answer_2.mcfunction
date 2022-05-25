@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"I had planned to offer Chronotons to you, but if you succeed, I can promise you one of our houses at a low price. Now head towards the Elvetta, it is the birch forest before entering the town on the plain. Find the brigands and destroy their camp so that they never return. Good luck!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"I had planned to offer Chronotons to you, but if you succeed, I can promise you one of our houses at a low price. Now head towards the Elvetta, it is the birch forest before entering the town on the plain. Find the brigands and destroy their camp so that they never return. Good luck!","color":"dark_aqua"}]}

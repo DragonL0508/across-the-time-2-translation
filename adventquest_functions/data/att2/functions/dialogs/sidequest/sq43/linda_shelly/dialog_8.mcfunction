@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"I'll try to deal with it, but it is difficult to live without him...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"I'll try to deal with it, but it is difficult to live without him...","color":"dark_aqua"}]}

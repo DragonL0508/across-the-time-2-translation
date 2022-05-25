@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Patrick lacks wood -°- : ","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Patrick lacks wood -°- : ","color":"gray","extra":[{"text":"I finally have the wood Patrick wants, I just need to bring them back to him in Ryliath in his shop, and recieve my reward for this quest.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Patrick lacks wood -°- : ","color":"gray","extra":[{"text":"I finally have the wood Patrick wants, I just need to bring them back to him in Ryliath in his shop, and recieve my reward for this quest.","color":"aqua","italic":true}]}

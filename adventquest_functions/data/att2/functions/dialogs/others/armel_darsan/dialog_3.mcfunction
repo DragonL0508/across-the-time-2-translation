@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Armel Darsan : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Armel Darsan : ","color":"green","extra":[{"text":"Please don't hurt me.... Please leave! Please leave!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Armel Darsan : ","color":"green","extra":[{"text":"Please don't hurt me.... Please leave! Please leave!","color":"dark_aqua"}]}

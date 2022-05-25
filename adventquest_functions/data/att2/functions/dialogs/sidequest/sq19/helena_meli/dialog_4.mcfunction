@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Why poison my horses... Would someone from Ryliath be mad at me?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Why poison my horses... Would someone from Ryliath be mad at me?","color":"dark_aqua"}]}

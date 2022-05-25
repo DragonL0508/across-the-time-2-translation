@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Leaving the past behind to step forwar
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Leaving the past behind to step forward]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Leaving the past behind to step forward]","color":"gold"}

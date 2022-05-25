@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Town in Need -°- : ","color":"g
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Town in Need -°- : ","color":"gray","extra":[{"text":"Raphaël is safe and sound but the town of Eolorion really needs these supplies, I have to bring a cargo back to Marlène...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A Town in Need -°- : ","color":"gray","extra":[{"text":"Raphaël is safe and sound but the town of Eolorion really needs these supplies, I have to bring a cargo back to Marlène...","color":"aqua","italic":true}]}

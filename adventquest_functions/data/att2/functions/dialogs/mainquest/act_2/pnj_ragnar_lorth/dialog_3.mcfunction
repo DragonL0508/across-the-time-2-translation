@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"Don't you have nothing else to do but prowl around my house?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ragnar Lorth : ","color":"green","extra":[{"text":"Don't you have nothing else to do but prowl around my house?","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Take the Neleptron. -->]","color":"gold","clickEvent":{"action":"run_command","value":"/function att2:cinematic/act_4/ouranos/neleptron/trigger1"},"hoverEvent":{"action":"show_text","value":"Click here to take the Neleptron."}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Take the Neleptron. -->]","color":"gold","clickEvent":{"action":"run_command","value":"/function att2:cinematic/act_4/ouranos/neleptron/trigger1"},"hoverEvent":{"action":"show_text","value":"Click here to take the Neleptron."}}]}

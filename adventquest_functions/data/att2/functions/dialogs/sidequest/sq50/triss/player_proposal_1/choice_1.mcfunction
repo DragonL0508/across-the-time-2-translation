@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Well listen, I am sorry about your little fellow, but I don't have time to play babysitter with some bold fool. -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-090a-0000-00000000090a if entity @s[distance=..7] if score triss_PNJ DIALOG matches 2 run function att2:cinematic/sidequest/50/triss/answer_1_1"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Well listen, I am sorry about your little fellow, but I don't have time to play babysitter with some bold fool. -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-090a-0000-00000000090a if entity @s[distance=..7] if score triss_PNJ DIALOG matches 2 run function att2:cinematic/sidequest/50/triss/answer_1_1"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}

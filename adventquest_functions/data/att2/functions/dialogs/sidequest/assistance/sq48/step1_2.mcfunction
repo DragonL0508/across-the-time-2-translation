@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The corrupted cloud's den -°- : "
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The corrupted cloud's den -°- : ","color":"gray","extra":[{"text":"I discovered a place hidden in the clouds, I must find a way to climb higher to continue exploring.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The corrupted cloud's den -°- : ","color":"gray","extra":[{"text":"I discovered a place hidden in the clouds, I must find a way to climb higher to continue exploring.","color":"aqua","italic":true}]}

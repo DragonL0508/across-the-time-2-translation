@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Namrïn : ","color":"dark_purple"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Namrïn : ","color":"dark_purple","extra":[{"text":"Relgon really was invincible, and confronting half-gods was a part of his routine.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Namrïn : ","color":"dark_purple","extra":[{"text":"Relgon really was invincible, and confronting half-gods was a part of his routine.","color":"dark_aqua"}]}

@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The End of a Journey -°- : ","col
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The End of a Journey -°- : ","color":"gray","extra":[{"text":"Korlaph is no more, I must speak to Selene and Emerald.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The End of a Journey -°- : ","color":"gray","extra":[{"text":"Korlaph is no more, I must speak to Selene and Emerald.","color":"aqua","italic":true}]}

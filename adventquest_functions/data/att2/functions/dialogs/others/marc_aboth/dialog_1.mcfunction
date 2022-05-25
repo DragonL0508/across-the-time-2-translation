@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Marc Aboth : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Marc Aboth : ","color":"green","extra":[{"text":"Hello, do you need a horse? I have few, but they are fast and very tough!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/marc_aboth_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Marc is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Marc Aboth : ","color":"green","extra":[{"text":"Hello, do you need a horse? I have few, but they are fast and very tough!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/marc_aboth_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Marc is selling."}}]}]}

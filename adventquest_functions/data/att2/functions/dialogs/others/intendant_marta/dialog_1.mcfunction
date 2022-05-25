@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Intendant Marta : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Intendant Marta : ","color":"green","extra":[{"text":"Hello, I've heard about your success and Ragnar told me I should give you a discount if you were to buy a house. I'm in charge of sales, and if you want a house in Méleïm I have a very good offer : 900 Chronotons! It's very roomy for the location, it's on the other side of the cliff hanging off the arch underneath one of the guard towers. Are you interested?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Intendant Marta : ","color":"green","extra":[{"text":"Hello, I've heard about your success and Ragnar told me I should give you a discount if you were to buy a house. I'm in charge of sales, and if you want a house in Méleïm I have a very good offer : 900 Chronotons! It's very roomy for the location, it's on the other side of the cliff hanging off the arch underneath one of the guard towers. Are you interested?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/others/intendant_marta/player_answer_proposal_1

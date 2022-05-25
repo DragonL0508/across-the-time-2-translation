@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The remains of the past -°- : ","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The remains of the past -°- : ","color":"gray","extra":[{"text":"I found a key in a lost chest in the Nojelanth desert. Surely it should open a place in Nojelanth in the past.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The remains of the past -°- : ","color":"gray","extra":[{"text":"I found a key in a lost chest in the Nojelanth desert. Surely it should open a place in Nojelanth in the past.","color":"aqua","italic":true}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Syri Lorth : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Syri Lorth : ","color":"green","extra":[{"text":"You shouldn't be here, this island is dangerous... Go back to where you came from!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Syri Lorth : ","color":"green","extra":[{"text":"You shouldn't be here, this island is dangerous... Go back to where you came from!","color":"dark_aqua"}]}

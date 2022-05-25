@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Barry : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Barry : ","color":"green","extra":[{"text":"Hey you, your gear interests me! War is a very lucrative business, I don't have a side, I deal with everyone! So don't worry, I don't want to take them from you, I'll buy them at a high price!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Barry."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Barry : ","color":"green","extra":[{"text":"Hey you, your gear interests me! War is a very lucrative business, I don't have a side, I deal with everyone! So don't worry, I don't want to take them from you, I'll buy them at a high price!","color":"dark_aqua","extra":[{"text":" [Trade -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/recycler/ask"},"hoverEvent":{"action":"show_text","value":"Click here to deal with Barry."}}]}]}

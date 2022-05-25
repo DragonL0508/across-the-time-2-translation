@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"You don't have enough Ecaille Souverain
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"You don't have enough Ecaille Souveraine du Chaos!","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"You don't have enough Ecaille Souveraine du Chaos!","color":"gray"}

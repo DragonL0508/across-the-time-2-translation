@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sorvo Miron : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sorvo Miron : ","color":"green","extra":[{"text":"Ahh, you the Ryliath meat delivery boy? Well, you weren't exactly early! We wre not too far from a shortage. Bread is not the best thing to attract people to our tavern. Go put it all in the reserve right next to it. Thank you!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sorvo Miron : ","color":"green","extra":[{"text":"Ahh, you the Ryliath meat delivery boy? Well, you weren't exactly early! We wre not too far from a shortage. Bread is not the best thing to attract people to our tavern. Go put it all in the reserve right next to it. Thank you!","color":"dark_aqua"}]}

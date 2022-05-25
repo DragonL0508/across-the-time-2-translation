@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Malak : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"My crops, I will miss them when winter comes... Go to our chef, help him and once you have found my cereals, bring them to me!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Malak : ","color":"green","extra":[{"text":"My crops, I will miss them when winter comes... Go to our chef, help him and once you have found my cereals, bring them to me!","color":"dark_aqua"}]}

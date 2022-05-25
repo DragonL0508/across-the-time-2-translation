@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Armel Darsan : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Armel Darsan : ","color":"green","extra":[{"text":"So you have the famous lava key. I hope the chief gives it to you for a good reason.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Armel Darsan : ","color":"green","extra":[{"text":"So you have the famous lava key. I hope the chief gives it to you for a good reason.","color":"dark_aqua"}]}

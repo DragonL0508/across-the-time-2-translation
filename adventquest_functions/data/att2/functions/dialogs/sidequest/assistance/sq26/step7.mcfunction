@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Adanoï Catacombs -°- : ","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Adanoï Catacombs -°- : ","color":"gray","extra":[{"text":"Another step to go, I have to join Emerald in Méleïm. He'll probably tell me more about it.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The Adanoï Catacombs -°- : ","color":"gray","extra":[{"text":"Another step to go, I have to join Emerald in Méleïm. He'll probably tell me more about it.","color":"aqua","italic":true}]}

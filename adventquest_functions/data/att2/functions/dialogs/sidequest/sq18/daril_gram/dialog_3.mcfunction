@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Daril Gram : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Daril Gram : ","color":"green","extra":[{"text":"May the strength of the just guide your steps...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Daril Gram : ","color":"green","extra":[{"text":"May the strength of the just guide your steps...","color":"dark_aqua"}]}

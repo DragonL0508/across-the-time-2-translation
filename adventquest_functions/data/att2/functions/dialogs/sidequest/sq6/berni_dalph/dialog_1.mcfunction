@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Berni Dalph : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Berni Dalph : ","color":"green","extra":[{"text":"Ola sir, stop, this is the entrance to the sewers. No one has the right to enter it.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Berni Dalph : ","color":"green","extra":[{"text":"Ola sir, stop, this is the entrance to the sewers. No one has the right to enter it.","color":"dark_aqua"}]}

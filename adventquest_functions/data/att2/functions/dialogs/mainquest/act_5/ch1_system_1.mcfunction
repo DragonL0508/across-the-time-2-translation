@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Sérile regains all her health back..."
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Sérile regains all her health back...","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Sérile regains all her health back...","color":"gray","italic":true}

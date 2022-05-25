@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"J'zargo, the fact he threw himself in such quest unarguably proves his determination to be known and accepted...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"J'zargo, the fact he threw himself in such quest unarguably proves his determination to be known and accepted...","color":"dark_aqua"}]}

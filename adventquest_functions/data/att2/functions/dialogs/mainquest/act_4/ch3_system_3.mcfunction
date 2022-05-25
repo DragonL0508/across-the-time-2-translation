@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"The elevator went back up to the top...
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"The elevator went back up to the top...","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"The elevator went back up to the top...","color":"gray","italic":true}

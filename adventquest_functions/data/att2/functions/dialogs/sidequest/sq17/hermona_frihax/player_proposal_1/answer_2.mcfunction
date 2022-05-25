@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hermona : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hermona : ","color":"green","extra":[{"text":"Too bad... Well, we'll have to deal with it, if you ever change your mind you know where to find me.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Hermona : ","color":"green","extra":[{"text":"Too bad... Well, we'll have to deal with it, if you ever change your mind you know where to find me.","color":"dark_aqua"}]}

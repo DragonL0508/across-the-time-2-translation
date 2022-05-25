@@ -21,4 +21,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Captain : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Captain : ","color":"green","extra":[{"text":"Oh, really? As you wish, but once on the other side, we will not open you up again until the enemy is routed... We'll cover you from the walls, so don't go too far away. OPEN THE DOOR!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Captain : ","color":"green","extra":[{"text":"Oh, really? As you wish, but once on the other side, we will not open you up again until the enemy is routed... We'll cover you from the walls, so don't go too far away. OPEN THE DOOR!","color":"dark_aqua"}]}

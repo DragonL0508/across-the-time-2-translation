@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Feanorth : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Feanorth : ","color":"green","extra":[{"text":"Did you find Atricanth's nest? Thoroughly search the ruins towards the western quarters of Angor.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Feanorth : ","color":"green","extra":[{"text":"Did you find Atricanth's nest? Thoroughly search the ruins towards the western quarters of Angor.","color":"dark_aqua"}]}

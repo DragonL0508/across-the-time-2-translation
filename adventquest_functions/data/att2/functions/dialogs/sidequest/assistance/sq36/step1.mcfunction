@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- An interrupted mourning -°- : ","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- An interrupted mourning -°- : ","color":"gray","extra":[{"text":"I must find the entrance to the crypt of the deceased parents of Violette in the cemetery of Eol. I have to figure out how to access the catacombs so that I can open the entrance to the crypt from the inside. Once this is over, I would just have to come back and tell Violette the news near the torrent.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- An interrupted mourning -°- : ","color":"gray","extra":[{"text":"I must find the entrance to the crypt of the deceased parents of Violette in the cemetery of Eol. I have to figure out how to access the catacombs so that I can open the entrance to the crypt from the inside. Once this is over, I would just have to come back and tell Violette the news near the torrent.","color":"aqua","italic":true}]}

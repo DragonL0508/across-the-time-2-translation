@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elsa Rasmon : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Elsa Rasmon : ","color":"green","extra":[{"text":"Leave me alone, I don't sell to thieves and killers. If you insist, I can defend myself!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Elsa Rasmon : ","color":"green","extra":[{"text":"Leave me alone, I don't sell to thieves and killers. If you insist, I can defend myself!","color":"dark_aqua"}]}
 
 
 scoreboard players set elsa_rasmon_PNJ DIALOG 3

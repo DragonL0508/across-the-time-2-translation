@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A night in Sathnok -°- : ","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A night in Sathnok -°- : ","color":"gray","extra":[{"text":"Linda was able to come back alive from Sathnok's mansion but her friend stayed there. I have to find him, alive if it's possible... There must be catacombs by there, I must find an entry to start the research.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A night in Sathnok -°- : ","color":"gray","extra":[{"text":"Linda was able to come back alive from Sathnok's mansion but her friend stayed there. I have to find him, alive if it's possible... There must be catacombs by there, I must find an entry to start the research.","color":"aqua","italic":true}]}

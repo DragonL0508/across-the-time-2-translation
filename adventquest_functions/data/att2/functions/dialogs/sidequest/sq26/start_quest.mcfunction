@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Adanoï's catacombs]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Adanoï's catacombs]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Adanoï's catacombs]","color":"gold"}

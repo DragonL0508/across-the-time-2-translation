@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Berni Dalph : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Berni Dalph : ","color":"green","extra":[{"text":"Did you say Hurriel? The poor woman, she is so clumsy... Well, I want to make an exception, but don't forget to tell Hurriel that I helped you...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Berni Dalph : ","color":"green","extra":[{"text":"Did you say Hurriel? The poor woman, she is so clumsy... Well, I want to make an exception, but don't forget to tell Hurriel that I helped you...","color":"dark_aqua"}]}

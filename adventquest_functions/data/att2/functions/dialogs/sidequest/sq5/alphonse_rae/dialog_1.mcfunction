@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alphonse Rae : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alphonse Rae : ","color":"green","extra":[{"text":"Pff, what a mess, this beast... Oh, what does the little guy want?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alphonse Rae : ","color":"green","extra":[{"text":"Pff, what a mess, this beast... Oh, what does the little guy want?","color":"dark_aqua"}]}

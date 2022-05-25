@@ -15,6 +15,6 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Maria : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Maria : ","color":"green","extra":[{"text":"Hi, are you interested in hunting? You are in the right place, I sell all kinds of bows:","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/maria_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Maria is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Maria : ","color":"green","extra":[{"text":"Hi, are you interested in hunting? You are in the right place, I sell all kinds of bows:","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/maria_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Maria is selling."}}]}]}
 
 

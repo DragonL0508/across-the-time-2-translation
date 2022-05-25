@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Wulk needs iron -°- : ","color":"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Wulk needs iron -°- : ","color":"gray","extra":[{"text":"Wulk the blacksmith asked me to collect iron or at the mine located at the east of Ryliath in the forest.","bold":false,"color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Wulk needs iron -°- : ","color":"gray","extra":[{"text":"Wulk the blacksmith asked me to collect iron or at the mine located at the east of Ryliath in the forest.","bold":false,"color":"aqua","italic":true}]}

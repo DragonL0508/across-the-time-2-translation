@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Like mother, Like daughter -°- : 
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Like mother, Like daughter -°- : ","color":"gray","extra":[{"text":"Well, here I am more informed thanks to the story found in the cave. I have to go back to see Emerald at Méleïm's tavern to tell him that she might go to a city called Eolorion.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Like mother, Like daughter -°- : ","color":"gray","extra":[{"text":"Well, here I am more informed thanks to the story found in the cave. I have to go back to see Emerald at Méleïm's tavern to tell him that she might go to a city called Eolorion.","color":"aqua","italic":true}]}

@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Hi, oh you're not from here, it shows! I lost the key to my chest while fleeing the invasion of monsters in the tunnels, all my money is still there and the monsters scare me too much to go! Please find my key and I'll give you some Chronotons!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Derim Kril : ","color":"green","extra":[{"text":"Hi, oh you're not from here, it shows! I lost the key to my chest while fleeing the invasion of monsters in the tunnels, all my money is still there and the monsters scare me too much to go! Please find my key and I'll give you some Chronotons!","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq14/derim_kril/player_proposal_1/choice_1

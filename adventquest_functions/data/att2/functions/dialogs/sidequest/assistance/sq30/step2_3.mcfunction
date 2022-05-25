@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Mysterious Theft -°- : ","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A Mysterious Theft -°- : ","color":"gray","extra":[{"text":"The commander told me where the robbery was committed. There's a small secret room in the library in the back and behind him, I need to take a look.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A Mysterious Theft -°- : ","color":"gray","extra":[{"text":"The commander told me where the robbery was committed. There's a small secret room in the library in the back and behind him, I need to take a look.","color":"aqua","italic":true}]}

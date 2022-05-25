@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Romuald : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Romuald : ","color":"green","extra":[{"text":"Ahh ... Huh ... Thanksh *hiccups*, sleep. *falls into a coma*","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Romuald : ","color":"green","extra":[{"text":"Ahh ... Huh ... Thanksh *hiccups*, sleep. *falls into a coma*","color":"dark_aqua"}]}

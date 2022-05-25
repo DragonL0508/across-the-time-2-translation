@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Patrick Corth : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Patrick Corth : ","color":"green","extra":[{"text":"Well, drop all the wood over there on my right outside and I'll give you your money back.","bold":false,"color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Patrick Corth : ","color":"green","extra":[{"text":"Well, drop all the wood over there on my right outside and I'll give you your money back.","bold":false,"color":"dark_aqua"}]}

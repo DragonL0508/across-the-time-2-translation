@@ -17,7 +17,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Negan Greyson : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Negan Greyson : ","color":"green","extra":[{"text":"Hello! Do you need training? I can help you forget about the skills you have learned and start on a better basis if you wish."}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Negan Greyson : ","color":"green","extra":[{"text":"Hello! Do you need training? I can help you forget about the skills you have learned and start on a better basis if you wish."}]}
 
 tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"Yes, I want to forget my skills!","color":"aqua"}]}
 

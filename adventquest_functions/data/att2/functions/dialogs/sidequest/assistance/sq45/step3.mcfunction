@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Memories from outer-time -°- : ",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Memories from outer-time -°- : ","color":"gray","extra":[{"text":"I discovered the hiding place where this small group is hiding. I may have more luck here to find the weapon Aldelrion is looking for...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Memories from outer-time -°- : ","color":"gray","extra":[{"text":"I discovered the hiding place where this small group is hiding. I may have more luck here to find the weapon Aldelrion is looking for...","color":"aqua","italic":true}]}

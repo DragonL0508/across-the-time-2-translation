@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A well-deserved revenge -°- : ","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A well-deserved revenge -°- : ","color":"gray","extra":[{"text":"I must bring Dermist's head back to Daril Gram in order to prove revenge to him.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A well-deserved revenge -°- : ","color":"gray","extra":[{"text":"I must bring Dermist's head back to Daril Gram in order to prove revenge to him.","color":"aqua","italic":true}]}

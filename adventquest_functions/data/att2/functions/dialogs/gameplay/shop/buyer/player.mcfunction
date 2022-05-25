@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"t
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"[Deal! -->]","color":"green","clickEvent":{"action":"run_command","value":"/execute at @e[tag=Recycler,sort=nearest,limit=1] run function att2:gameplay/recycler/deal"},"hoverEvent":{"action":"show_text","value":"Click here to accept the offer."}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"[Deal! -->]","color":"green","clickEvent":{"action":"run_command","value":"/execute at @e[tag=Recycler,sort=nearest,limit=1] run function att2:gameplay/recycler/deal"},"hoverEvent":{"action":"show_text","value":"Click here to accept the offer."}}]}

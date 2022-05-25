@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Yaakov Rav : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Yaakov Rav : ","color":"green","extra":[{"text":"Hello, how are you? Feel free to take a look at my shop, I have various spells to sell.","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/yaakov_rav_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Yaakov is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Yaakov Rav : ","color":"green","extra":[{"text":"Hello, how are you? Feel free to take a look at my shop, I have various spells to sell.","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/yaakov_rav_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Yaakov is selling."}}]}]}

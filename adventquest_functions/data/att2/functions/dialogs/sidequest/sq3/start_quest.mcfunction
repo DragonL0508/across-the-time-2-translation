@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Brother Gacko's escape]","color":"gold
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Brother Gacko's escape]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Brother Gacko's escape]","color":"gold"}

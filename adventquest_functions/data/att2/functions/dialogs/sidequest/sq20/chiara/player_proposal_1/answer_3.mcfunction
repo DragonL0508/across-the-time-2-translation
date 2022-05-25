@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"And I took you for a mercenary, what a disappointment. I won't do anything, I promise!","bold":false,"color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"And I took you for a mercenary, what a disappointment. I won't do anything, I promise!","bold":false,"color":"dark_aqua"}]}

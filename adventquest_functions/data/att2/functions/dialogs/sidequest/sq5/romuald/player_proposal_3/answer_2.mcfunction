@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Romuald : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Romuald : ","color":"green","extra":[{"text":"Pff, you think a parent will settle for an answer like that. You're a stone heart you ...","bold":false,"color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Romuald : ","color":"green","extra":[{"text":"Pff, you think a parent will settle for an answer like that. You're a stone heart you ...","bold":false,"color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Warren : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Warren : ","color":"green","extra":[{"text":"Hmm is half the value of my goods, but without you I lose everything ... Well I will give them to you when you have brought back the goods. I advise you to go by another path, this one is blocked.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Warren : ","color":"green","extra":[{"text":"Hmm is half the value of my goods, but without you I lose everything ... Well I will give them to you when you have brought back the goods. I advise you to go by another path, this one is blocked.","color":"dark_aqua"}]}

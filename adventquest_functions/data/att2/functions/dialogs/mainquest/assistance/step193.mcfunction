@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Skaolon, a guard posted in front of the large door of the palace of Ouranos, told me that I had to look for Néleptrons to get an audience with their king. Let's continue to explore and search for these Nélpetrons. There should be a fairly visible path leading there ...","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"Skaolon, a guard posted in front of the large door of the palace of Ouranos, told me that I had to look for Néleptrons to get an audience with their king. Let's continue to explore and search for these Nélpetrons. There should be a fairly visible path leading there ...","color":"aqua","bold":false}]}

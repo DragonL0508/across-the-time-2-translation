@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Cassandre : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"Really? This is very nice of you, by the way you can call me Cassandre.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Cassandre : ","color":"green","extra":[{"text":"Really? This is very nice of you, by the way you can call me Cassandre.","color":"dark_aqua"}]}

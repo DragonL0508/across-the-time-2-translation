@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Budding archaeologist -°- : ","co
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Budding archaeologist -°- : ","color":"gray","extra":[{"text":"I'm done with those critters... I'll tell Walton they're not coming back.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Budding archaeologist -°- : ","color":"gray","extra":[{"text":"I'm done with those critters... I'll tell Walton they're not coming back.","color":"aqua","italic":true}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Joël Roblochon : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Joël Roblochon : ","color":"green","extra":[{"text":"What? Haven't found the thief yet?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Joël Roblochon : ","color":"green","extra":[{"text":"What? Haven't found the thief yet?","color":"dark_aqua"}]}

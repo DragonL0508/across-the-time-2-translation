@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Feanorth : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Feanorth : ","color":"green","extra":[{"text":"Hmm very well, since I was able to collect some war treasures in Angor's remains, I will be able to give you 750 Chronotons for this mission. Go to the western district of Angor, you will find the nest in the ruins.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Feanorth : ","color":"green","extra":[{"text":"Hmm very well, since I was able to collect some war treasures in Angor's remains, I will be able to give you 750 Chronotons for this mission. Go to the western district of Angor, you will find the nest in the ruins.","color":"dark_aqua"}]}

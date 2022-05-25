@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Namrïn : ","color":"dark_purple
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Namrïn : ","color":"dark_purple","extra":[{"text":"Well, if you ever lose the Corruption incantation book, I can provide you a new one.","color":"dark_aqua","extra":[{"text":" [Obtain Corruption -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/dahal/action/spell40/obtain"},"hoverEvent":{"action":"show_text","value":"Click here to obtain another Corruption's book."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Namrïn : ","color":"dark_purple","extra":[{"text":"Well, if you ever lose the Corruption incantation book, I can provide you a new one.","color":"dark_aqua","extra":[{"text":" [Obtain Corruption -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/dahal/action/spell40/obtain"},"hoverEvent":{"action":"show_text","value":"Click here to obtain another Corruption's book."}}]}]}

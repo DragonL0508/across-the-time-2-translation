@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Abrock : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Abrock : ","color":"green","extra":[{"text":"Whom do you take me for, I am the wood cutter, not the king of the city. A good 30 Chronotons and I will descend no lower!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Abrock : ","color":"green","extra":[{"text":"Whom do you take me for, I am the wood cutter, not the king of the city. A good 30 Chronotons and I will descend no lower!","color":"dark_aqua"}]}

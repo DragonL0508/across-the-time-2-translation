@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"Little flesh being is recognized, he goes without restraint to Ulgok'keström. Because the metal being shows him the way.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"Little flesh being is recognized, he goes without restraint to Ulgok'keström. Because the metal being shows him the way.","color":"dark_aqua"}]}

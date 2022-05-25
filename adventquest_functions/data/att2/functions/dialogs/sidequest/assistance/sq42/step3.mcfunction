@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A night in Sathnok -°- : ","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- A night in Sathnok -°- : ","color":"gray","extra":[{"text":"Linda told me about the guide that brought them to the mansion. He overlooked the danger of the place and would have taken advantage of their naiveté... I'm going to have to have a conversation with that guide. I must find this guide. His name's Ashley and he lives in Kortaek.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- A night in Sathnok -°- : ","color":"gray","extra":[{"text":"Linda told me about the guide that brought them to the mansion. He overlooked the danger of the place and would have taken advantage of their naiveté... I'm going to have to have a conversation with that guide. I must find this guide. His name's Ashley and he lives in Kortaek.","color":"aqua","italic":true}]}

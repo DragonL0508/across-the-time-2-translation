@@ -13,4 +13,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"No spell selected...","color":"gray"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"No spell selected...","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"No spell selected...","color":"gray"}

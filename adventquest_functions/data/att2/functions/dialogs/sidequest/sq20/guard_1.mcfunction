@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Guard : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Guard : ","color":"green","extra":[{"text":"Well, thank you for delivering this thief to us. His past of debauchery will have finally caught up with him. he will spend some time here in our jails... This is a bonus for his capture.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Guard : ","color":"green","extra":[{"text":"Well, thank you for delivering this thief to us. His past of debauchery will have finally caught up with him. he will spend some time here in our jails... This is a bonus for his capture.","color":"dark_aqua"}]}

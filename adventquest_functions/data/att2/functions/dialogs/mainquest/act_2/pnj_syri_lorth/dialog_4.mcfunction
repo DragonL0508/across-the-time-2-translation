@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Syri Lorth : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Syri Lorth : ","color":"green","extra":[{"text":"You haven't taken care of Raj yet? He lives under the great bridge of Méleïm, on the quay, very close to the drawbridge. How unbearable it is....","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Syri Lorth : ","color":"green","extra":[{"text":"You haven't taken care of Raj yet? He lives under the great bridge of Méleïm, on the quay, very close to the drawbridge. How unbearable it is....","color":"dark_aqua"}]}

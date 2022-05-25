@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Carmen Ysta : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Carmen Ysta : ","color":"green","extra":[{"text":"Hello traveler, my name is Carmen Ysta and I run Ryliath's grocery store. Here you will have a multitude of choices in food and small treats. Otherwise, if you are looking for work, I need mushrooms to develop a mushroom soup recipe ... And with a little extra something, I will give you a bowl if you help me. Would you do that for me?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Carmen Ysta : ","color":"green","extra":[{"text":"Hello traveler, my name is Carmen Ysta and I run Ryliath's grocery store. Here you will have a multitude of choices in food and small treats. Otherwise, if you are looking for work, I need mushrooms to develop a mushroom soup recipe ... And with a little extra something, I will give you a bowl if you help me. Would you do that for me?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq4/carmen_ysta/player_proposal_1/choice_1

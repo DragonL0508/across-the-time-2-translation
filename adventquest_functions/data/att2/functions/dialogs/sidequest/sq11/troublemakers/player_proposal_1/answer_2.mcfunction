@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Troublemakers : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Troublemakers : ","color":"green","extra":[{"text":"Who do you think you are... This is the fight you're looking for!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Troublemakers : ","color":"green","extra":[{"text":"Who do you think you are... This is the fight you're looking for!","color":"dark_aqua"}]}

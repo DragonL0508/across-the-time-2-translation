@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Lilith : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Lilith : ","color":"green","extra":[{"text":"Excuse me, will you help me now? There is no one else here and I am far too weak to transport all my goods to my house alone, I cannot leave them here...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Lilith : ","color":"green","extra":[{"text":"Excuse me, will you help me now? There is no one else here and I am far too weak to transport all my goods to my house alone, I cannot leave them here...","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq24/lilith/player_proposal_1/choice_1

@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Clean the nest]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Clean the nest]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Clean the nest]","color":"gold"}

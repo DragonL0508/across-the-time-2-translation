@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Wait, Tina? Sélène? Wouldn't you like to tell me more about your daughter now? -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-005a-0000-00000000005a if entity @s[distance=..7] if score emerald_PNJ DIALOG matches 4..5 run function att2:cinematic/sidequest/27/emerald/answer_2_1"},"hoverEvent":{"action":"show_text","value":"Click here - answer 2"}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Wait, Tina? Sélène? Wouldn't you like to tell me more about your daughter now? -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-005a-0000-00000000005a if entity @s[distance=..7] if score emerald_PNJ DIALOG matches 4..5 run function att2:cinematic/sidequest/27/emerald/answer_2_1"},"hoverEvent":{"action":"show_text","value":"Click here - answer 2"}}]}

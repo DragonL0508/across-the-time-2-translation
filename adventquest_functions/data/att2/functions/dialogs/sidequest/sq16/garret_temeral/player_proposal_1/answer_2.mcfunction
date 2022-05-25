@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garret : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garret : ","color":"green","extra":[{"text":"Yes, I suspect so, and when you're done, we will no longer need these arrows.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Garret : ","color":"green","extra":[{"text":"Yes, I suspect so, and when you're done, we will no longer need these arrows.","color":"dark_aqua"}]}

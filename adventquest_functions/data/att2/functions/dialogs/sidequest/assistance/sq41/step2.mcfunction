@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- You never know what you're gonna g
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- You never know what you're gonna get -°- : ","color":"gray","extra":[{"text":"I found a big key with a pirate seal inscribed on it. Jack Arrow was right about an interesting treasure. I must now seek the lair of the pirates, surely hiding a great booty.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- You never know what you're gonna get -°- : ","color":"gray","extra":[{"text":"I found a big key with a pirate seal inscribed on it. Jack Arrow was right about an interesting treasure. I must now seek the lair of the pirates, surely hiding a great booty.","color":"aqua","italic":true}]}

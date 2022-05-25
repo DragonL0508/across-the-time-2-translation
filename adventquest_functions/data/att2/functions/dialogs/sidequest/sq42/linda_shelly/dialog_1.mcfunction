@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"Leave me... Go away, I don't want to see anyone...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Linda Shelly : ","color":"green","extra":[{"text":"Leave me... Go away, I don't want to see anyone...","color":"dark_aqua"}]}

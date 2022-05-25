@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Indra Lorth : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Indra Lorth : ","color":"green","extra":[{"text":"My daughter looks so much like me! She's as fearless as I was when I was her age. And then she inherited my taste for travel....","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Indra Lorth : ","color":"green","extra":[{"text":"My daughter looks so much like me! She's as fearless as I was when I was her age. And then she inherited my taste for travel....","color":"dark_aqua"}]}

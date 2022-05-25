@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[You never know what you're gonna get]"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[You never know what you're gonna get]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[You never know what you're gonna get]","color":"gold"}

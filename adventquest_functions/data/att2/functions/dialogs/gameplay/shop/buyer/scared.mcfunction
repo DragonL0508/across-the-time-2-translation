@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Sorry, I can't buy you these. I don't w
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Sorry, I can't buy you these. I don't want anything to do with this stuff, take it back!","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Sorry, I can't buy you these. I don't want anything to do with this stuff, take it back!","color":"gray"}

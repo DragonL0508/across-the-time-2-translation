@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Daril Gram : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Daril Gram : ","color":"green","extra":[{"text":"Would you be willing to give it to them? A group of fanatics hides in Angor, to the west. They are the ones who did this to my son... Give me the head of their boss, and I will reward you...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Daril Gram : ","color":"green","extra":[{"text":"Would you be willing to give it to them? A group of fanatics hides in Angor, to the west. They are the ones who did this to my son... Give me the head of their boss, and I will reward you...","color":"dark_aqua"}]}

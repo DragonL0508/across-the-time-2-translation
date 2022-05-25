@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Frowin Nepheris : ","color":"gre
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Frowin Nepheris : ","color":"green","extra":[{"text":"Thanks again for your help, but please go back behind the counter.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Frowin Nepheris : ","color":"green","extra":[{"text":"Thanks again for your help, but please go back behind the counter.","color":"dark_aqua"}]}

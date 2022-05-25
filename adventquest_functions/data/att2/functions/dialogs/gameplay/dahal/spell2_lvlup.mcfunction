@@ -13,4 +13,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"New level unlock for Fire Line!","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"New level unlock for Fire Line!","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"New level unlock for Fire Line!","color":"gold"}

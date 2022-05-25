@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Thank you for your visit.","color":"gra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Thank you for your visit.","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Thank you for your visit.","color":"gray"}

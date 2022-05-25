@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Annoying Bandits -°- : ","color":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Annoying Bandits -°- : ","color":"gray","extra":[{"text":"Ragnard Lorth gave me the task of ridding the forest of Elvetta of all its bandit camps. The Birch forest near the town of Méleïm.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Annoying Bandits -°- : ","color":"gray","extra":[{"text":"Ragnard Lorth gave me the task of ridding the forest of Elvetta of all its bandit camps. The Birch forest near the town of Méleïm.","color":"aqua","italic":true}]}

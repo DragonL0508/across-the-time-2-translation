@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Vulk : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Vulk : ","color":"green","extra":[{"text":"What's Wulk? No it doesn't mean anything to me, and what a ridiculous name ... Besides, it is impossible that another blacksmith can forge such a work from nothing ... If you find time my request will always be valid.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Vulk : ","color":"green","extra":[{"text":"What's Wulk? No it doesn't mean anything to me, and what a ridiculous name ... Besides, it is impossible that another blacksmith can forge such a work from nothing ... If you find time my request will always be valid.","color":"dark_aqua"}]}

@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Captain : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Captain : ","color":"green","extra":[{"text":"Are you fucking deaf? Step aside, it's dangerous here!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Captain : ","color":"green","extra":[{"text":"Are you fucking deaf? Step aside, it's dangerous here!","color":"dark_aqua"}]}
 
 
 function att2:dialogs/mainquest/act_4/pnj_captain/player_answer_proposal_1

@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"Unexpected, the sticky stones will revive the body asleep by the ages. In Ulgok'keström, the gem of eras awaits. The flesh being will reach it by the bridge new, and then by the great emerald door following.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Golem : ","color":"green","extra":[{"text":"Unexpected, the sticky stones will revive the body asleep by the ages. In Ulgok'keström, the gem of eras awaits. The flesh being will reach it by the bridge new, and then by the great emerald door following.","color":"dark_aqua"}]}

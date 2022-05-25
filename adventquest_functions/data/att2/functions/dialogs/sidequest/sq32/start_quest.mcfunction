@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Never leave anything behind]","color":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Never leave anything behind]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Never leave anything behind]","color":"gold"}

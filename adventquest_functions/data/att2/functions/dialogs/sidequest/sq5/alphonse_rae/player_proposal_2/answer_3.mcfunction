@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Alphonse Rae : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Alphonse Rae : ","color":"green","extra":[{"text":"All in good time. I'll let you take care of them, meet me at my farm.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Alphonse Rae : ","color":"green","extra":[{"text":"All in good time. I'll let you take care of them, meet me at my farm.","color":"dark_aqua"}]}

@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ashley Williams : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ashley Williams : ","color":"green","extra":[{"text":"Yes, what do you want?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ashley Williams : ","color":"green","extra":[{"text":"Yes, what do you want?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq43/ashley_williams/player_proposal_1/choice_1

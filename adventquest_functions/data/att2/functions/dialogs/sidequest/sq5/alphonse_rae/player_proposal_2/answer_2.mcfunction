@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Alphonse Rae : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Alphonse Rae : ","color":"green","extra":[{"text":"An incapable kid is what you are. You condemn me, you will see, I will not let this go!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Alphonse Rae : ","color":"green","extra":[{"text":"An incapable kid is what you are. You condemn me, you will see, I will not let this go!","color":"dark_aqua"}]}

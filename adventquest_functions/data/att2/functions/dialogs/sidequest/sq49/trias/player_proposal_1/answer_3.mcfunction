@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"You are as honorable as you are generous. But please deign accept my dearest and most sincere appreciations as well as this modest, but promised, reward.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"You are as honorable as you are generous. But please deign accept my dearest and most sincere appreciations as well as this modest, but promised, reward.","color":"dark_aqua"}]}

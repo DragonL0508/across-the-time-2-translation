@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Minions regain their health...","color"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Minions regain their health...","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Minions regain their health...","color":"gray","italic":true}

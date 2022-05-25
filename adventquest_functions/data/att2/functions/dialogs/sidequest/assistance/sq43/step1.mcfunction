@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The bait of gain -°- : ","color":
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The bait of gain -°- : ","color":"gray","extra":[{"text":"Ashley would like to have another chance to redeem. He told me that he prepared a rail system in Kert's mine in order to open the entry of a buried treasure whose value could help Linda. Apparently, she have debts, the money could certainly help her... I'll try to find this treasure and entrust her with some of it.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The bait of gain -°- : ","color":"gray","extra":[{"text":"Ashley would like to have another chance to redeem. He told me that he prepared a rail system in Kert's mine in order to open the entry of a buried treasure whose value could help Linda. Apparently, she have debts, the money could certainly help her... I'll try to find this treasure and entrust her with some of it.","color":"aqua","italic":true}]}

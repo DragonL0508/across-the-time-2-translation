@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Troublemakers : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Troublemakers : ","color":"green","extra":[{"text":"Wait, wait! Okay, okay, guys let's go. But you will not always be there to protect this idiot tavern keeper...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Troublemakers : ","color":"green","extra":[{"text":"Wait, wait! Okay, okay, guys let's go. But you will not always be there to protect this idiot tavern keeper...","color":"dark_aqua"}]}

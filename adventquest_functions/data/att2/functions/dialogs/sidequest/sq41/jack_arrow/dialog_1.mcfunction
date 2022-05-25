@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jack Arrow : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Jack Arrow : ","color":"green","extra":[{"text":"How did you find our lair? You should not be here!!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Jack Arrow : ","color":"green","extra":[{"text":"How did you find our lair? You should not be here!!","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq41/jack_arrow/player_proposal_1/choice_1

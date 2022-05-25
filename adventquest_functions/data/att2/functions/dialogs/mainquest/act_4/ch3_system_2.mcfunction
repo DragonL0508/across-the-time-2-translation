@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Ulkoggumi is restoring all his health b
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Ulkoggumi is restoring all his health back...","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Ulkoggumi is restoring all his health back...","color":"gray","italic":true}

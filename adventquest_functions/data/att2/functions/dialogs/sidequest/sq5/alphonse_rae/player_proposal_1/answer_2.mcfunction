@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alphonse Rae : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alphonse Rae : ","color":"green","extra":[{"text":"Ah yes, and how does he think that I am doing without my rabbits the kid? Anyway, the thing lies quiet in a cave by the river, I saw it! Follow the stream through the forest, the den will be on its right bank...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alphonse Rae : ","color":"green","extra":[{"text":"Ah yes, and how does he think that I am doing without my rabbits the kid? Anyway, the thing lies quiet in a cave by the river, I saw it! Follow the stream through the forest, the den will be on its right bank...","color":"dark_aqua"}]}

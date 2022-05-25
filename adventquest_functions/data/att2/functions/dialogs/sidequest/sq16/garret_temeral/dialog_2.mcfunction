@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garret : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Garret : ","color":"green","extra":[{"text":"Ah you came back! So are you determined to help us find arrows for our army?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Garret : ","color":"green","extra":[{"text":"Ah you came back! So are you determined to help us find arrows for our army?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq16/garret_temeral/player_proposal_1/choice_1

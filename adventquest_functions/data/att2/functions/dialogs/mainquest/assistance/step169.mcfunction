@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The last emerald is ready to be released, I just need to find the two Emerald keys to open the door in the center. They must be at the very top of the tower. I could then activate the drop mechanism !","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"The last emerald is ready to be released, I just need to find the two Emerald keys to open the door in the center. They must be at the very top of the tower. I could then activate the drop mechanism !","color":"aqua","bold":false}]}

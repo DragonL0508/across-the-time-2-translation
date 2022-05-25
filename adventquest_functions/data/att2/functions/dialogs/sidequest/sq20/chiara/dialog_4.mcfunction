@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Have you already forgotten the plan? No kidding, wait for the night to enter the sewers then break the weakened wall under the bank. Simple right?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Chiara : ","color":"green","extra":[{"text":"Have you already forgotten the plan? No kidding, wait for the night to enter the sewers then break the weakened wall under the bank. Simple right?","color":"dark_aqua"}]}

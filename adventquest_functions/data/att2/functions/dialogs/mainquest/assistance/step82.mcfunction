@@ -18,4 +18,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"What a tragic end for Relgon... All these events in Angband were intense. I have to talk to Etotsira, the one from my time, he will be able to explain everything clearly to me. Let us now return to the gate and return to Ëarndhel.","color":"aqua","bold":false}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","color":"dark_red","extra":[{"text":" : "},{"text":"What a tragic end for Relgon... All these events in Angband were intense. I have to talk to Etotsira, the one from my time, he will be able to explain everything clearly to me. Let us now return to the gate and return to Ëarndhel.","color":"aqua","bold":false}]}

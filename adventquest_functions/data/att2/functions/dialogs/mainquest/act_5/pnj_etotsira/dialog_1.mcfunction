@@ -17,7 +17,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Wait hero, if you go through this portal, I'm afraid that you can't come back here. Are you sure that you're ready ?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"Wait hero, if you go through this portal, I'm afraid that you can't come back here. Are you sure that you're ready ?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/mainquest/act_5/pnj_etotsira/player_answer_proposal_1

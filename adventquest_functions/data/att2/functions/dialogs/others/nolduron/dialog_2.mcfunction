@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nolduron : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nolduron : ","color":"green","extra":[{"text":"Glad you are in the area again. You may have noticed, some residents are no longer in the village. Indeed many traders have gone to do business in other regions since you saved the seven dimensions of Ranégot. By the way, your house is always yours, you are always welcome.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Nolduron : ","color":"green","extra":[{"text":"Glad you are in the area again. You may have noticed, some residents are no longer in the village. Indeed many traders have gone to do business in other regions since you saved the seven dimensions of Ranégot. By the way, your house is always yours, you are always welcome.","color":"dark_aqua"}]}

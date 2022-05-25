@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Amariel Kaleb : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Amariel Kaleb : ","color":"green","extra":[{"text":"Sorry, I can't rent you a room if you don't have enough Chronotons.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Amariel Kaleb : ","color":"green","extra":[{"text":"Sorry, I can't rent you a room if you don't have enough Chronotons.","color":"dark_aqua"}]}

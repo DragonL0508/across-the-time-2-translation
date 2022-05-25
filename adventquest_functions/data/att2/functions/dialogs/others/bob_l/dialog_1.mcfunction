@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Bob L. : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Bob L. : ","color":"green","extra":[{"text":"Hey! Be careful, kid! I, the great Bob Laïnonne, am practicing throwing powerful fireballs. Come on, get away from here now.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Bob L. : ","color":"green","extra":[{"text":"Hey! Be careful, kid! I, the great Bob Laïnonne, am practicing throwing powerful fireballs. Come on, get away from here now.","color":"dark_aqua"}]}

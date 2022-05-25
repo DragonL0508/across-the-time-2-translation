@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Joël Roblochon : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Joël Roblochon : ","color":"green","extra":[{"text":"Whatever. The only secret exit I know of is right ahead, after the hallway leading to my meat supply. Activate the lever hidden behind the wall of the shelf lit by two torches.","bold":false,"color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Joël Roblochon : ","color":"green","extra":[{"text":"Whatever. The only secret exit I know of is right ahead, after the hallway leading to my meat supply. Activate the lever hidden behind the wall of the shelf lit by two torches.","bold":false,"color":"dark_aqua"}]}

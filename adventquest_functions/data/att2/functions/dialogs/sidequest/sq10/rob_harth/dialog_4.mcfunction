@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Rob Harth : ","color":"green","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Rob Harth : ","color":"green","extra":[{"text":"Go away, I will manage without you.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Rob Harth : ","color":"green","extra":[{"text":"Go away, I will manage without you.","color":"dark_aqua"}]}

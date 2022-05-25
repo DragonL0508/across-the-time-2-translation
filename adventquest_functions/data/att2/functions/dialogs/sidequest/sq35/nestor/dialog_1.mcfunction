@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nestor : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Nestor : ","color":"green","extra":[{"text":"Go, the establishment is closed... I have enough problems as is.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Nestor : ","color":"green","extra":[{"text":"Go, the establishment is closed... I have enough problems as is.","color":"dark_aqua"}]}

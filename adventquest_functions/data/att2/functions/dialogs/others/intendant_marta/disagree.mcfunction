@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Intendant Marta : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Intendant Marta : ","color":"green","extra":[{"text":"Sorry, but it seems as though you don't have enough. Come see me again when you have all the money on you.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Intendant Marta : ","color":"green","extra":[{"text":"Sorry, but it seems as though you don't have enough. Come see me again when you have all the money on you.","color":"dark_aqua"}]}

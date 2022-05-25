@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hurriel Sun : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Hurriel Sun : ","color":"green","extra":[{"text":"The town of Ryliath is renowned in Sylberländ, so many legends speak of it.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Hurriel Sun : ","color":"green","extra":[{"text":"The town of Ryliath is renowned in Sylberländ, so many legends speak of it.","color":"dark_aqua"}]}

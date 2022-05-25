@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sorvo Miron : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Sorvo Miron : ","color":"green","extra":[{"text":"It'll be 5 Chronotons!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Sorvo Miron : ","color":"green","extra":[{"text":"It'll be 5 Chronotons!","color":"dark_aqua"}]}

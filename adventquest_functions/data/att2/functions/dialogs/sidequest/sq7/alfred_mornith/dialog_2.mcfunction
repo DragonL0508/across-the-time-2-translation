@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alfred Mornith : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Alfred Mornith : ","color":"green","extra":[{"text":"Did you find some? There are plenty in the mines, and then, I'll let you blow up the entrance.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Alfred Mornith : ","color":"green","extra":[{"text":"Did you find some? There are plenty in the mines, and then, I'll let you blow up the entrance.","color":"dark_aqua"}]}

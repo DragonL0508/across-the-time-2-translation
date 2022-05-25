@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Adrian : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Adrian : ","color":"green","extra":[{"text":"Good timing, I wanted to talk to you about some mischief that occurred in the palace. We were robbed of the plans of the palace made by the famous architect Corbus. These plans are part of Ryliath's secret archives and reveal number of hidden passages in the structures of the city and the palace. It is imperative to find these plans. Will you help us? You will be rewarded, you have the word of a king!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Adrian : ","color":"green","extra":[{"text":"Good timing, I wanted to talk to you about some mischief that occurred in the palace. We were robbed of the plans of the palace made by the famous architect Corbus. These plans are part of Ryliath's secret archives and reveal number of hidden passages in the structures of the city and the palace. It is imperative to find these plans. Will you help us? You will be rewarded, you have the word of a king!","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq30/adrian/player_proposal_1/choice_1

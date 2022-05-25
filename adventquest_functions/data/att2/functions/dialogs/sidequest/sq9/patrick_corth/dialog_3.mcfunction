@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Patrick Corth : ","color":"green
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Patrick Corth : ","color":"green","extra":[{"text":"So do you have my logs?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Patrick Corth : ","color":"green","extra":[{"text":"So do you have my logs?","color":"dark_aqua"}]}
 
 
 function att2:dialogs/sidequest/sq9/patrick_corth/player_proposal_2/choice_1

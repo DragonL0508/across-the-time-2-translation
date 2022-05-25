@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Shop reset in --> ","color":"dark_gray"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Shop reset in --> ","color":"dark_gray","hoverEvent":{"action":"show_text","value":"Time remaining before the next re-initialization of items for sale by merchants."},"extra":[{"score":{"name":"minuteRemain","objective":"SHOP_OP1"},"color":"dark_red"},{"text":":","color":"gray"},{"score":{"name":"secondRemain","objective":"SHOP_OP1"},"color":"dark_red"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Shop reset in --> ","color":"dark_gray","hoverEvent":{"action":"show_text","value":"Time remaining before the next re-initialization of items for sale by merchants."},"extra":[{"score":{"name":"minuteRemain","objective":"SHOP_OP1"},"color":"dark_red"},{"text":":","color":"gray"},{"score":{"name":"secondRemain","objective":"SHOP_OP1"},"color":"dark_red"}]}

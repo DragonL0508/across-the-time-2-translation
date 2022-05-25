@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Um... I'll give you ","color":"gray","e
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Um... I'll give you ","color":"gray","extra":[{"score":{"name":"total","objective":"RECYCLER"},"color":"yellow"},{"text":" for these.","color":"gray"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Um... I'll give you ","color":"gray","extra":[{"score":{"name":"total","objective":"RECYCLER"},"color":"yellow"},{"text":" for these.","color":"gray"}]}

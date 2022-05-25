@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Albert Dirac : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Albert Dirac : ","color":"green","extra":[{"text":"Welcome to the Eolorion Inn. Would you like to rest in one of our rooms? You can rent one for the day at a very reasonable price.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Albert Dirac : ","color":"green","extra":[{"text":"Welcome to the Eolorion Inn. Would you like to rest in one of our rooms? You can rent one for the day at a very reasonable price.","color":"dark_aqua"}]}
 
 
 scoreboard players set albert_dirac_PNJ DIALOG 2

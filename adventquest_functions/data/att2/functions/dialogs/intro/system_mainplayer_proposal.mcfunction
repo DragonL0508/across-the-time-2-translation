@@ -21,7 +21,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Welcome ! To start, you need to choose 
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Welcome ! To start, you need to choose which player will have the lead role.","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Welcome ! To start, you need to choose which player will have the lead role.","color":"gray","italic":true}
 
 tellraw @s[scores={LANGUAGE=1}] {"text":"The assignment of the main role will have no consequence on the gameplay. This only allows you to define which player will be the hero of the adventure. If there are several of you, the other players will be your companions.","color":"gray","italic":true}
 

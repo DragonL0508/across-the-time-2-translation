@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","extra":[{"text":" : "},{"text"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@s","extra":[{"text":" : "},{"text":"[It is a chance for them that you are there, because I wouldn't have let it happen. -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-003a-0000-00000000003a if entity @s[distance=..7] if score sylvandre_PNJ DIALOG matches 2 run function att2:dialogs/others/sylvandre/answer_green_2"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@s","extra":[{"text":" : "},{"text":"[It is a chance for them that you are there, because I wouldn't have let it happen. -->]","color":"gray","clickEvent":{"action":"run_command","value":"/execute at 00000000-0000-003a-0000-00000000003a if entity @s[distance=..7] if score sylvandre_PNJ DIALOG matches 2 run function att2:dialogs/others/sylvandre/answer_green_2"},"hoverEvent":{"action":"show_text","value":"Click here - answer 1"}}]}

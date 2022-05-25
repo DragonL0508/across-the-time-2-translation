@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The remains of the past -°- : ","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The remains of the past -°- : ","color":"gray","extra":[{"text":"Here I am in a sort of secret laboratory. Let's explore as far as possible to find what is hidden there...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The remains of the past -°- : ","color":"gray","extra":[{"text":"Here I am in a sort of secret laboratory. Let's explore as far as possible to find what is hidden there...","color":"aqua","italic":true}]}

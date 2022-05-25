@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Ah yes? You would be amazed at what my horses are capable of...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Hélèna Meli : ","color":"green","extra":[{"text":"Ah yes? You would be amazed at what my horses are capable of...","color":"dark_aqua"}]}

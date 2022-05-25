@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Clean the nest -°- : ","color":"g
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Clean the nest -°- : ","color":"gray","extra":[{"text":"Feanorth asked me to help him clean up an Atricanth nest installed in the western quarters of Angor...","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Clean the nest -°- : ","color":"gray","extra":[{"text":"Feanorth asked me to help him clean up an Atricanth nest installed in the western quarters of Angor...","color":"aqua","italic":true}]}

@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Hélèna's horses]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Hélèna's horses]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Hélèna's horses]","color":"gold"}

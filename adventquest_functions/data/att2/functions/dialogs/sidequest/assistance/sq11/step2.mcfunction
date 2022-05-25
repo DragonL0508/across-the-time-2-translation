@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Troublemakers -°- : ","color":"gr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Troublemakers -°- : ","color":"gray","extra":[{"text":"I need to get rid of these troublemakers and I will just have to see him for him to offer me a little something in return.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Troublemakers -°- : ","color":"gray","extra":[{"text":"I need to get rid of these troublemakers and I will just have to see him for him to offer me a little something in return.","color":"aqua","italic":true}]}

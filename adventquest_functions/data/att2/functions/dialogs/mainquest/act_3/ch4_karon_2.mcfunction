@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Karön : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Karön : ","color":"green","extra":[{"text":"I'll take care of it!","color":"red"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Karön : ","color":"green","extra":[{"text":"I'll take care of it!","color":"red"}]}

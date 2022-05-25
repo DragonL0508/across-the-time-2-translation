@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Raphaël : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Raphaël : ","color":"green","extra":[{"text":"Whoa! Whoa! Whoa! Then the knights are really the best men in the world! I'll tell everyone what you did for me!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Raphaël : ","color":"green","extra":[{"text":"Whoa! Whoa! Whoa! Then the knights are really the best men in the world! I'll tell everyone what you did for me!","color":"dark_aqua"}]}

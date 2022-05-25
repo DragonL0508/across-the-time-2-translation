@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Abrock : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Abrock : ","color":"green","extra":[{"text":"Who are you foreigner? I am the wood cutter, I go into the forest with my axe, and I bring it here to exchange it.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Abrock : ","color":"green","extra":[{"text":"Who are you foreigner? I am the wood cutter, I go into the forest with my axe, and I bring it here to exchange it.","color":"dark_aqua"}]}

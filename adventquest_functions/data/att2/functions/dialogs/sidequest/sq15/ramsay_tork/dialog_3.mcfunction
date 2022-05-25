@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ramsay Tork : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Ramsay Tork : ","color":"green","extra":[{"text":"Thanks again for the help you gave me, if you want to buy some armor from me: take a look!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/ramsay_tork_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Ramsay is selling."}}]}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Ramsay Tork : ","color":"green","extra":[{"text":"Thanks again for the help you gave me, if you want to buy some armor from me: take a look!","color":"dark_aqua","extra":[{"text":" [See the merchandise -->]","color":"yellow","clickEvent":{"action":"run_command","value":"/function att2:gameplay/shop/seller/ramsay_tork_shop_opening"},"hoverEvent":{"action":"show_text","value":"Click here to look at what Ramsay is selling."}}]}]}

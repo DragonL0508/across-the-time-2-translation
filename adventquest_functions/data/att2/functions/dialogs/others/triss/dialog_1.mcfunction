@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"Hello, if you are looking for some information, you can find Aramis the Archimage in his quarters on the top floors of the academy.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"Hello, if you are looking for some information, you can find Aramis the Archimage in his quarters on the top floors of the academy.","color":"dark_aqua"}]}

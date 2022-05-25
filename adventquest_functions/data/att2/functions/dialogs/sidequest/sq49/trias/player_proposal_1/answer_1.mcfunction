@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"Allow me to insist, this bow is very close to my heart. I regret losing it...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Trias : ","color":"green","extra":[{"text":"Allow me to insist, this bow is very close to my heart. I regret losing it...","color":"dark_aqua"}]}

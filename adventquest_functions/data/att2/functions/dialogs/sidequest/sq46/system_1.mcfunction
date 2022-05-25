@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Umbra'Tyanth regains all his lives...",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Umbra'Tyanth regains all his lives...","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Umbra'Tyanth regains all his lives...","color":"gray","italic":true}

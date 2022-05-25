@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Marlène : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Marlène : ","color":"green","extra":[{"text":"Yes. It's not an adventurer the kid so he shouldn't be too far off the trails that go to Ryliath. Go and don't delay too long, huh?","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Marlène : ","color":"green","extra":[{"text":"Yes. It's not an adventurer the kid so he shouldn't be too far off the trails that go to Ryliath. Go and don't delay too long, huh?","color":"dark_aqua"}]}

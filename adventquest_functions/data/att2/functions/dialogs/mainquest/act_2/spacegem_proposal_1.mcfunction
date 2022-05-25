@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Take the gem of space. -->]","color":"gold","clickEvent":{"action":"run_command","value":"/function att2:cinematic/act_2/gem_of_space/trigger1"},"hoverEvent":{"action":"show_text","value":"Click here to take the gem."}}]}
+tellraw @a[scores={LANGUAGE=2}] {"selector":"@a[scores={NUMEROJOUEUR=1}]","extra":[{"text":" : "},{"text":"[Take the gem of space. -->]","color":"gold","clickEvent":{"action":"run_command","value":"/function att2:cinematic/act_2/gem_of_space/trigger1"},"hoverEvent":{"action":"show_text","value":"Click here to take the gem."}}]}

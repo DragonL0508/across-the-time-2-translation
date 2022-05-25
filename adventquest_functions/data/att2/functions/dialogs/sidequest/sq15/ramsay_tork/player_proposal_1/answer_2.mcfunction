@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ramsay Tork : ","color":"green",
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Ramsay Tork : ","color":"green","extra":[{"text":"Well, excuse me, will 150 Chronotons work? The foundry district is opposite the palace to the west, if you accept.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Ramsay Tork : ","color":"green","extra":[{"text":"Well, excuse me, will 150 Chronotons work? The foundry district is opposite the palace to the west, if you accept.","color":"dark_aqua"}]}

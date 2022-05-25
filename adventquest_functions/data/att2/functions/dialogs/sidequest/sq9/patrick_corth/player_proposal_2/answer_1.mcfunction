@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Patrick Corth : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Patrick Corth : ","color":"green","extra":[{"text":"I'm sorry, yes, I should have told you, but I was afraid that you would refuse...","bold":false,"color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Patrick Corth : ","color":"green","extra":[{"text":"I'm sorry, yes, I should have told you, but I was afraid that you would refuse...","bold":false,"color":"dark_aqua"}]}

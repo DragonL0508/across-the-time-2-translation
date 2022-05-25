@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Treasure of Silberländ -°- : ","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Treasure of Silberländ -°- : ","color":"gray","extra":[{"text":"I have finished exploring. I must now go back to inform Mortimer on the discovery and tell him what I found there.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Treasure of Silberländ -°- : ","color":"gray","extra":[{"text":"I have finished exploring. I must now go back to inform Mortimer on the discovery and tell him what I found there.","color":"aqua","italic":true}]}

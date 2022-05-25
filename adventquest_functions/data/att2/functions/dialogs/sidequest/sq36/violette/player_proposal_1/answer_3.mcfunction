@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Violette : ","color":"green","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Violette : ","color":"green","extra":[{"text":"Indeed, I understand. You will have them when the cemetery and the crypt are again accessible.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Violette : ","color":"green","extra":[{"text":"Indeed, I understand. You will have them when the cemetery and the crypt are again accessible.","color":"dark_aqua"}]}

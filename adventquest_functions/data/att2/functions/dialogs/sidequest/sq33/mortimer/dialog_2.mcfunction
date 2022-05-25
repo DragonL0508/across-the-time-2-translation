@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","ex
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"Is research progressing well? If you forgot, you must find ancient monoliths throughout the Sylberländ region. The elements to be returned to me are simply pieces of cut stones, preferably.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Mortimer : ","color":"green","extra":[{"text":"Is research progressing well? If you forgot, you must find ancient monoliths throughout the Sylberländ region. The elements to be returned to me are simply pieces of cut stones, preferably.","color":"dark_aqua"}]}

@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Patrick Corth : ","color":"green"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Patrick Corth : ","color":"green","extra":[{"text":"Come on, don't be so negative, at least you get paid to get some fresh air!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Patrick Corth : ","color":"green","extra":[{"text":"Come on, don't be so negative, at least you get paid to get some fresh air!","color":"dark_aqua"}]}

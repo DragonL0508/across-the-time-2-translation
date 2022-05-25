@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"You don't have legendary sparkle!","col
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"You don't have legendary sparkle!","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"You don't have legendary sparkle!","color":"gray"}

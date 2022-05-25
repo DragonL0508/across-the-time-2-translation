@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","ext
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"La Flamme Noire reminds me of one of those monsters that invaded Tellurön a long time ago. There is nothing that terrifies me more than the memory of these...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Etotsira : ","color":"blue","extra":[{"text":"La Flamme Noire reminds me of one of those monsters that invaded Tellurön a long time ago. There is nothing that terrifies me more than the memory of these...","color":"dark_aqua"}]}

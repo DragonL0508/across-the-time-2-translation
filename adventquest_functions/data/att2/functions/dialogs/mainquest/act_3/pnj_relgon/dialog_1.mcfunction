@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"The seals of fire and lava are essential to access the den of La Flamme Noire. When you find them, you can place them directly on the large door at the end of the entrance corridor of the Angor fortress.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Relgon : ","color":"red","extra":[{"text":"The seals of fire and lava are essential to access the den of La Flamme Noire. When you find them, you can place them directly on the large door at the end of the entrance corridor of the Angor fortress.","color":"dark_aqua"}]}

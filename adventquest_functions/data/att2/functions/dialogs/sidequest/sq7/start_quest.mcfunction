@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[Clear the passage]","color":"gold"}
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[Clear the passage]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[Clear the passage]","color":"gold"}

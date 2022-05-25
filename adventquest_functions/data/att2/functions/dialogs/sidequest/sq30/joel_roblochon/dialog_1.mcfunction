@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Joël Roblochon : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Joël Roblochon : ","color":"green","extra":[{"text":"Hello! Normally it is forbidden to enter my kitchen, but hey I will make an exception with you. Above all, don't touch anything!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Joël Roblochon : ","color":"green","extra":[{"text":"Hello! Normally it is forbidden to enter my kitchen, but hey I will make an exception with you. Above all, don't touch anything!","color":"dark_aqua"}]}

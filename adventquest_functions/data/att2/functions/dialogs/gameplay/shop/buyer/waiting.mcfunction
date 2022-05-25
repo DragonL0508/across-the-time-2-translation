@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"Place your goods on the counter....","c
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"Place your goods on the counter....","color":"gray"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"Place your goods on the counter....","color":"gray"}

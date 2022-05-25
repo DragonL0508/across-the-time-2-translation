@@ -15,7 +15,7 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Intendant Joffrey : ","color":"gr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Intendant Joffrey : ","color":"green","extra":[{"text":"Oh, are you the hero who helped king Adrian? He told me of an offer you couldn't possibly refuse. Indeed for a reward, the king asked me to give you one of the city's most beautiful houses. I was thinking about selling it for a very good price, but well... it's all yours now, take these keys!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Intendant Joffrey : ","color":"green","extra":[{"text":"Oh, are you the hero who helped king Adrian? He told me of an offer you couldn't possibly refuse. Indeed for a reward, the king asked me to give you one of the city's most beautiful houses. I was thinking about selling it for a very good price, but well... it's all yours now, take these keys!","color":"dark_aqua"}]}
 
 
 scoreboard players set intendant_joffrey_PNJ DIALOG 5

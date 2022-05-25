@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Daril Gram : ","color":"green","
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":" °-° Daril Gram : ","color":"green","extra":[{"text":"The fanatics? Are they dead? Make them suffer, they will know the bitterness of desolation...","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":" °-° Daril Gram : ","color":"green","extra":[{"text":"The fanatics? Are they dead? Make them suffer, they will know the bitterness of desolation...","color":"dark_aqua"}]}

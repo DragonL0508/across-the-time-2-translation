@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Eldaris : ","color":"green","extr
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Eldaris : ","color":"green","extra":[{"text":"If that's all it takes, take these Chronotons. But don't come to betray us, or you'll regret it.","bold":false,"color":"gold"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Eldaris : ","color":"green","extra":[{"text":"If that's all it takes, take these Chronotons. But don't come to betray us, or you'll regret it.","bold":false,"color":"gold"}]}

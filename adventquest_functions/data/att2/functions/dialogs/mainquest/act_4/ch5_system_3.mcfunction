@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"High level alert! Fusion of main genera
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"High level alert! Fusion of main generator of Ithax. Safety fencing compromised! Attention : All passengers must evacuate the station! Error, malfunctionning of the security systems... Error...","color":"gray","italic":true}
+tellraw @a[scores={LANGUAGE=2}] {"text":"High level alert! Fusion of main generator of Ithax. Safety fencing compromised! Attention : All passengers must evacuate the station! Error, malfunctionning of the security systems... Error...","color":"gray","italic":true}

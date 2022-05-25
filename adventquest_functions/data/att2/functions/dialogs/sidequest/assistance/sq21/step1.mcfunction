@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Pride of Vulk -°- : ","color"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- The Pride of Vulk -°- : ","color":"gray","extra":[{"text":"I have to help Vulk bring back an old mass that Henry Johns said would be in the temple of Worlëst. It must surely be hidden by some mechanism or secret passage.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- The Pride of Vulk -°- : ","color":"gray","extra":[{"text":"I have to help Vulk bring back an old mass that Henry Johns said would be in the temple of Worlëst. It must surely be hidden by some mechanism or secret passage.","color":"aqua","italic":true}]}

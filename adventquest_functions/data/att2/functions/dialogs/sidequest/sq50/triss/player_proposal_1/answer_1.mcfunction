@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"I understand it's an enormous task I am asking for. I won't hold any grudge towards you.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Triss : ","color":"green","extra":[{"text":"I understand it's an enormous task I am asking for. I won't hold any grudge towards you.","color":"dark_aqua"}]}

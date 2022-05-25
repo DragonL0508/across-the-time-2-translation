@@ -17,4 +17,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"[An uncontrollable invasion]","color":"
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"[An uncontrollable invasion]","color":"gold"}
+tellraw @a[scores={LANGUAGE=2}] {"text":"[An uncontrollable invasion]","color":"gold"}

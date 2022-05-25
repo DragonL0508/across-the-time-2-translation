@@ -16,4 +16,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Brother Gacko's escape -°- : ","c
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"-°- Brother Gacko's escape -°- : ","color":"gray","extra":[{"text":"I freed Tyrgols from his cell, now I just need to get back to Gregor to recieve my reward.","color":"aqua","italic":true}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"-°- Brother Gacko's escape -°- : ","color":"gray","extra":[{"text":"I freed Tyrgols from his cell, now I just need to get back to Gregor to recieve my reward.","color":"aqua","italic":true}]}

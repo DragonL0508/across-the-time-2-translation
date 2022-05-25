@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Frowin Nepheris : ","color":"gree
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Frowin Nepheris : ","color":"green","extra":[{"text":"Perfect, go upstairs, they're at the back table ! You can try diplomacy, but hey, I don't really believe in the issues.","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Frowin Nepheris : ","color":"green","extra":[{"text":"Perfect, go upstairs, they're at the back table ! You can try diplomacy, but hey, I don't really believe in the issues.","color":"dark_aqua"}]}

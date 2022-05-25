@@ -15,4 +15,4 @@ tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Adrian : ","color":"green","extra
 
 #TRADITIONAL CHINESE
 
-tellraw @s[scores={LANGUAGE=1}] {"text":"°-° Adrian : ","color":"green","extra":[{"text":"Have you found any clues? You are authorized to use our secret passages for your investigation. Do not deprive yourself!","color":"dark_aqua"}]}
+tellraw @a[scores={LANGUAGE=2}] {"text":"°-° Adrian : ","color":"green","extra":[{"text":"Have you found any clues? You are authorized to use our secret passages for your investigation. Do not deprive yourself!","color":"dark_aqua"}]}
