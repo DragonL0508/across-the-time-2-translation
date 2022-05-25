@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_sword"],
-                    "nbt": "{display:{Name:\"\\\"§7Rark ul\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Décevant.\\\"}\",\"{\\\"text\\\":\\\"§7Disappointing.\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Rark ul\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Décevant.\\\"}\",\"{\\\"text\\\":\\\"§7Disappointing.\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

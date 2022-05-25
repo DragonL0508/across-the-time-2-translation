@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§2Long poinçon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fabrication ancestrale.\\\"}\",\"{\\\"text\\\":\\\"§7Ancestral manufacture.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§c-3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Long poinçon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fabrication ancestrale.\\\"}\",\"{\\\"text\\\":\\\"§7Ancestral manufacture.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§c-3\\\"}\"]}}"
                     }
                 ]
             }

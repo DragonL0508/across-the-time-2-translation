@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Ska ou ra\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ta petitesse ne te gène point,\\\"}\",\"{\\\"text\\\":\\\"§7car elle t'assure protection...\\\"}\",\"{\\\"text\\\":\\\"§7Your lowliness does not bother you,\\\"}\",\"{\\\"text\\\":\\\"§7because it ensures your protection...\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7DAR§a1 §7HUN§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Ska ou ra\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ta petitesse ne te gène point,\\\"}\",\"{\\\"text\\\":\\\"§7car elle t'assure protection...\\\"}\",\"{\\\"text\\\":\\\"§7Your lowliness does not bother you,\\\"}\",\"{\\\"text\\\":\\\"§7because it ensures your protection...\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢魔§a1 §7飽食§c-2\\\"}\"]}}"
                     }
                 ]
             }

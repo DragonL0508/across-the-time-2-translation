@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§6Absolue Tenacité\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Endure, fier comme le ciel, tenace comme le temps,\\\"}\",\"{\\\"text\\\":\\\"§7jusqu'à l'horizon inaccessible de persévérance.\\\"}\",\"{\\\"text\\\":\\\"§7Endures, proud as the sky, tenacious as time,\\\"}\",\"{\\\"text\\\":\\\"§7to the unattainable horizon of perseverance.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7DAR§a2 §7HUN§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Absolue Tenacité\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Endure, fier comme le ciel, tenace comme le temps,\\\"}\",\"{\\\"text\\\":\\\"§7jusqu'à l'horizon inaccessible de persévérance.\\\"}\",\"{\\\"text\\\":\\\"§7Endures, proud as the sky, tenacious as time,\\\"}\",\"{\\\"text\\\":\\\"§7to the unattainable horizon of perseverance.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢魔§a2 §7飽食§a2\\\"}\"]}}"
                     }
                 ]
             }

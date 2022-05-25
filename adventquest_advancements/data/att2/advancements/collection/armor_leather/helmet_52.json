@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§6Cache fureur\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Par tout temps, le ciel te paraît sombre\\\"}\",\"{\\\"text\\\":\\\"§7mais personne ne lève jamais les yeux sur toi.\\\"}\",\"{\\\"text\\\":\\\"§7In all weathers, the sky seems dark to you\\\"}\",\"{\\\"text\\\":\\\"§7but no one ever looks up at you.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§a2 §7HUN§a1\\\"}\"],color:2302737}}"
+                    "nbt": "{display:{Name:\"\\\"§6Cache fureur\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Par tout temps, le ciel te paraît sombre\\\"}\",\"{\\\"text\\\":\\\"§7mais personne ne lève jamais les yeux sur toi.\\\"}\",\"{\\\"text\\\":\\\"§7In all weathers, the sky seems dark to you\\\"}\",\"{\\\"text\\\":\\\"§7but no one ever looks up at you.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§a2 §7飽食§a1\\\"}\"],color:2302737}}"
                     }
                 ]
             }

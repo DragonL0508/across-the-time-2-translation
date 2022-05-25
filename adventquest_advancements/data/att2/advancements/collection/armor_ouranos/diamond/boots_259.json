@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_boots"],
-                    "nbt": "{display:{Name:\"\\\"§5La douleur de l'éternän\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Peu importe la blessure, rien n'est pire\\\"}\",\"{\\\"text\\\":\\\"§7pour lui qu'être loin des siens.\\\"}\",\"{\\\"text\\\":\\\"§7No matter what the injury, nothing is worse\\\"}\",\"{\\\"text\\\":\\\"§7for him than being away from his own people.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§a2 §7DAR§a3 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5La douleur de l'éternän\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Peu importe la blessure, rien n'est pire\\\"}\",\"{\\\"text\\\":\\\"§7pour lui qu'être loin des siens.\\\"}\",\"{\\\"text\\\":\\\"§7No matter what the injury, nothing is worse\\\"}\",\"{\\\"text\\\":\\\"§7for him than being away from his own people.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§a2 §7恢魔§a3 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

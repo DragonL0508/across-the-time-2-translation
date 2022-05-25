@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:crossbow"],
-                    "nbt": "{display:{Name:\"\\\"§9Compagnon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un périple est plus agréable entre amis.\\\"}\",\"{\\\"text\\\":\\\"§7A journey is more pleasant with friends.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7HUN§a1 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Compagnon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un périple est plus agréable entre amis.\\\"}\",\"{\\\"text\\\":\\\"§7A journey is more pleasant with friends.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7飽食§a1 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

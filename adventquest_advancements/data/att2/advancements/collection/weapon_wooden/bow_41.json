@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:bow"],
-                    "nbt": "{display:{Name:\"\\\"§9Vive flèche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Juste et agile.\\\"}\",\"{\\\"text\\\":\\\"§7Right and agile.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Vive flèche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Juste et agile.\\\"}\",\"{\\\"text\\\":\\\"§7Right and agile.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

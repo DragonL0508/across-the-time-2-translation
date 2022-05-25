@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_axe"],
-                    "nbt": "{display:{Name:\"\\\"§6Trillon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Insatiable, il amassa cent âmes\\\"}\",\"{\\\"text\\\":\\\"§7puis courut à sa perte.\\\"}\",\"{\\\"text\\\":\\\"§7Insatiable, he gathered a hundred souls\\\"}\",\"{\\\"text\\\":\\\"§7before running to his death.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HAS§a3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Trillon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Insatiable, il amassa cent âmes\\\"}\",\"{\\\"text\\\":\\\"§7puis courut à sa perte.\\\"}\",\"{\\\"text\\\":\\\"§7Insatiable, he gathered a hundred souls\\\"}\",\"{\\\"text\\\":\\\"§7before running to his death.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7攻速§a3\\\"}\"]}}"
                     }
                 ]
             }

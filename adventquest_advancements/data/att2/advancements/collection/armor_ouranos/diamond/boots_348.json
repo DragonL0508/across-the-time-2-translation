@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_boots"],
-                    "nbt": "{display:{Name:\"\\\"§5Nonchalance Somniophage\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Rien de plus agréable que de ne plus\\\"}\",\"{\\\"text\\\":\\\"§7se sentir soumis, aux forces de la gravité.\\\"}\",\"{\\\"text\\\":\\\"§7Nothing is more pleasant than feeling free\\\"}\",\"{\\\"text\\\":\\\"§7from the forces of gravity.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§a2 §7SPD§a2 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Nonchalance Somniophage\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Rien de plus agréable que de ne plus\\\"}\",\"{\\\"text\\\":\\\"§7se sentir soumis, aux forces de la gravité.\\\"}\",\"{\\\"text\\\":\\\"§7Nothing is more pleasant than feeling free\\\"}\",\"{\\\"text\\\":\\\"§7from the forces of gravity.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§a2 §7速度§a2 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

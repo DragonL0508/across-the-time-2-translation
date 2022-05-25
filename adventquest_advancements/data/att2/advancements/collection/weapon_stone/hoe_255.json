@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§7Défectueuse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arme qui a bien trop vieilli...\\\"}\",\"{\\\"text\\\":\\\"§7Weapon that has aged far too much...\\\"}\",\"{\\\"text\\\":\\\"§7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Défectueuse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arme qui a bien trop vieilli...\\\"}\",\"{\\\"text\\\":\\\"§7Weapon that has aged far too much...\\\"}\",\"{\\\"text\\\":\\\"§7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

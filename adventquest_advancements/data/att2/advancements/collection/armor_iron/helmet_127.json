@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§6Cornes\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Surmonte ton crâne et insuffle stupeurs\\\"}\",\"{\\\"text\\\":\\\"§7et cauchemars même aux plus mauvais.\\\"}\",\"{\\\"text\\\":\\\"§7Surmount your skull and breathe stupor\\\"}\",\"{\\\"text\\\":\\\"§7and nightmares into even the worst.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§a3 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Cornes\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Surmonte ton crâne et insuffle stupeurs\\\"}\",\"{\\\"text\\\":\\\"§7et cauchemars même aux plus mauvais.\\\"}\",\"{\\\"text\\\":\\\"§7Surmount your skull and breathe stupor\\\"}\",\"{\\\"text\\\":\\\"§7and nightmares into even the worst.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§a3 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

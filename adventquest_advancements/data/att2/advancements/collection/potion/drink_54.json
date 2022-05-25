@@ -21,7 +21,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§5Philtre magique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7De quoi prouver la sincérité des intentions,\\\"}\",\"{\\\"text\\\":\\\"§7louables à la créations de ces infusions.\\\"}\",\"{\\\"text\\\":\\\"§7Enough to prove the sincerity of intentions,\\\"}\",\"{\\\"text\\\":\\\"§7laudable to the creations of these infusions.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§a3 §7HUN§a1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Philtre magique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7De quoi prouver la sincérité des intentions,\\\"}\",\"{\\\"text\\\":\\\"§7louables à la créations de ces infusions.\\\"}\",\"{\\\"text\\\":\\\"§7Enough to prove the sincerity of intentions,\\\"}\",\"{\\\"text\\\":\\\"§7laudable to the creations of these infusions.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§a3 §7飽食§a1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

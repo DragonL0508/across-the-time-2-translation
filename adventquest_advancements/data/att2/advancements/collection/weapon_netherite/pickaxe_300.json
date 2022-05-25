@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§9Maillet argenté\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une lueur d'espoir.\\\"}\",\"{\\\"text\\\":\\\"§7A glimmer of hope.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Maillet argenté\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une lueur d'espoir.\\\"}\",\"{\\\"text\\\":\\\"§7A glimmer of hope.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

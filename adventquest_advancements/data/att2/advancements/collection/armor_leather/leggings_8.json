@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Braies de seconde main\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Augmente un peu votre\\\"}\",\"{\\\"text\\\":\\\"§7récupération de Dahäl.\\\"}\",\"{\\\"text\\\":\\\"§7Increase a bit your\\\"}\",\"{\\\"text\\\":\\\"§7Dahäl regeneration.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a1 §7SPD§c-1 §7HUN§c-1\\\"}\"],color:10894924}}"
+                    "nbt": "{display:{Name:\"\\\"§2Braies de seconde main\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Augmente un peu votre\\\"}\",\"{\\\"text\\\":\\\"§7récupération de Dahäl.\\\"}\",\"{\\\"text\\\":\\\"§7Increase a bit your\\\"}\",\"{\\\"text\\\":\\\"§7Dahäl regeneration.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a1 §7速度§c-1 §7飽食§c-1\\\"}\"],color:10894924}}"
                     }
                 ]
             }

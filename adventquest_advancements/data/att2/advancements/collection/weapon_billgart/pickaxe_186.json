@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§5Emeraude de force\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Derrière la beauté se cache\\\"}\",\"{\\\"text\\\":\\\"§7souvent un pouvoir occulte.\\\"}\",\"{\\\"text\\\":\\\"§7Behind beauty often\\\"}\",\"{\\\"text\\\":\\\"§7lies an occult power.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Emeraude de force\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Derrière la beauté se cache\\\"}\",\"{\\\"text\\\":\\\"§7souvent un pouvoir occulte.\\\"}\",\"{\\\"text\\\":\\\"§7Behind beauty often\\\"}\",\"{\\\"text\\\":\\\"§7lies an occult power.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§9Armet sanglant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Aucune bataille ne le fit jamais vieillir\\\"}\",\"{\\\"text\\\":\\\"§7No battle ever made him old\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Armet sanglant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Aucune bataille ne le fit jamais vieillir\\\"}\",\"{\\\"text\\\":\\\"§7No battle ever made him old\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

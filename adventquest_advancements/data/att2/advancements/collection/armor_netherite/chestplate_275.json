@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§2Grand haubergeon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Vous procure une modeste protection au corps à corps.\\\"}\",\"{\\\"text\\\":\\\"§7Gives you modest melee protection.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Grand haubergeon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Vous procure une modeste protection au corps à corps.\\\"}\",\"{\\\"text\\\":\\\"§7Gives you modest melee protection.\\\"}\",\"{\\\"text\\\":\\\"§7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

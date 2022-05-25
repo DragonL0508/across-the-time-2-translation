@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_axe"],
-                    "nbt": "{display:{Name:\"\\\"§7Hachette\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A peine contondante.\\\"}\",\"{\\\"text\\\":\\\"§7Barrely blunt.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Hachette\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A peine contondante.\\\"}\",\"{\\\"text\\\":\\\"§7Barrely blunt.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

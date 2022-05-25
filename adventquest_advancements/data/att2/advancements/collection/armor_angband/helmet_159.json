@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§6Dré\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Résonnante comme le plus puissant\\\"}\",\"{\\\"text\\\":\\\"§7des chants, telle est la victoire.\\\"}\",\"{\\\"text\\\":\\\"§7Resounding as the most powerful\\\"}\",\"{\\\"text\\\":\\\"§7of songs, that is victory.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HER§a2 §7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Dré\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Résonnante comme le plus puissant\\\"}\",\"{\\\"text\\\":\\\"§7des chants, telle est la victoire.\\\"}\",\"{\\\"text\\\":\\\"§7Resounding as the most powerful\\\"}\",\"{\\\"text\\\":\\\"§7of songs, that is victory.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7恢復§a2 §7運§a1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§5Jambards du soldat Eternän\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aLes disciples qui marchent dans les pas de celui qui est éternel,\\\"}\",\"{\\\"text\\\":\\\"§a s’érigeront toujours en sentinelles de ce monde.\\\"}\",\"{\\\"text\\\":\\\"§aThe disciples who walk in the footsteps of him who is eternal\\\"}\",\"{\\\"text\\\":\\\"§awill always set themselves up as sentinels of this world.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Jambards du soldat Eternän\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aLes disciples qui marchent dans les pas de celui qui est éternel,\\\"}\",\"{\\\"text\\\":\\\"§a s’érigeront toujours en sentinelles de ce monde.\\\"}\",\"{\\\"text\\\":\\\"§aThe disciples who walk in the footsteps of him who is eternal\\\"}\",\"{\\\"text\\\":\\\"§awill always set themselves up as sentinels of this world.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

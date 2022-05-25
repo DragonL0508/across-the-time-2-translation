@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§6Feu mère lia\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Dont l'image salie fut\\\"}\",\"{\\\"text\\\":\\\"§7lavée dans le sang.\\\"}\",\"{\\\"text\\\":\\\"§7Whose soiled image\\\"}\",\"{\\\"text\\\":\\\"§7was washed with blood.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7SPD§a3 §7HER§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Feu mère lia\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Dont l'image salie fut\\\"}\",\"{\\\"text\\\":\\\"§7lavée dans le sang.\\\"}\",\"{\\\"text\\\":\\\"§7Whose soiled image\\\"}\",\"{\\\"text\\\":\\\"§7was washed with blood.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7速度§a3 §7恢復§a2\\\"}\"]}}"
                     }
                 ]
             }

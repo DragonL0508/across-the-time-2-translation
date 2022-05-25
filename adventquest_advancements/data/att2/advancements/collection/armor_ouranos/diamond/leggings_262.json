@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§6Ultime Skéléo\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il suffit d'un grain de poussière, d'une goutte,\\\"}\",\"{\\\"text\\\":\\\"§7d'un soupçon, pour révéler nature.\\\"}\",\"{\\\"text\\\":\\\"§7All it takes is a speck of dust, a drop,\\\"}\",\"{\\\"text\\\":\\\"§7a hint, to reveal nature.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a4\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Ultime Skéléo\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il suffit d'un grain de poussière, d'une goutte,\\\"}\",\"{\\\"text\\\":\\\"§7d'un soupçon, pour révéler nature.\\\"}\",\"{\\\"text\\\":\\\"§7All it takes is a speck of dust, a drop,\\\"}\",\"{\\\"text\\\":\\\"§7a hint, to reveal nature.\\\"}\",\"{\\\"text\\\":\\\"§7力§a4\\\"}\"]}}"
                     }
                 ]
             }

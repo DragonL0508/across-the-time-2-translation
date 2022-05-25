@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_boots"],
-                    "nbt": "{display:{Name:\"\\\"§2Sauteuse de Garius\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Prendre soin de ses pieds, c’est un privilège.\\\"}\",\"{\\\"text\\\":\\\"§7Taking care of your feet is a privilege.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Sauteuse de Garius\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Prendre soin de ses pieds, c’est un privilège.\\\"}\",\"{\\\"text\\\":\\\"§7Taking care of your feet is a privilege.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

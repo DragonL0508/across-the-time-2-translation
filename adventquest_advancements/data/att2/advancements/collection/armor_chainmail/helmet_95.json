@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§6Le Roi solitaire\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ne dévoile pas trop vite le sommet de ta tête,\\\"}\",\"{\\\"text\\\":\\\"§7mendiant, tu sembles, mais royale est ta valeur.\\\"}\",\"{\\\"text\\\":\\\"§7Don't reveal the top of your head too quickly,\\\"}\",\"{\\\"text\\\":\\\"§7beggar, you seem to be, but royal is your value.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HER§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Le Roi solitaire\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ne dévoile pas trop vite le sommet de ta tête,\\\"}\",\"{\\\"text\\\":\\\"§7mendiant, tu sembles, mais royale est ta valeur.\\\"}\",\"{\\\"text\\\":\\\"§7Don't reveal the top of your head too quickly,\\\"}\",\"{\\\"text\\\":\\\"§7beggar, you seem to be, but royal is your value.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢復§a2\\\"}\"]}}"
                     }
                 ]
             }

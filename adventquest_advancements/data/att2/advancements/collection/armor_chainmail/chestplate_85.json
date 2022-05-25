@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Faux mage\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Qui à dit qu'un mage ne savait\\\"}\",\"{\\\"text\\\":\\\"§7pas se servir de ses muscles.\\\"}\",\"{\\\"text\\\":\\\"§7Who said a magician\\\"}\",\"{\\\"text\\\":\\\"§7couldn't use his muscles.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a3 §7HAS§c-2 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Faux mage\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Qui à dit qu'un mage ne savait\\\"}\",\"{\\\"text\\\":\\\"§7pas se servir de ses muscles.\\\"}\",\"{\\\"text\\\":\\\"§7Who said a magician\\\"}\",\"{\\\"text\\\":\\\"§7couldn't use his muscles.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a3 §7攻速§c-2 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

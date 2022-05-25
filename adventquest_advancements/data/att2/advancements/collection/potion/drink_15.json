@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§2Ecran de Fumée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas vu, pas pris.\\\"}\",\"{\\\"text\\\":\\\"§7Vu, mais pas pris quand même.\\\"}\",\"{\\\"text\\\":\\\"§7Out of sight, out of mind.\\\"}\",\"{\\\"text\\\":\\\"§7Still, anyway out of mind.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a4 §7STR§c-3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Ecran de Fumée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas vu, pas pris.\\\"}\",\"{\\\"text\\\":\\\"§7Vu, mais pas pris quand même.\\\"}\",\"{\\\"text\\\":\\\"§7Out of sight, out of mind.\\\"}\",\"{\\\"text\\\":\\\"§7Still, anyway out of mind.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a4 §7力量§c-3\\\"}\"]}}"
                     }
                 ]
             }

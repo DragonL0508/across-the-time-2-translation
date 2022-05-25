@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§7Potion ratée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pour les apprentis sorciers.\\\"}\",\"{\\\"text\\\":\\\"§7For sorcerer's apprentices.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Potion ratée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pour les apprentis sorciers.\\\"}\",\"{\\\"text\\\":\\\"§7For sorcerer's apprentices.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_boots"],
-                    "nbt": "{display:{Name:\"\\\"§9Beaux Pinols\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7César n'a jamais cessé de les\\\"}\",\"{\\\"text\\\":\\\"§7porter, comme il l'avait promis.\\\"}\",\"{\\\"text\\\":\\\"§7Caesar never stopped wearing\\\"}\",\"{\\\"text\\\":\\\"§7them, as he had promised.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a4 §7STR§c-1 §7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Beaux Pinols\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7César n'a jamais cessé de les\\\"}\",\"{\\\"text\\\":\\\"§7porter, comme il l'avait promis.\\\"}\",\"{\\\"text\\\":\\\"§7Caesar never stopped wearing\\\"}\",\"{\\\"text\\\":\\\"§7them, as he had promised.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a4 §7力量§c-1 §7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

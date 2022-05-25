@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§2Amertume\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas besoin d'être gouteux pour être utile.\\\"}\",\"{\\\"text\\\":\\\"§7No need to be tasty to be useful.\\\"}\",\"{\\\"text\\\":\\\"§7HUN§a3 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Amertume\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas besoin d'être gouteux pour être utile.\\\"}\",\"{\\\"text\\\":\\\"§7No need to be tasty to be useful.\\\"}\",\"{\\\"text\\\":\\\"§7飽食§a3 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

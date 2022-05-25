@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_boots"],
-                    "nbt": "{display:{Name:\"\\\"§6Méjobora\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le lys est ta vertu, la rose ta colère\\\"}\",\"{\\\"text\\\":\\\"§7et l'ancolie ta peine.\\\"}\",\"{\\\"text\\\":\\\"§7The lily is your virtue, the rose your anger\\\"}\",\"{\\\"text\\\":\\\"§7and the columbine your sorrow.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7HER§a3 §7LUC§a1\\\"}\"],color:16776099}}"
+                    "nbt": "{display:{Name:\"\\\"§6Méjobora\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le lys est ta vertu, la rose ta colère\\\"}\",\"{\\\"text\\\":\\\"§7et l'ancolie ta peine.\\\"}\",\"{\\\"text\\\":\\\"§7The lily is your virtue, the rose your anger\\\"}\",\"{\\\"text\\\":\\\"§7and the columbine your sorrow.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7恢復§a3 §7運§a1\\\"}\"],color:16776099}}"
                     }
                 ]
             }

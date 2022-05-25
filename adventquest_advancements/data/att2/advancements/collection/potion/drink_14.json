@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§2Falcon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le prédateur aux aguets est toujours\\\"}\",\"{\\\"text\\\":\\\"§7prêt à s'abattre sur son ennemi.\\\"}\",\"{\\\"text\\\":\\\"§7The predator on the lookout\\\"}\",\"{\\\"text\\\":\\\"§7is always ready to fall on his enemy.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7SPD§a2 §7STR§c-3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Falcon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le prédateur aux aguets est toujours\\\"}\",\"{\\\"text\\\":\\\"§7prêt à s'abattre sur son ennemi.\\\"}\",\"{\\\"text\\\":\\\"§7The predator on the lookout\\\"}\",\"{\\\"text\\\":\\\"§7is always ready to fall on his enemy.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7速度§a2 §7力量§c-3\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Skéléo\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le strict nécessaire n'est jamais\\\"}\",\"{\\\"text\\\":\\\"§7assez à ta convenance.\\\"}\",\"{\\\"text\\\":\\\"§7The strict necessities are\\\"}\",\"{\\\"text\\\":\\\"§7never enough for you.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HUN§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Skéléo\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le strict nécessaire n'est jamais\\\"}\",\"{\\\"text\\\":\\\"§7assez à ta convenance.\\\"}\",\"{\\\"text\\\":\\\"§7The strict necessities are\\\"}\",\"{\\\"text\\\":\\\"§7never enough for you.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7飽食§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

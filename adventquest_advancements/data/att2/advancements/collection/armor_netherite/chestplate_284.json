@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Blindage obsidien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Et on attend toujours les rubis...\\\"}\",\"{\\\"text\\\":\\\"§7And we're still waiting for rubies...\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Blindage obsidien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Et on attend toujours les rubis...\\\"}\",\"{\\\"text\\\":\\\"§7And we're still waiting for rubies...\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

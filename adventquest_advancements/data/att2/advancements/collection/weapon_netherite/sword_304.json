@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_sword"],
-                    "nbt": "{display:{Name:\"\\\"§9Estoc de l'asservi\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Equipement du fantassin, contraint\\\"}\",\"{\\\"text\\\":\\\"§7à l'allégeance de son roi.\\\"}\",\"{\\\"text\\\":\\\"§7Equipment of the infantryman, forced\\\"}\",\"{\\\"text\\\":\\\"§7to the allegiance of his king.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Estoc de l'asservi\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Equipement du fantassin, contraint\\\"}\",\"{\\\"text\\\":\\\"§7à l'allégeance de son roi.\\\"}\",\"{\\\"text\\\":\\\"§7Equipment of the infantryman, forced\\\"}\",\"{\\\"text\\\":\\\"§7to the allegiance of his king.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

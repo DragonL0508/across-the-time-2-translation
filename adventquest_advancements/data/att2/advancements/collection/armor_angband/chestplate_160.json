@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§6Métilnuji\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Complexité n'est pas gage de qualité,\\\"}\",\"{\\\"text\\\":\\\"§7la carapace le prouve, incontestablement.\\\"}\",\"{\\\"text\\\":\\\"§7Complexity is not a guarantee of quality,\\\"}\",\"{\\\"text\\\":\\\"§7the shell proves it, undoubtedly.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§a1 §7HAS§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Métilnuji\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Complexité n'est pas gage de qualité,\\\"}\",\"{\\\"text\\\":\\\"§7la carapace le prouve, incontestablement.\\\"}\",\"{\\\"text\\\":\\\"§7Complexity is not a guarantee of quality,\\\"}\",\"{\\\"text\\\":\\\"§7the shell proves it, undoubtedly.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗§a1 §7攻速§a2\\\"}\"]}}"
                     }
                 ]
             }

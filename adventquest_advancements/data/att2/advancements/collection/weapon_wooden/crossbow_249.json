@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:crossbow"],
-                    "nbt": "{display:{Name:\"\\\"§9Mÿre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Aussi déterminé qu'inopiné\\\"}\",\"{\\\"text\\\":\\\"§7As determined as unexpected\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Mÿre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Aussi déterminé qu'inopiné\\\"}\",\"{\\\"text\\\":\\\"§7As determined as unexpected\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

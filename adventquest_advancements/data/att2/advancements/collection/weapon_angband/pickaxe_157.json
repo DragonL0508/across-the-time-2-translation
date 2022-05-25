@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§6Nekr al Felèvsil\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Les bêtes Sécariennes ont jadis\\\"}\",\"{\\\"text\\\":\\\"§7craint tes griffes autant que ton nom.\\\"}\",\"{\\\"text\\\":\\\"§7The Secarian beasts once feared\\\"}\",\"{\\\"text\\\":\\\"§7your claws as much as your name.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§a4\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Nekr al Felèvsil\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Les bêtes Sécariennes ont jadis\\\"}\",\"{\\\"text\\\":\\\"§7craint tes griffes autant que ton nom.\\\"}\",\"{\\\"text\\\":\\\"§7The Secarian beasts once feared\\\"}\",\"{\\\"text\\\":\\\"§7your claws as much as your name.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§a4\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§9Garde impeccable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un équipement entretenu fait\\\"}\",\"{\\\"text\\\":\\\"§7la véritable valeur du guerrier.\\\"}\",\"{\\\"text\\\":\\\"§7Properly maintained equipment is\\\"}\",\"{\\\"text\\\":\\\"§7the true value of the warrior.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Garde impeccable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un équipement entretenu fait\\\"}\",\"{\\\"text\\\":\\\"§7la véritable valeur du guerrier.\\\"}\",\"{\\\"text\\\":\\\"§7Properly maintained equipment is\\\"}\",\"{\\\"text\\\":\\\"§7the true value of the warrior.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1\\\"}\"]}}"
                     }
                 ]
             }

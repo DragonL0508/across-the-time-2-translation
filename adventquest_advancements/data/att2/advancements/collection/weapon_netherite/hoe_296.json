@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§2Pilum d'argent\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Les revenants le craignent.\\\"}\",\"{\\\"text\\\":\\\"§7The revenants fear him.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pilum d'argent\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Les revenants le craignent.\\\"}\",\"{\\\"text\\\":\\\"§7The revenants fear him.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

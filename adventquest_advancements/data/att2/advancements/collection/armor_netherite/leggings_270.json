@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§7Caleçon de Jaris\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Evitez de respirer\\\"}\",\"{\\\"text\\\":\\\"§7Avoid breathing\\\"}\",\"{\\\"text\\\":\\\"§7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Caleçon de Jaris\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Evitez de respirer\\\"}\",\"{\\\"text\\\":\\\"§7Avoid breathing\\\"}\",\"{\\\"text\\\":\\\"§7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

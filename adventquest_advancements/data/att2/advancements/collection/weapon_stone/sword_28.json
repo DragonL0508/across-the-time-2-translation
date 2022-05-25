@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_sword"],
-                    "nbt": "{display:{Name:\"\\\"§5Affable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A sa manière.\\\"}\",\"{\\\"text\\\":\\\"§7In its own way.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7HAS§a3 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Affable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A sa manière.\\\"}\",\"{\\\"text\\\":\\\"§7In its own way.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7攻速§a3 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

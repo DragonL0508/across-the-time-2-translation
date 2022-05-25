@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Pantalon de paysan\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Trop de projets, trop de regrets.\\\"}\",\"{\\\"text\\\":\\\"§7Too many projects, too many regrets.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§c-1\\\"}\"],color:2591784}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pantalon de paysan\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Trop de projets, trop de regrets.\\\"}\",\"{\\\"text\\\":\\\"§7Too many projects, too many regrets.\\\"}\",\"{\\\"text\\\":\\\"§7速度§c-1\\\"}\"],color:2591784}}"
                     }
                 ]
             }

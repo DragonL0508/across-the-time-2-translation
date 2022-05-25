@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_sword"],
-                    "nbt": "{display:{Name:\"\\\"§6Dernières volontés d'Hélène\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La folie prend enfin un sens,\\\"}\",\"{\\\"text\\\":\\\"§7quand elle se laisse guider par la vengeance.\\\"}\",\"{\\\"text\\\":\\\"§7Madness finally gains meaning,\\\"}\",\"{\\\"text\\\":\\\"§7when it lets itself be guided by revenge.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7SPD§a1 §7LUC§a1 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Dernières volontés d'Hélène\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La folie prend enfin un sens,\\\"}\",\"{\\\"text\\\":\\\"§7quand elle se laisse guider par la vengeance.\\\"}\",\"{\\\"text\\\":\\\"§7Madness finally gains meaning,\\\"}\",\"{\\\"text\\\":\\\"§7when it lets itself be guided by revenge.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7速度§a1 §7運§a1 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

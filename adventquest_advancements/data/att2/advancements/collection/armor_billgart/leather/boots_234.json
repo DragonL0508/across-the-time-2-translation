@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_boots"],
-                    "nbt": "{display:{Name:\"\\\"§9Pas du rock\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Lent comme une pierre,\\\"}\",\"{\\\"text\\\":\\\"§7rapide comme un éboulement.\\\"}\",\"{\\\"text\\\":\\\"§7Slow as a rock,\\\"}\",\"{\\\"text\\\":\\\"§7fast as a landslide.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§c-1\\\"}\"],color:2127385}}"
+                    "nbt": "{display:{Name:\"\\\"§9Pas du rock\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Lent comme une pierre,\\\"}\",\"{\\\"text\\\":\\\"§7rapide comme un éboulement.\\\"}\",\"{\\\"text\\\":\\\"§7Slow as a rock,\\\"}\",\"{\\\"text\\\":\\\"§7fast as a landslide.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§c-1\\\"}\"],color:2127385}}"
                     }
                 ]
             }

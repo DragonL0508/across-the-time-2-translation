@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Grimpant de treillis\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Armature de membres inférieurs.\\\"}\",\"{\\\"text\\\":\\\"§7Armature of lower limbs.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Grimpant de treillis\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Armature de membres inférieurs.\\\"}\",\"{\\\"text\\\":\\\"§7Armature of lower limbs.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1\\\"}\"]}}"
                     }
                 ]
             }

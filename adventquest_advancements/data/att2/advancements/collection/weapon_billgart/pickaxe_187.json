@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§5Heyr himma simður\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Hymne de supplication vers la divinité\\\"}\",\"{\\\"text\\\":\\\"§7incapable de nous protéger de nous-même.\\\"}\",\"{\\\"text\\\":\\\"§7Hymn of supplication to the divinity\\\"}\",\"{\\\"text\\\":\\\"§7unable to protect us from ourselves.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HAS§a2 §7LUC§a1 §7SPD§c-4\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Heyr himma simður\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Hymne de supplication vers la divinité\\\"}\",\"{\\\"text\\\":\\\"§7incapable de nous protéger de nous-même.\\\"}\",\"{\\\"text\\\":\\\"§7Hymn of supplication to the divinity\\\"}\",\"{\\\"text\\\":\\\"§7unable to protect us from ourselves.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7攻速§a2 §7運§a1 §7速度§c-4\\\"}\"]}}"
                     }
                 ]
             }

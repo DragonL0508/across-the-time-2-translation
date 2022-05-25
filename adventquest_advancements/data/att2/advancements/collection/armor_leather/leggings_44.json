@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Braies propres\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7L'anonymat n'a pas de prix.\\\"}\",\"{\\\"text\\\":\\\"§7Anonymity is priceless.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a2 §7HAS§c-2\\\"}\"],color:5645236}}"
+                    "nbt": "{display:{Name:\"\\\"§9Braies propres\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7L'anonymat n'a pas de prix.\\\"}\",\"{\\\"text\\\":\\\"§7Anonymity is priceless.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a2 §7攻速§c-2\\\"}\"],color:5645236}}"
                     }
                 ]
             }

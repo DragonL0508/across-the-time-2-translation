@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Braies d'agerri\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Augmente votre\\\"}\",\"{\\\"text\\\":\\\"§7récupération de Dahäl.\\\"}\",\"{\\\"text\\\":\\\"§7Increase your\\\"}\",\"{\\\"text\\\":\\\"§7Dahäl regeneration.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a1 §7STR§c-1\\\"}\"],color:2890408}}"
+                    "nbt": "{display:{Name:\"\\\"§9Braies d'agerri\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Augmente votre\\\"}\",\"{\\\"text\\\":\\\"§7récupération de Dahäl.\\\"}\",\"{\\\"text\\\":\\\"§7Increase your\\\"}\",\"{\\\"text\\\":\\\"§7Dahäl regeneration.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a1 §7力量§c-1\\\"}\"],color:2890408}}"
                     }
                 ]
             }

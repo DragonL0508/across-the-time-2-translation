@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_boots"],
-                    "nbt": "{display:{Name:\"\\\"§9Haine de Sôrän\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Brisons cette paix si tranquille, pour\\\"}\",\"{\\\"text\\\":\\\"§7que même les matins éternels nous craignent.\\\"}\",\"{\\\"text\\\":\\\"§7Let us break this peace so quiet, that\\\"}\",\"{\\\"text\\\":\\\"§7even the eternal mornings may fear us.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7DAR§c-1\\\"}\"],color:16514979}}"
+                    "nbt": "{display:{Name:\"\\\"§9Haine de Sôrän\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Brisons cette paix si tranquille, pour\\\"}\",\"{\\\"text\\\":\\\"§7que même les matins éternels nous craignent.\\\"}\",\"{\\\"text\\\":\\\"§7Let us break this peace so quiet, that\\\"}\",\"{\\\"text\\\":\\\"§7even the eternal mornings may fear us.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7恢魔§c-1\\\"}\"],color:16514979}}"
                     }
                 ]
             }

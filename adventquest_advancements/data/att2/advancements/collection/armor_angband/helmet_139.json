@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§2Casque Eternän\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7N'a plus servi depuis des siècles.\\\"}\",\"{\\\"text\\\":\\\"§7Has not been used for centuries.\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Casque Eternän\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7N'a plus servi depuis des siècles.\\\"}\",\"{\\\"text\\\":\\\"§7Has not been used for centuries.\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

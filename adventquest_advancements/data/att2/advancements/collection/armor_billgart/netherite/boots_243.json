@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_boots"],
-                    "nbt": "{display:{Name:\"\\\"§5Grande chute\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Mille fois, il s'égara aux confins du monde,\\\"}\",\"{\\\"text\\\":\\\"§7et par-delà les terres, il la vit.\\\"}\",\"{\\\"text\\\":\\\"§7A thousand times he wandered to the ends\\\"}\",\"{\\\"text\\\":\\\"§7of the world, and across the land he saw it.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7LUC§a1 §7HUN§a1 §7HER§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Grande chute\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Mille fois, il s'égara aux confins du monde,\\\"}\",\"{\\\"text\\\":\\\"§7et par-delà les terres, il la vit.\\\"}\",\"{\\\"text\\\":\\\"§7A thousand times he wandered to the ends\\\"}\",\"{\\\"text\\\":\\\"§7of the world, and across the land he saw it.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7運§a1 §7飽食§a1 §7恢復§c-2\\\"}\"]}}"
                     }
                 ]
             }

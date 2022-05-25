@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Grèves ensanglantées\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Furent violemment percées par\\\"}\",\"{\\\"text\\\":\\\"§7les larges crocs du nisirion.\\\"}\",\"{\\\"text\\\":\\\"§7Were violently pierced by\\\"}\",\"{\\\"text\\\":\\\"§7the wide fangs of the nisirion.\\\"}\",\"{\\\"text\\\":\\\"§7LUC§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Grèves ensanglantées\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Furent violemment percées par\\\"}\",\"{\\\"text\\\":\\\"§7les larges crocs du nisirion.\\\"}\",\"{\\\"text\\\":\\\"§7Were violently pierced by\\\"}\",\"{\\\"text\\\":\\\"§7the wide fangs of the nisirion.\\\"}\",\"{\\\"text\\\":\\\"§7運§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

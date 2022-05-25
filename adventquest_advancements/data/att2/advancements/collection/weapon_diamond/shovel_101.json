@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§7Petit secret\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Personne ne le saura,\\\"}\",\"{\\\"text\\\":\\\"§7pas même les grands !\\\"}\",\"{\\\"text\\\":\\\"§7No one will know,\\\"}\",\"{\\\"text\\\":\\\"§7not even the older ones!\\\"}\",\"{\\\"text\\\":\\\"§7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Petit secret\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Personne ne le saura,\\\"}\",\"{\\\"text\\\":\\\"§7pas même les grands !\\\"}\",\"{\\\"text\\\":\\\"§7No one will know,\\\"}\",\"{\\\"text\\\":\\\"§7not even the older ones!\\\"}\",\"{\\\"text\\\":\\\"§7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

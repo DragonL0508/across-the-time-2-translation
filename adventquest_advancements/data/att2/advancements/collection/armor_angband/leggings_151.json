@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Vif or\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il vaut parfois mieux sacrifier\\\"}\",\"{\\\"text\\\":\\\"§7de sa défense pour mieux éviter.\\\"}\",\"{\\\"text\\\":\\\"§7It is sometimes better to sacrifice some\\\"}\",\"{\\\"text\\\":\\\"§7of your defense in order to dodge it better.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Vif or\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il vaut parfois mieux sacrifier\\\"}\",\"{\\\"text\\\":\\\"§7de sa défense pour mieux éviter.\\\"}\",\"{\\\"text\\\":\\\"§7It is sometimes better to sacrifice some\\\"}\",\"{\\\"text\\\":\\\"§7of your defense in order to dodge it better.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

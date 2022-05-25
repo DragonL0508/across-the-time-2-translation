@@ -21,7 +21,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§9Santé de Fer\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le silence des organes.\\\"}\",\"{\\\"text\\\":\\\"§7The silence of the organs.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7STR§c-2 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Santé de Fer\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le silence des organes.\\\"}\",\"{\\\"text\\\":\\\"§7The silence of the organs.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7力量§c-2 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

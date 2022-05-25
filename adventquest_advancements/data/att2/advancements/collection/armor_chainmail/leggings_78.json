@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Pantalon du robuste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Combine souplesse et protection.\\\"}\",\"{\\\"text\\\":\\\"§7Combines flexibility and protection.\\\"}\",\"{\\\"text\\\":\\\"§7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pantalon du robuste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Combine souplesse et protection.\\\"}\",\"{\\\"text\\\":\\\"§7Combines flexibility and protection.\\\"}\",\"{\\\"text\\\":\\\"§7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -21,7 +21,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§5Berserk\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une folie passagère,\\\"}\",\"{\\\"text\\\":\\\"§7pour une furie vengeresse.\\\"}\",\"{\\\"text\\\":\\\"§7A passing madness,\\\"}\",\"{\\\"text\\\":\\\"§7for a vengeful fury.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HAS§a4 §7SPD§c-2 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Berserk\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une folie passagère,\\\"}\",\"{\\\"text\\\":\\\"§7pour une furie vengeresse.\\\"}\",\"{\\\"text\\\":\\\"§7A passing madness,\\\"}\",\"{\\\"text\\\":\\\"§7for a vengeful fury.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7攻速§a4 §7速度§c-2 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_boots"],
-                    "nbt": "{display:{Name:\"\\\"§6Souche de Ulli'Kummi\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aHéritage du monumental colosse pétrifié.\\\"}\",\"{\\\"text\\\":\\\"§aGéant qui jamais ne voulut cesser de grandir.\\\"}\",\"{\\\"text\\\":\\\"§aLegacy of the monumental petrified colossus.\\\"}\",\"{\\\"text\\\":\\\"§aGiant who never wanted to stop growing.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Souche de Ulli'Kummi\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aHéritage du monumental colosse pétrifié.\\\"}\",\"{\\\"text\\\":\\\"§aGéant qui jamais ne voulut cesser de grandir.\\\"}\",\"{\\\"text\\\":\\\"§aLegacy of the monumental petrified colossus.\\\"}\",\"{\\\"text\\\":\\\"§aGiant who never wanted to stop growing.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗§a1\\\"}\"]}}"
                     }
                 ]
             }

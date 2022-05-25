@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Jambière de Bâtilen\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Soit agile, sans jamais négliger\\\"}\",\"{\\\"text\\\":\\\"§7ta défense, mon beau-frère.\\\"}\",\"{\\\"text\\\":\\\"§7Be agile, without ever neglecting\\\"}\",\"{\\\"text\\\":\\\"§7your defense, my brother-in-law.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§c-3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Jambière de Bâtilen\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Soit agile, sans jamais négliger\\\"}\",\"{\\\"text\\\":\\\"§7ta défense, mon beau-frère.\\\"}\",\"{\\\"text\\\":\\\"§7Be agile, without ever neglecting\\\"}\",\"{\\\"text\\\":\\\"§7your defense, my brother-in-law.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§c-3\\\"}\"]}}"
                     }
                 ]
             }

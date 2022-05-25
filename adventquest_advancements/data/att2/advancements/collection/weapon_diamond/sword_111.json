@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_sword"],
-                    "nbt": "{display:{Name:\"\\\"§2Courage de Samaël\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il périt seul, mais mieux qu'un roi.\\\"}\",\"{\\\"text\\\":\\\"§7He perished alone, but better than a king.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Courage de Samaël\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il périt seul, mais mieux qu'un roi.\\\"}\",\"{\\\"text\\\":\\\"§7He perished alone, but better than a king.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1\\\"}\"]}}"
                     }
                 ]
             }

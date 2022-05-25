@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_sword"],
-                    "nbt": "{display:{Name:\"\\\"§2Pointe d'acier\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Elle tiendra \\\"}\",\"{\\\"text\\\":\\\"§7jusqu'à la fin de la guerre.\\\"}\",\"{\\\"text\\\":\\\"§7It will last\\\"}\",\"{\\\"text\\\":\\\"§7until the end of the war.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pointe d'acier\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Elle tiendra \\\"}\",\"{\\\"text\\\":\\\"§7jusqu'à la fin de la guerre.\\\"}\",\"{\\\"text\\\":\\\"§7It will last\\\"}\",\"{\\\"text\\\":\\\"§7until the end of the war.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

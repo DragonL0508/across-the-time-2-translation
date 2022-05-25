@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§6Supplice éternel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas de repos pour ceux qui ne savent\\\"}\",\"{\\\"text\\\":\\\"§7mourir, pas de rêve pour ceux qui ne peuvent dormir.\\\"}\",\"{\\\"text\\\":\\\"§7No rest for those who cannot die,\\\"}\",\"{\\\"text\\\":\\\"§7no dreams for those who cannot sleep.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a5 §7HER§a2 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Supplice éternel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas de repos pour ceux qui ne savent\\\"}\",\"{\\\"text\\\":\\\"§7mourir, pas de rêve pour ceux qui ne peuvent dormir.\\\"}\",\"{\\\"text\\\":\\\"§7No rest for those who cannot die,\\\"}\",\"{\\\"text\\\":\\\"§7no dreams for those who cannot sleep.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a5 §7恢復§a2 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

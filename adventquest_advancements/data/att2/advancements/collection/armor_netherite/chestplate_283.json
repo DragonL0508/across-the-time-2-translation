@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Résiliente broigne\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fortifie le corps, garde ton esprit.\\\"}\",\"{\\\"text\\\":\\\"§7Strengthen the body, preserve your mind.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a3 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Résiliente broigne\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fortifie le corps, garde ton esprit.\\\"}\",\"{\\\"text\\\":\\\"§7Strengthen the body, preserve your mind.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a3 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

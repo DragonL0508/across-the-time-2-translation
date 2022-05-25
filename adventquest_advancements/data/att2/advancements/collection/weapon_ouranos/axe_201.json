@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_axe"],
-                    "nbt": "{display:{Name:\"\\\"§2Equarisseur\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Les bêtes te craignent.\\\"}\",\"{\\\"text\\\":\\\"§7The beasts fear you.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Equarisseur\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Les bêtes te craignent.\\\"}\",\"{\\\"text\\\":\\\"§7The beasts fear you.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

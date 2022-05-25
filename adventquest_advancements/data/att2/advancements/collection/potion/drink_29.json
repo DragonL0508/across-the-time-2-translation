@@ -21,7 +21,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§6Quintessence\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Là où l'harmonie s'opère,\\\"}\",\"{\\\"text\\\":\\\"§7le grand oeuvre peut s'accomplir.\\\"}\",\"{\\\"text\\\":\\\"§7Where harmony takes place,\\\"}\",\"{\\\"text\\\":\\\"§7the great work can be accomplished.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a4 §7SPD§a2 §7DAR§a2 §7HUN§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Quintessence\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Là où l'harmonie s'opère,\\\"}\",\"{\\\"text\\\":\\\"§7le grand oeuvre peut s'accomplir.\\\"}\",\"{\\\"text\\\":\\\"§7Where harmony takes place,\\\"}\",\"{\\\"text\\\":\\\"§7the great work can be accomplished.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a4 §7速度§a2 §7恢魔§a2 §7飽食§a2\\\"}\"]}}"
                     }
                 ]
             }

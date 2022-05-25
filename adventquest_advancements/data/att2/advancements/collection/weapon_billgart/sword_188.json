@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_sword"],
-                    "nbt": "{display:{Name:\"\\\"§5Dimmu Borgir\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Nous ne pardonnerons pas.\\\"}\",\"{\\\"text\\\":\\\"§7Nous n'oublierons pas.\\\"}\",\"{\\\"text\\\":\\\"§7Forgive, we shall not.\\\"}\",\"{\\\"text\\\":\\\"§7Forget, we shall not.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§a4 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Dimmu Borgir\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Nous ne pardonnerons pas.\\\"}\",\"{\\\"text\\\":\\\"§7Nous n'oublierons pas.\\\"}\",\"{\\\"text\\\":\\\"§7Forgive, we shall not.\\\"}\",\"{\\\"text\\\":\\\"§7Forget, we shall not.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§a4 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§9Dague d'Améthyste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La trahison et le meurtre du meilleur,\\\"}\",\"{\\\"text\\\":\\\"§7ainsi tu sauveras ceux que tu aimes.\\\"}\",\"{\\\"text\\\":\\\"§7The betrayal and murder of the best,\\\"}\",\"{\\\"text\\\":\\\"§7so you'll save those you love.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Dague d'Améthyste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La trahison et le meurtre du meilleur,\\\"}\",\"{\\\"text\\\":\\\"§7ainsi tu sauveras ceux que tu aimes.\\\"}\",\"{\\\"text\\\":\\\"§7The betrayal and murder of the best,\\\"}\",\"{\\\"text\\\":\\\"§7so you'll save those you love.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

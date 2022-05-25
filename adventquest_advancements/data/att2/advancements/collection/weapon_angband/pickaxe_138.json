@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§2Vielle hallebarde\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Déjà désuète lors de sa conception.\\\"}\",\"{\\\"text\\\":\\\"§7Already obsolete at the time of its conception.\\\"}\",\"{\\\"text\\\":\\\"§7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Vielle hallebarde\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Déjà désuète lors de sa conception.\\\"}\",\"{\\\"text\\\":\\\"§7Already obsolete at the time of its conception.\\\"}\",\"{\\\"text\\\":\\\"§7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Péctour\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Comme aux temps des lunes\\\"}\",\"{\\\"text\\\":\\\"§7vertes et des bois jaunes.\\\"}\",\"{\\\"text\\\":\\\"§7As in the days of green moons\\\"}\",\"{\\\"text\\\":\\\"§7and yellow woods.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Péctour\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Comme aux temps des lunes\\\"}\",\"{\\\"text\\\":\\\"§7vertes et des bois jaunes.\\\"}\",\"{\\\"text\\\":\\\"§7As in the days of green moons\\\"}\",\"{\\\"text\\\":\\\"§7and yellow woods.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

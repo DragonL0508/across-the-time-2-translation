@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_axe"],
-                    "nbt": "{display:{Name:\"\\\"§5La décapitation pour les nuls\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Séparez la tête du corps,\\\"}\",\"{\\\"text\\\":\\\"§7et le tour est joué !\\\"}\",\"{\\\"text\\\":\\\"§7Separate the head from the body,\\\"}\",\"{\\\"text\\\":\\\"§7and voila!\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HER§a1 §7HUN§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5La décapitation pour les nuls\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Séparez la tête du corps,\\\"}\",\"{\\\"text\\\":\\\"§7et le tour est joué !\\\"}\",\"{\\\"text\\\":\\\"§7Separate the head from the body,\\\"}\",\"{\\\"text\\\":\\\"§7and voila!\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7恢復§a1 §7飽食§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

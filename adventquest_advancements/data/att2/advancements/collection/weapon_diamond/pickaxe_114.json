@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§9Méloquien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Immense et inébranlable, tu persistes.\\\"}\",\"{\\\"text\\\":\\\"§7Immense and unshakeable, you persist.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§c-1 §7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Méloquien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Immense et inébranlable, tu persistes.\\\"}\",\"{\\\"text\\\":\\\"§7Immense and unshakeable, you persist.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§c-1 §7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§6Peau de dragon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7D'innombrables écailles valent\\\"}\",\"{\\\"text\\\":\\\"§7mieux qu'une paire de cuirasse.\\\"}\",\"{\\\"text\\\":\\\"§7Countless scales are better than\\\"}\",\"{\\\"text\\\":\\\"§7a pair of shields.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7SPD§a1 §7DAR§a2 §7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Peau de dragon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7D'innombrables écailles valent\\\"}\",\"{\\\"text\\\":\\\"§7mieux qu'une paire de cuirasse.\\\"}\",\"{\\\"text\\\":\\\"§7Countless scales are better than\\\"}\",\"{\\\"text\\\":\\\"§7a pair of shields.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7速度§a1 §7恢魔§a2 §7運§a1\\\"}\"]}}"
                     }
                 ]
             }

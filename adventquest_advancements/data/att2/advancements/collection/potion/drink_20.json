@@ -21,7 +21,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§9Baraka\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Seconde chance.\\\"}\",\"{\\\"text\\\":\\\"§7Second chance.\\\"}\",\"{\\\"text\\\":\\\"§7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Baraka\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Seconde chance.\\\"}\",\"{\\\"text\\\":\\\"§7Second chance.\\\"}\",\"{\\\"text\\\":\\\"§7運§a1\\\"}\"]}}"
                     }
                 ]
             }

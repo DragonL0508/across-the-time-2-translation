@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§9Coupe-joue\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Souriez, jusqu'à la fin...\\\"}\",\"{\\\"text\\\":\\\"§7Smile, to the end...\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§a1 §7HAS§c-1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Coupe-joue\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Souriez, jusqu'à la fin...\\\"}\",\"{\\\"text\\\":\\\"§7Smile, to the end...\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§a1 §7攻速§c-1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

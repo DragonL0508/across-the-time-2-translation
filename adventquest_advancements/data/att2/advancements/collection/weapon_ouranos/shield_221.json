@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§9Brise brise\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une carapace qui ne protège\\\"}\",\"{\\\"text\\\":\\\"§7pas que des coups...\\\"}\",\"{\\\"text\\\":\\\"§7A shell that doesn't just\\\"}\",\"{\\\"text\\\":\\\"§7protect against blows...\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Brise brise\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une carapace qui ne protège\\\"}\",\"{\\\"text\\\":\\\"§7pas que des coups...\\\"}\",\"{\\\"text\\\":\\\"§7A shell that doesn't just\\\"}\",\"{\\\"text\\\":\\\"§7protect against blows...\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

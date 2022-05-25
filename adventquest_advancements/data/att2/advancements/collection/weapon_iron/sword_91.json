@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_sword"],
-                    "nbt": "{display:{Name:\"\\\"§5Médara\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Va avec fierté, car toi seule pourrait\\\"}\",\"{\\\"text\\\":\\\"§7contempler les ténèbres sans fléchir.\\\"}\",\"{\\\"text\\\":\\\"§7Go with pride, because only you could\\\"}\",\"{\\\"text\\\":\\\"§7contemplate the darkness without flinching.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7SPD§a2 §7HAS§c-1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Médara\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Va avec fierté, car toi seule pourrait\\\"}\",\"{\\\"text\\\":\\\"§7contempler les ténèbres sans fléchir.\\\"}\",\"{\\\"text\\\":\\\"§7Go with pride, because only you could\\\"}\",\"{\\\"text\\\":\\\"§7contemplate the darkness without flinching.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7速度§a2 §7攻速§c-1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

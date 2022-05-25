@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§2Jaseran de câlisse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7C'est avoir la montée de lait. Oh que oui...\\\"}\",\"{\\\"text\\\":\\\"§7It's throwing a tantrum. Yes, it is.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Jaseran de câlisse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7C'est avoir la montée de lait. Oh que oui...\\\"}\",\"{\\\"text\\\":\\\"§7It's throwing a tantrum. Yes, it is.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

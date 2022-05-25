@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§5Gemme-cœur abandonné\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Aucune chaleur, par les pierres ou par le vent\\\"}\",\"{\\\"text\\\":\\\"§7froid jusqu'à l'avenir. Seul, il demeure.\\\"}\",\"{\\\"text\\\":\\\"§7No heat, by the stones or by the cold wind\\\"}\",\"{\\\"text\\\":\\\"§7until the future. Alone, it lies.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HUN§a1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Gemme-cœur abandonné\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Aucune chaleur, par les pierres ou par le vent\\\"}\",\"{\\\"text\\\":\\\"§7froid jusqu'à l'avenir. Seul, il demeure.\\\"}\",\"{\\\"text\\\":\\\"§7No heat, by the stones or by the cold wind\\\"}\",\"{\\\"text\\\":\\\"§7until the future. Alone, it lies.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7飽食§a1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

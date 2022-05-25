@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§2Présent de Gustave\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Que ta tête reste à jamais protégée.\\\"}\",\"{\\\"text\\\":\\\"§7May your head stay safe forever.\\\"}\",\"{\\\"text\\\":\\\"§7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Présent de Gustave\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Que ta tête reste à jamais protégée.\\\"}\",\"{\\\"text\\\":\\\"§7May your head stay safe forever.\\\"}\",\"{\\\"text\\\":\\\"§7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

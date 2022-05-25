@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:bow"],
-                    "nbt": "{display:{Name:\"\\\"§9Chant du vent\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ce n'est pas un instrument de musique,\\\"}\",\"{\\\"text\\\":\\\"§7et pourant, qu'il me plait de l'entendre.\\\"}\",\"{\\\"text\\\":\\\"§7It is not a musical instrument,\\\"}\",\"{\\\"text\\\":\\\"§7and yet, I like to hear it.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7DAR§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Chant du vent\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ce n'est pas un instrument de musique,\\\"}\",\"{\\\"text\\\":\\\"§7et pourant, qu'il me plait de l'entendre.\\\"}\",\"{\\\"text\\\":\\\"§7It is not a musical instrument,\\\"}\",\"{\\\"text\\\":\\\"§7and yet, I like to hear it.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7恢魔§a1\\\"}\"]}}"
                     }
                 ]
             }

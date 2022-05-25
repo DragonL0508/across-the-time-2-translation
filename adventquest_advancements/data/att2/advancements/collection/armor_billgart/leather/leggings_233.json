@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Jambes infatiguables\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7En de grands grondements,\\\"}\",\"{\\\"text\\\":\\\"§7se poursuit ta route.\\\"}\",\"{\\\"text\\\":\\\"§7In great rumblings,\\\"}\",\"{\\\"text\\\":\\\"§7you go on your way.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§c-1\\\"}\"],color:2127385}}"
+                    "nbt": "{display:{Name:\"\\\"§9Jambes infatiguables\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7En de grands grondements,\\\"}\",\"{\\\"text\\\":\\\"§7se poursuit ta route.\\\"}\",\"{\\\"text\\\":\\\"§7In great rumblings,\\\"}\",\"{\\\"text\\\":\\\"§7you go on your way.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗性§c-1\\\"}\"],color:2127385}}"
                     }
                 ]
             }

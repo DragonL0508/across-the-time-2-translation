@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Membrane crystalline\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une géode ; à sa forme, pour protection.\\\"}\",\"{\\\"text\\\":\\\"§7A geode; to its shape, for protection.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Membrane crystalline\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une géode ; à sa forme, pour protection.\\\"}\",\"{\\\"text\\\":\\\"§7A geode; to its shape, for protection.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

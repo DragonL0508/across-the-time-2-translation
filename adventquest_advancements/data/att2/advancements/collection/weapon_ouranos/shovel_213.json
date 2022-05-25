@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§6Veille finale\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Contemplatif, quant aux lendemains inaccessibles;\\\"}\",\"{\\\"text\\\":\\\"§7mais impatient tout autant que désespéré par la fin.\\\"}\",\"{\\\"text\\\":\\\"§7Contemplative, as for the unattainable tomorrows;\\\"}\",\"{\\\"text\\\":\\\"§7but impatient as well as desperate for the end.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§a4 §7RES§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Veille finale\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Contemplatif, quant aux lendemains inaccessibles;\\\"}\",\"{\\\"text\\\":\\\"§7mais impatient tout autant que désespéré par la fin.\\\"}\",\"{\\\"text\\\":\\\"§7Contemplative, as for the unattainable tomorrows;\\\"}\",\"{\\\"text\\\":\\\"§7but impatient as well as desperate for the end.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§a4 §7抗§a1\\\"}\"]}}"
                     }
                 ]
             }

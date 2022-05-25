@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_boots"],
-                    "nbt": "{display:{Name:\"\\\"§6Rojolion ganth S\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une agilité des plus exquises, \\\"}\",\"{\\\"text\\\":\\\"§7à l'instar de la plus digne élite qui soit.\\\"}\",\"{\\\"text\\\":\\\"§7An exquisite agility, like the most\\\"}\",\"{\\\"text\\\":\\\"§7worthy elite there is.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a4 §7HAS§a2 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Rojolion ganth S\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une agilité des plus exquises, \\\"}\",\"{\\\"text\\\":\\\"§7à l'instar de la plus digne élite qui soit.\\\"}\",\"{\\\"text\\\":\\\"§7An exquisite agility, like the most\\\"}\",\"{\\\"text\\\":\\\"§7worthy elite there is.\\\"}\",\"{\\\"text\\\":\\\"§7力§a4 §7攻速§a2 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

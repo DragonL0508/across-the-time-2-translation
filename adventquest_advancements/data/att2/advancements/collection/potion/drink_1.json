@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§7V.I.T.R.I.O.L\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Poison\\\"}\",\"{\\\"text\\\":\\\"§7Poison.\\\"}\",\"{\\\"text\\\":\\\"§7HUN§a7 §7HER§c-4\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7V.I.T.R.I.O.L\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Poison\\\"}\",\"{\\\"text\\\":\\\"§7Poison.\\\"}\",\"{\\\"text\\\":\\\"§7飽食§a7 §7恢復§c-4\\\"}\"]}}"
                     }
                 ]
             }

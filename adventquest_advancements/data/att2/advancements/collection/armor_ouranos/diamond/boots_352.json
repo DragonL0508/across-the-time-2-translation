@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_boots"],
-                    "nbt": "{display:{Name:\"\\\"§6Marche des astres\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aLa créativité pure n'est envisageable qu'à la faveur \\\"}\",\"{\\\"text\\\":\\\"§ad'une liberté absolue et d'un esprit sans limite.\\\"}\",\"{\\\"text\\\":\\\"§aPure creativity is only possible with\\\"}\",\"{\\\"text\\\":\\\"§aabsolute freedom and a limitless mind.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§a3 §7HER§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Marche des astres\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aLa créativité pure n'est envisageable qu'à la faveur \\\"}\",\"{\\\"text\\\":\\\"§ad'une liberté absolue et d'un esprit sans limite.\\\"}\",\"{\\\"text\\\":\\\"§aPure creativity is only possible with\\\"}\",\"{\\\"text\\\":\\\"§aabsolute freedom and a limitless mind.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§a3 §7恢復§a1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_boots"],
-                    "nbt": "{display:{Name:\"\\\"§5Galön le servant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7D'une fidélité infaillible, laisse la\\\"}\",\"{\\\"text\\\":\\\"§7voix de ton maître faire ta force.\\\"}\",\"{\\\"text\\\":\\\"§7With unfailing fidelity, let your\\\"}\",\"{\\\"text\\\":\\\"§7master's voice be your strength.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a3 §7HER§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Galön le servant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7D'une fidélité infaillible, laisse la\\\"}\",\"{\\\"text\\\":\\\"§7voix de ton maître faire ta force.\\\"}\",\"{\\\"text\\\":\\\"§7With unfailing fidelity, let your\\\"}\",\"{\\\"text\\\":\\\"§7master's voice be your strength.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a3 §7恢復§a1\\\"}\"]}}"
                     }
                 ]
             }

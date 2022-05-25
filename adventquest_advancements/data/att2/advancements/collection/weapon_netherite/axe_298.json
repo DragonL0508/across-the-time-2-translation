@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_axe"],
-                    "nbt": "{display:{Name:\"\\\"§9Herminette de Cédrin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7On se gardera de la confier au nerveux...\\\"}\",\"{\\\"text\\\":\\\"§7We will not entrust it to the nervous one...\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a3 §7SPD§a1 §7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Herminette de Cédrin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7On se gardera de la confier au nerveux...\\\"}\",\"{\\\"text\\\":\\\"§7We will not entrust it to the nervous one...\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a3 §7速度§a1 §7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

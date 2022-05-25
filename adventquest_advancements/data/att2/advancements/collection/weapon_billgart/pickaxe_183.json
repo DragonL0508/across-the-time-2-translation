@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§9Cœur de marbre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ici, il n'est de plus grande qualité,\\\"}\",\"{\\\"text\\\":\\\"§7car le froid n'exempte pas de fougue.\\\"}\",\"{\\\"text\\\":\\\"§7Here, there is no greater quality, because\\\"}\",\"{\\\"text\\\":\\\"§7the coldness does not exempt from ardour.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7DAR§a2 §7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Cœur de marbre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ici, il n'est de plus grande qualité,\\\"}\",\"{\\\"text\\\":\\\"§7car le froid n'exempte pas de fougue.\\\"}\",\"{\\\"text\\\":\\\"§7Here, there is no greater quality, because\\\"}\",\"{\\\"text\\\":\\\"§7the coldness does not exempt from ardour.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7恢魔§a2 §7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

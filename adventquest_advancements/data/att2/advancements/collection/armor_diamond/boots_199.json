@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_boots"],
-                    "nbt": "{display:{Name:\"\\\"§6L'ultime aube\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Jà elle vint et pour la seconde fois\\\"}\",\"{\\\"text\\\":\\\"§7elle enfanta un jour sans fin.\\\"}\",\"{\\\"text\\\":\\\"§7Already it came and for the second time\\\"}\",\"{\\\"text\\\":\\\"§7gave birth to an endless day.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7LUC§a1 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6L'ultime aube\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Jà elle vint et pour la seconde fois\\\"}\",\"{\\\"text\\\":\\\"§7elle enfanta un jour sans fin.\\\"}\",\"{\\\"text\\\":\\\"§7Already it came and for the second time\\\"}\",\"{\\\"text\\\":\\\"§7gave birth to an endless day.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7運§a1 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_boots"],
-                    "nbt": "{display:{Name:\"\\\"§6Horizon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Là tu resteras, sans jamais t'élever\\\"}\",\"{\\\"text\\\":\\\"§7ni t'enfoncer. Mais là tu excelleras.\\\"}\",\"{\\\"text\\\":\\\"§7There you will stay, without ever rising\\\"}\",\"{\\\"text\\\":\\\"§7or sinking. But then you'll excel.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HAS§a3 §7HER§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Horizon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Là tu resteras, sans jamais t'élever\\\"}\",\"{\\\"text\\\":\\\"§7ni t'enfoncer. Mais là tu excelleras.\\\"}\",\"{\\\"text\\\":\\\"§7There you will stay, without ever rising\\\"}\",\"{\\\"text\\\":\\\"§7or sinking. But then you'll excel.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7攻速§a3 §7恢復§a1\\\"}\"]}}"
                     }
                 ]
             }

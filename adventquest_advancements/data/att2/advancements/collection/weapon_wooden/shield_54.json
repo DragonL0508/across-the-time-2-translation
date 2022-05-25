@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§2Bouclier de Méleïm\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arbore l'emblème de Méleïm.\\\"}\",\"{\\\"text\\\":\\\"§7Wears the Méleïm emblem.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Bouclier de Méleïm\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arbore l'emblème de Méleïm.\\\"}\",\"{\\\"text\\\":\\\"§7Wears the Méleïm emblem.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

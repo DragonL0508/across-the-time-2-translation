@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§9Âme volcanique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Telle tu naquis, ma sœur.\\\"}\",\"{\\\"text\\\":\\\"§7As you were born, my sister.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7SPD§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Âme volcanique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Telle tu naquis, ma sœur.\\\"}\",\"{\\\"text\\\":\\\"§7As you were born, my sister.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7速度§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

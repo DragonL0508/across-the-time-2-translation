@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§2Brigandine\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La dame du brigand.\\\"}\",\"{\\\"text\\\":\\\"§7The brigand's female.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Brigandine\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La dame du brigand.\\\"}\",\"{\\\"text\\\":\\\"§7The brigand's female.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

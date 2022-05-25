@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_axe"],
-                    "nbt": "{display:{Name:\"\\\"§9Cœur de Myla\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Telles vont les choses,\\\"}\",\"{\\\"text\\\":\\\"§7sans retour possible.\\\"}\",\"{\\\"text\\\":\\\"§7That is how things are,\\\"}\",\"{\\\"text\\\":\\\"§7with no return possible.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a1 §7DAR§a1 §7LUC§a1 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Cœur de Myla\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Telles vont les choses,\\\"}\",\"{\\\"text\\\":\\\"§7sans retour possible.\\\"}\",\"{\\\"text\\\":\\\"§7That is how things are,\\\"}\",\"{\\\"text\\\":\\\"§7with no return possible.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a1 §7恢魔§a1 §7運§a1 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

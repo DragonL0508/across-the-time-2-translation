@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§5Désespoir\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Tout est perdu, la fin est si proche, mais elle ne viendra pas\\\"}\",\"{\\\"text\\\":\\\"§7tant que l'énergie du désespoir t'habitera.\\\"}\",\"{\\\"text\\\":\\\"§7All is lost, the end is so near, but it will\\\"}\",\"{\\\"text\\\":\\\"§7not come as long as the energy of despair lives in you.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7DAR§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Désespoir\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Tout est perdu, la fin est si proche, mais elle ne viendra pas\\\"}\",\"{\\\"text\\\":\\\"§7tant que l'énergie du désespoir t'habitera.\\\"}\",\"{\\\"text\\\":\\\"§7All is lost, the end is so near, but it will\\\"}\",\"{\\\"text\\\":\\\"§7not come as long as the energy of despair lives in you.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7恢魔§a2\\\"}\"]}}"
                     }
                 ]
             }

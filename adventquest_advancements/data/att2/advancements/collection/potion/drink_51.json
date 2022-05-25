@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§2Dépuratif simple\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Purifie l'organisme.\\\"}\",\"{\\\"text\\\":\\\"§7Purifies the body.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a3 §7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Dépuratif simple\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Purifie l'organisme.\\\"}\",\"{\\\"text\\\":\\\"§7Purifies the body.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a3 §7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

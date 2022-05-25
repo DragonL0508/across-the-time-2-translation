@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_axe"],
-                    "nbt": "{display:{Name:\"\\\"§2Hache de combat\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Outil indispensable du guerrier.\\\"}\",\"{\\\"text\\\":\\\"§7Essential tool of the warrior.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Hache de combat\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Outil indispensable du guerrier.\\\"}\",\"{\\\"text\\\":\\\"§7Essential tool of the warrior.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

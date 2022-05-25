@@ -21,7 +21,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§9Sublime Furtivité\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La mort est insaisissable.\\\"}\",\"{\\\"text\\\":\\\"§7Death is elusive.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§a2 §7SPD§c-4\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Sublime Furtivité\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La mort est insaisissable.\\\"}\",\"{\\\"text\\\":\\\"§7Death is elusive.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§a2 §7速度§c-4\\\"}\"]}}"
                     }
                 ]
             }

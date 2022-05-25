@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_sword"],
-                    "nbt": "{display:{Name:\"\\\"§2Epée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Prêt pour le combat.\\\"}\",\"{\\\"text\\\":\\\"§7Ready for the fight.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Epée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Prêt pour le combat.\\\"}\",\"{\\\"text\\\":\\\"§7Ready for the fight.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

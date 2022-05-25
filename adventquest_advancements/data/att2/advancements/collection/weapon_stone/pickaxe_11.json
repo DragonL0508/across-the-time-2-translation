@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§2Masse d'arme\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Frappe, cogne...\\\"}\",\"{\\\"text\\\":\\\"§7Knock, knock...\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Masse d'arme\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Frappe, cogne...\\\"}\",\"{\\\"text\\\":\\\"§7Knock, knock...\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

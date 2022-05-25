@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Plastron éternel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fut, est et sera, il saura se\\\"}\",\"{\\\"text\\\":\\\"§7remettre de tout.\\\"}\",\"{\\\"text\\\":\\\"§7Was, is and will be, he will be\\\"}\",\"{\\\"text\\\":\\\"§7able to recover from everything.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7HAS§a1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Plastron éternel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fut, est et sera, il saura se\\\"}\",\"{\\\"text\\\":\\\"§7remettre de tout.\\\"}\",\"{\\\"text\\\":\\\"§7Was, is and will be, he will be\\\"}\",\"{\\\"text\\\":\\\"§7able to recover from everything.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7攻速§a1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

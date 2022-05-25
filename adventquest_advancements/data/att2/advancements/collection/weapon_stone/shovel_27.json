@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§5Lancinement\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Discret, il conduit inexorablement\\\"}\",\"{\\\"text\\\":\\\"§7vers un froid incisif.\\\"}\",\"{\\\"text\\\":\\\"§7Discreet, it inexorably leads\\\"}\",\"{\\\"text\\\":\\\"§7to an incisive cold.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a4 §7DAR§a2 §7HER§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Lancinement\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Discret, il conduit inexorablement\\\"}\",\"{\\\"text\\\":\\\"§7vers un froid incisif.\\\"}\",\"{\\\"text\\\":\\\"§7Discreet, it inexorably leads\\\"}\",\"{\\\"text\\\":\\\"§7to an incisive cold.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a4 §7恢魔§a2 §7恢復§c-2\\\"}\"]}}"
                     }
                 ]
             }

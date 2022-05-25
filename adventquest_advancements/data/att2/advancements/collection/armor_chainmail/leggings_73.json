@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§7Froide peau\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Et gluante en plus.\\\"}\",\"{\\\"text\\\":\\\"§7And slimy too.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§c-1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Froide peau\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Et gluante en plus.\\\"}\",\"{\\\"text\\\":\\\"§7And slimy too.\\\"}\",\"{\\\"text\\\":\\\"§7速度§c-1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_boots"],
-                    "nbt": "{display:{Name:\"\\\"§7Mocassin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas de jugement.\\\"}\",\"{\\\"text\\\":\\\"§7No judgement.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Mocassin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas de jugement.\\\"}\",\"{\\\"text\\\":\\\"§7No judgement.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

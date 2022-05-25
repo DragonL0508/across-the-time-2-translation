@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§6Offense céleste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Au firmament scintille de mille feu,\\\"}\",\"{\\\"text\\\":\\\"§7la pointe sanglante de sa lame.\\\"}\",\"{\\\"text\\\":\\\"§7In the firmament sparkles with a thousand fire,\\\"}\",\"{\\\"text\\\":\\\"§7the bloody tip of its blade.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§a1 §7DAR§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Offense céleste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Au firmament scintille de mille feu,\\\"}\",\"{\\\"text\\\":\\\"§7la pointe sanglante de sa lame.\\\"}\",\"{\\\"text\\\":\\\"§7In the firmament sparkles with a thousand fire,\\\"}\",\"{\\\"text\\\":\\\"§7the bloody tip of its blade.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗§a1 §7恢魔§a2\\\"}\"]}}"
                     }
                 ]
             }

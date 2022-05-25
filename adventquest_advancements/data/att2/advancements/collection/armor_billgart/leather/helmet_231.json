@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§9Sommet immuable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Trônant tout en haut,\\\"}\",\"{\\\"text\\\":\\\"§7rien ne l'atteint.\\\"}\",\"{\\\"text\\\":\\\"§7Standing at the very top,\\\"}\",\"{\\\"text\\\":\\\"§7nothing can reach it.\\\"}\",\"{\\\"text\\\":\\\"§7LUC§a1 §7HAS§c-2\\\"}\"],color:2127385}}"
+                    "nbt": "{display:{Name:\"\\\"§9Sommet immuable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Trônant tout en haut,\\\"}\",\"{\\\"text\\\":\\\"§7rien ne l'atteint.\\\"}\",\"{\\\"text\\\":\\\"§7Standing at the very top,\\\"}\",\"{\\\"text\\\":\\\"§7nothing can reach it.\\\"}\",\"{\\\"text\\\":\\\"§7運§a1 §7攻速§c-2\\\"}\"],color:2127385}}"
                     }
                 ]
             }

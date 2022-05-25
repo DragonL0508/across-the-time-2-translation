@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§7Jaja\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7C'pa parsk jui bourré, que tu vam'faire la lorame\\\"}\",\"{\\\"text\\\":\\\"§7Is'not because I'm drunk, yo're go'uing turelec me.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7SPD§c-1 §7HUN§c-3 §7LUC§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Jaja\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7C'pa parsk jui bourré, que tu vam'faire la lorame\\\"}\",\"{\\\"text\\\":\\\"§7Is'not because I'm drunk, yo're go'uing turelec me.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7速度§c-1 §7飽食§c-3 §7運§c-2\\\"}\"]}}"
                     }
                 ]
             }

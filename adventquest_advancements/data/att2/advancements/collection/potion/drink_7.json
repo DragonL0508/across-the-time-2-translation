@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§7Alchemia\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un mélange alambiqué\\\"}\",\"{\\\"text\\\":\\\"§7et au goût douteux.\\\"}\",\"{\\\"text\\\":\\\"§7A convoluted mixture\\\"}\",\"{\\\"text\\\":\\\"§7with a questionable taste.\\\"}\",\"{\\\"text\\\":\\\"§7LUC§a1 §7HER§c-1 §7HUN§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Alchemia\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un mélange alambiqué\\\"}\",\"{\\\"text\\\":\\\"§7et au goût douteux.\\\"}\",\"{\\\"text\\\":\\\"§7A convoluted mixture\\\"}\",\"{\\\"text\\\":\\\"§7with a questionable taste.\\\"}\",\"{\\\"text\\\":\\\"§7運§a1 §7恢復§c-1 §7飽食§c-2\\\"}\"]}}"
                     }
                 ]
             }

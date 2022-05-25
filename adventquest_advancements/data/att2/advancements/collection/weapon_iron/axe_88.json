@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_axe"],
-                    "nbt": "{display:{Name:\"\\\"§5Hache perdue\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Guère égarées, certaines choses \\\"}\",\"{\\\"text\\\":\\\"§7ne trouvent aucun digne maître.\\\"}\",\"{\\\"text\\\":\\\"§7Not lost, some things\\\"}\",\"{\\\"text\\\":\\\"§7find no true master.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HER§a2 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Hache perdue\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Guère égarées, certaines choses \\\"}\",\"{\\\"text\\\":\\\"§7ne trouvent aucun digne maître.\\\"}\",\"{\\\"text\\\":\\\"§7Not lost, some things\\\"}\",\"{\\\"text\\\":\\\"§7find no true master.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7恢復§a2 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

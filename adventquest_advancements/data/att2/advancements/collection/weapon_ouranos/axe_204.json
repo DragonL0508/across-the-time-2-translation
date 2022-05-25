@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_axe"],
-                    "nbt": "{display:{Name:\"\\\"§9Hache du marchand\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il a toujours été mystérieux...\\\"}\",\"{\\\"text\\\":\\\"§7He's always been mysterious...\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§a2 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Hache du marchand\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il a toujours été mystérieux...\\\"}\",\"{\\\"text\\\":\\\"§7He's always been mysterious...\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§a2 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

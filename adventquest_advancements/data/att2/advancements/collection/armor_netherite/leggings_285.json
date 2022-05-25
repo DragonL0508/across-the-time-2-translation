@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Conception instable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Caprice du soldat un peu trop endetté.\\\"}\",\"{\\\"text\\\":\\\"§7Caprice of the soldier a little too indebted.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Conception instable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Caprice du soldat un peu trop endetté.\\\"}\",\"{\\\"text\\\":\\\"§7Caprice of the soldier a little too indebted.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -21,7 +21,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§5Elixir Prestigieux\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le Dahäl ne peut manquer,\\\"}\",\"{\\\"text\\\":\\\"§7à celui qui goute à ce breuvage.\\\"}\",\"{\\\"text\\\":\\\"§7The Dahäl cannot be missed\\\"}\",\"{\\\"text\\\":\\\"§7by anyone who tastes this beverage.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a4 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Elixir Prestigieux\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le Dahäl ne peut manquer,\\\"}\",\"{\\\"text\\\":\\\"§7à celui qui goute à ce breuvage.\\\"}\",\"{\\\"text\\\":\\\"§7The Dahäl cannot be missed\\\"}\",\"{\\\"text\\\":\\\"§7by anyone who tastes this beverage.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a4 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

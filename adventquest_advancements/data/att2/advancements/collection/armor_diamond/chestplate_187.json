@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Cristal\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Irrésistible mais égoïste.\\\"}\",\"{\\\"text\\\":\\\"§7Irresistible but selfish.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Cristal\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Irrésistible mais égoïste.\\\"}\",\"{\\\"text\\\":\\\"§7Irresistible but selfish.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

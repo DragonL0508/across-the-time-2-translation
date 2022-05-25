@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§7Dissimulation\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Allez sans votre ombre pour que\\\"}\",\"{\\\"text\\\":\\\"§7toutes autres vous appartiennent.\\\"}\",\"{\\\"text\\\":\\\"§7Go without your shadow\\\"}\",\"{\\\"text\\\":\\\"§7so that all others belong to you.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Dissimulation\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Allez sans votre ombre pour que\\\"}\",\"{\\\"text\\\":\\\"§7toutes autres vous appartiennent.\\\"}\",\"{\\\"text\\\":\\\"§7Go without your shadow\\\"}\",\"{\\\"text\\\":\\\"§7so that all others belong to you.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

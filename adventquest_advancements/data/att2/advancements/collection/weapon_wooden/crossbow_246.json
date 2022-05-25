@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:crossbow"],
-                    "nbt": "{display:{Name:\"\\\"§2Bûche façonnée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Confection d'un bûcheron agacé.\\\"}\",\"{\\\"text\\\":\\\"§7Confection of an annoyed logger.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Bûche façonnée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Confection d'un bûcheron agacé.\\\"}\",\"{\\\"text\\\":\\\"§7Confection of an annoyed logger.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

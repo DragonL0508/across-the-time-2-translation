@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Béquille d'obsidienne\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7En l'honneur de ceux qui sont morts,\\\"}\",\"{\\\"text\\\":\\\"§7en attendant la suite du parchemin des anciens 5.\\\"}\",\"{\\\"text\\\":\\\"§7In honor of those who have died,\\\"}\",\"{\\\"text\\\":\\\"§7waiting for the sequel to the elder scroll 5.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Béquille d'obsidienne\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7En l'honneur de ceux qui sont morts,\\\"}\",\"{\\\"text\\\":\\\"§7en attendant la suite du parchemin des anciens 5.\\\"}\",\"{\\\"text\\\":\\\"§7In honor of those who have died,\\\"}\",\"{\\\"text\\\":\\\"§7waiting for the sequel to the elder scroll 5.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

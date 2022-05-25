@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§6Liberté\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7File sans-gêne, vers des horizons lointains\\\"}\",\"{\\\"text\\\":\\\"§7et porte le vent avec toi.\\\"}\",\"{\\\"text\\\":\\\"§7Run away without any discomfort, to distant horizons\\\"}\",\"{\\\"text\\\":\\\"§7and carry the wind with you.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7SPD§a2 §7DAR§a1\\\"}\"],color:2302737}}"
+                    "nbt": "{display:{Name:\"\\\"§6Liberté\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7File sans-gêne, vers des horizons lointains\\\"}\",\"{\\\"text\\\":\\\"§7et porte le vent avec toi.\\\"}\",\"{\\\"text\\\":\\\"§7Run away without any discomfort, to distant horizons\\\"}\",\"{\\\"text\\\":\\\"§7and carry the wind with you.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7速度§a2 §7恢魔§a1\\\"}\"],color:2302737}}"
                     }
                 ]
             }

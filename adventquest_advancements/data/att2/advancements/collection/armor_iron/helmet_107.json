@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§2Vieil heaume\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7De l'armée de l'Est.\\\"}\",\"{\\\"text\\\":\\\"§7From the Eastern Army.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Vieil heaume\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7De l'armée de l'Est.\\\"}\",\"{\\\"text\\\":\\\"§7From the Eastern Army.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

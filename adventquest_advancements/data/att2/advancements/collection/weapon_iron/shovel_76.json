@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§2Dague d'élite\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ou du moins, jusqu'alors...\\\"}\",\"{\\\"text\\\":\\\"§7Or at least until then...\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Dague d'élite\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ou du moins, jusqu'alors...\\\"}\",\"{\\\"text\\\":\\\"§7Or at least until then...\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

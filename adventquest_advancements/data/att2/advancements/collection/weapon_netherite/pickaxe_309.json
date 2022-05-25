@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§5Concasseur d'os\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7En la voyant, nombreux sont les guerriers\\\"}\",\"{\\\"text\\\":\\\"§7qui ont pris leurs jambes à leur cou.\\\"}\",\"{\\\"text\\\":\\\"§7Seeing her, many are the warriors\\\"}\",\"{\\\"text\\\":\\\"§7who took their legs around their necks.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Concasseur d'os\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7En la voyant, nombreux sont les guerriers\\\"}\",\"{\\\"text\\\":\\\"§7qui ont pris leurs jambes à leur cou.\\\"}\",\"{\\\"text\\\":\\\"§7Seeing her, many are the warriors\\\"}\",\"{\\\"text\\\":\\\"§7who took their legs around their necks.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

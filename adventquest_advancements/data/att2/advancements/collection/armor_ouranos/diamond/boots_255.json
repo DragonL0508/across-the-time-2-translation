@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_boots"],
-                    "nbt": "{display:{Name:\"\\\"§9Chaussures du grimpeur\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Même les nuages s'escaladent.\\\"}\",\"{\\\"text\\\":\\\"§7Even the clouds are climbable.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Chaussures du grimpeur\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Même les nuages s'escaladent.\\\"}\",\"{\\\"text\\\":\\\"§7Even the clouds are climbable.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

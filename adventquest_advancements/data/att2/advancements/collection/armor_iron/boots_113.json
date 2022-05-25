@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_boots"],
-                    "nbt": "{display:{Name:\"\\\"§2Pied lourd\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pour un pas de brute.\\\"}\",\"{\\\"text\\\":\\\"§7For a bully's step.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1 §7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pied lourd\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pour un pas de brute.\\\"}\",\"{\\\"text\\\":\\\"§7For a bully's step.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1 §7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

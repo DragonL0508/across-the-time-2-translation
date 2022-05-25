@@ -19,7 +19,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§5Capuche des songes\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aLa distance devient subjective, l'altitude anodine, la vitesse\\\"}\",\"{\\\"text\\\":\\\"§aaffable, quand vous porte le savoir des enfants d'Iio.\\\"}\",\"{\\\"text\\\":\\\"§aThe distance becomes subjective, the altitude anodyne, the speed\\\"}\",\"{\\\"text\\\":\\\"§aaffable, when the knowledge of Iio's children carries you.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a3 §7DAR§c-1\\\"}\"],color:12696977}}"
+                    "nbt": "{display:{Name:\"\\\"§5Capuche des songes\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aLa distance devient subjective, l'altitude anodine, la vitesse\\\"}\",\"{\\\"text\\\":\\\"§aaffable, quand vous porte le savoir des enfants d'Iio.\\\"}\",\"{\\\"text\\\":\\\"§aThe distance becomes subjective, the altitude anodyne, the speed\\\"}\",\"{\\\"text\\\":\\\"§aaffable, when the knowledge of Iio's children carries you.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a3 §7恢魔§c-1\\\"}\"],color:12696977}}"
                     }
                 ]
             }

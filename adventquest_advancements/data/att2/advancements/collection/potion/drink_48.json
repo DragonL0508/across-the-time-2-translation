@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§7Jus d'orange\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sucré mais aigre.\\\"}\",\"{\\\"text\\\":\\\"§7Sweet but sour.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a1 §7DAR§a1 §7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Jus d'orange\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sucré mais aigre.\\\"}\",\"{\\\"text\\\":\\\"§7Sweet but sour.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a1 §7恢魔§a1 §7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

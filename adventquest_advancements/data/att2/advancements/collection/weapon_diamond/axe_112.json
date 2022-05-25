@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_axe"],
-                    "nbt": "{display:{Name:\"\\\"§9Sacédon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La vérité est tienne, et toi seul\\\"}\",\"{\\\"text\\\":\\\"§7pourra la faire entendre.\\\"}\",\"{\\\"text\\\":\\\"§7The truth is yours, and only\\\"}\",\"{\\\"text\\\":\\\"§7you can make it heard.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a3 §7SPD§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Sacédon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La vérité est tienne, et toi seul\\\"}\",\"{\\\"text\\\":\\\"§7pourra la faire entendre.\\\"}\",\"{\\\"text\\\":\\\"§7The truth is yours, and only\\\"}\",\"{\\\"text\\\":\\\"§7you can make it heard.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a3 §7速度§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

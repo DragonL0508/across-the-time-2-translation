@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_sword"],
-                    "nbt": "{display:{Name:\"\\\"§6Ame d'Ulik'atar\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Aude à l'acharnement du premier\\\"}\",\"{\\\"text\\\":\\\"§7inorganique, hurlement d'un roi.\\\"}\",\"{\\\"text\\\":\\\"§7Aude to the fierceness of the first\\\"}\",\"{\\\"text\\\":\\\"§7inorganic, scream of a king.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Ame d'Ulik'atar\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Aude à l'acharnement du premier\\\"}\",\"{\\\"text\\\":\\\"§7inorganique, hurlement d'un roi.\\\"}\",\"{\\\"text\\\":\\\"§7Aude to the fierceness of the first\\\"}\",\"{\\\"text\\\":\\\"§7inorganic, scream of a king.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗§a1\\\"}\"]}}"
                     }
                 ]
             }

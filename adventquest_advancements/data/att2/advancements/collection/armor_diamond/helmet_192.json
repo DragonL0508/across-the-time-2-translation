@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§5Poême de l'enfant mort\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le temps dévore la précieuse beauté,\\\"}\",\"{\\\"text\\\":\\\"§7pour toi et en guerre pour ton amour.\\\"}\",\"{\\\"text\\\":\\\"§7Time devours pressious beauty\\\"}\",\"{\\\"text\\\":\\\"§7for you, in war for the love of you.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Poême de l'enfant mort\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le temps dévore la précieuse beauté,\\\"}\",\"{\\\"text\\\":\\\"§7pour toi et en guerre pour ton amour.\\\"}\",\"{\\\"text\\\":\\\"§7Time devours pressious beauty\\\"}\",\"{\\\"text\\\":\\\"§7for you, in war for the love of you.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7運§a1\\\"}\"]}}"
                     }
                 ]
             }

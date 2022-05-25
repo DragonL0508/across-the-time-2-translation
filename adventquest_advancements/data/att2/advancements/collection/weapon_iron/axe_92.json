@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_axe"],
-                    "nbt": "{display:{Name:\"\\\"§6Âme de jade\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Insoupçonnée, surprenante, éclatante\\\"}\",\"{\\\"text\\\":\\\"§7telle est ta morsure de cristal.\\\"}\",\"{\\\"text\\\":\\\"§7Unsuspected, surprising, dazzling\\\"}\",\"{\\\"text\\\":\\\"§7such is your crystal bite.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7DAR§a2 §7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Âme de jade\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Insoupçonnée, surprenante, éclatante\\\"}\",\"{\\\"text\\\":\\\"§7telle est ta morsure de cristal.\\\"}\",\"{\\\"text\\\":\\\"§7Unsuspected, surprising, dazzling\\\"}\",\"{\\\"text\\\":\\\"§7such is your crystal bite.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢魔§a2 §7運§a1\\\"}\"]}}"
                     }
                 ]
             }

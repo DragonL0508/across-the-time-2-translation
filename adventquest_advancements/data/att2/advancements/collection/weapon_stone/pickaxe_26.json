@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§5Garde famille\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sans failles, il protège et sert\\\"}\",\"{\\\"text\\\":\\\"§7la famille qui l'a vu naître.\\\"}\",\"{\\\"text\\\":\\\"§7Flawless, it protects and serves\\\"}\",\"{\\\"text\\\":\\\"§7the familly that gave birth to it.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§a1 §7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Garde famille\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sans failles, il protège et sert\\\"}\",\"{\\\"text\\\":\\\"§7la famille qui l'a vu naître.\\\"}\",\"{\\\"text\\\":\\\"§7Flawless, it protects and serves\\\"}\",\"{\\\"text\\\":\\\"§7the familly that gave birth to it.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗§a1 §7運§a1\\\"}\"]}}"
                     }
                 ]
             }

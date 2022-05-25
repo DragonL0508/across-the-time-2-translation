@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_boots"],
-                    "nbt": "{display:{Name:\"\\\"§2Empreinte sombre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Déjà passé par là...\\\"}\",\"{\\\"text\\\":\\\"§7Already been there...\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Empreinte sombre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Déjà passé par là...\\\"}\",\"{\\\"text\\\":\\\"§7Already been there...\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

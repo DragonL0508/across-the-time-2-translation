@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Torse du gardien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Soyez digne de son courage,\\\"}\",\"{\\\"text\\\":\\\"§7car il en vit des rudes et des pires encore.\\\"}\",\"{\\\"text\\\":\\\"§7Be worthy of its courage, cause it\\\"}\",\"{\\\"text\\\":\\\"§7has seen hard times and worse.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1 §7SPD§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Torse du gardien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Soyez digne de son courage,\\\"}\",\"{\\\"text\\\":\\\"§7car il en vit des rudes et des pires encore.\\\"}\",\"{\\\"text\\\":\\\"§7Be worthy of its courage, cause it\\\"}\",\"{\\\"text\\\":\\\"§7has seen hard times and worse.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1 §7速度§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

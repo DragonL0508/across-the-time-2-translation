@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§2Bouclier de Kortaek\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arbore l'emblème de Kortaek.\\\"}\",\"{\\\"text\\\":\\\"§7Wears the Kortaek emblem.\\\"}\",\"{\\\"text\\\":\\\"§7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Bouclier de Kortaek\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arbore l'emblème de Kortaek.\\\"}\",\"{\\\"text\\\":\\\"§7Wears the Kortaek emblem.\\\"}\",\"{\\\"text\\\":\\\"§7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

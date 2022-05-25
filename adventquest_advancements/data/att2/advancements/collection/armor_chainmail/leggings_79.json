@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Cotte basse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Prends soin de tes jambes, Maxime.\\\"}\",\"{\\\"text\\\":\\\"§7Take care of your legs, Maxime.\\\"}\",\"{\\\"text\\\":\\\"§7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Cotte basse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Prends soin de tes jambes, Maxime.\\\"}\",\"{\\\"text\\\":\\\"§7Take care of your legs, Maxime.\\\"}\",\"{\\\"text\\\":\\\"§7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

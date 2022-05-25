@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§9Guédéron\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Tu es fort, très fort,\\\"}\",\"{\\\"text\\\":\\\"§7le plus fort d'entre nous.\\\"}\",\"{\\\"text\\\":\\\"§7You are strong, very strong,\\\"}\",\"{\\\"text\\\":\\\"§7the strongest of us.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Guédéron\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Tu es fort, très fort,\\\"}\",\"{\\\"text\\\":\\\"§7le plus fort d'entre nous.\\\"}\",\"{\\\"text\\\":\\\"§7You are strong, very strong,\\\"}\",\"{\\\"text\\\":\\\"§7the strongest of us.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

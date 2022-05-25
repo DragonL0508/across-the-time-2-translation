@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§9Héda le père\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Tombé à la guerre.\\\"}\",\"{\\\"text\\\":\\\"§7Fallen for war.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7DAR§a2 §7HER§c-3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Héda le père\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Tombé à la guerre.\\\"}\",\"{\\\"text\\\":\\\"§7Fallen for war.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7恢魔§a2 §7恢復§c-3\\\"}\"]}}"
                     }
                 ]
             }

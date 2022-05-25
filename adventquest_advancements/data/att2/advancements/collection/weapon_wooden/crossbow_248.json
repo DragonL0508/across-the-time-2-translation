@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:crossbow"],
-                    "nbt": "{display:{Name:\"\\\"§2Excroissance\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Quand une boursouflure devient une arme.\\\"}\",\"{\\\"text\\\":\\\"§7When a blister becomes a weapon.\\\"}\",\"{\\\"text\\\":\\\"§7HUN§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Excroissance\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Quand une boursouflure devient une arme.\\\"}\",\"{\\\"text\\\":\\\"§7When a blister becomes a weapon.\\\"}\",\"{\\\"text\\\":\\\"§7飽食§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Trépas du marcheur blanc\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Malchanceux celui qui portera ceci.\\\"}\",\"{\\\"text\\\":\\\"§7Un futal qui pue quoi.\\\"}\",\"{\\\"text\\\":\\\"§7Unlucky is the one who will wear this.\\\"}\",\"{\\\"text\\\":\\\"§7A futal that stinks.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Trépas du marcheur blanc\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Malchanceux celui qui portera ceci.\\\"}\",\"{\\\"text\\\":\\\"§7Un futal qui pue quoi.\\\"}\",\"{\\\"text\\\":\\\"§7Unlucky is the one who will wear this.\\\"}\",\"{\\\"text\\\":\\\"§7A futal that stinks.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

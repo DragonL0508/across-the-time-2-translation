@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§6Témérité\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Telle est la vertu des meilleurs, car eux\\\"}\",\"{\\\"text\\\":\\\"§7seuls atteignirent l'inatteignable.\\\"}\",\"{\\\"text\\\":\\\"§7This is the virtue of the best, because\\\"}\",\"{\\\"text\\\":\\\"§7only them achieved the unachievable.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§a1 §7HER§a1 §7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Témérité\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Telle est la vertu des meilleurs, car eux\\\"}\",\"{\\\"text\\\":\\\"§7seuls atteignirent l'inatteignable.\\\"}\",\"{\\\"text\\\":\\\"§7This is the virtue of the best, because\\\"}\",\"{\\\"text\\\":\\\"§7only them achieved the unachievable.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗§a1 §7恢復§a1 §7運§a1\\\"}\"]}}"
                     }
                 ]
             }

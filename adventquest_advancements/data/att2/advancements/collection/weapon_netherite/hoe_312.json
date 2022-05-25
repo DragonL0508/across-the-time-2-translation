@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§5Fin Doldro\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Seuls les morts voient\\\"}\",\"{\\\"text\\\":\\\"§7la fin de la guerre...\\\"}\",\"{\\\"text\\\":\\\"§7Only the dead see\\\"}\",\"{\\\"text\\\":\\\"§7the end of the war...\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§a4 §7LUC§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Fin Doldro\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Seuls les morts voient\\\"}\",\"{\\\"text\\\":\\\"§7la fin de la guerre...\\\"}\",\"{\\\"text\\\":\\\"§7Only the dead see\\\"}\",\"{\\\"text\\\":\\\"§7the end of the war...\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§a4 §7運§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

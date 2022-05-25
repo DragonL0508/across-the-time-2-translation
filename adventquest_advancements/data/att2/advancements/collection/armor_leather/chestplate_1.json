@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§7Tunique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Doux et chaleureux.\\\"}\",\"{\\\"text\\\":\\\"§7Soft and warm.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§c-1\\\"}\"],color:10454850}}"
+                    "nbt": "{display:{Name:\"\\\"§7Tunique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Doux et chaleureux.\\\"}\",\"{\\\"text\\\":\\\"§7Soft and warm.\\\"}\",\"{\\\"text\\\":\\\"§7速度§c-1\\\"}\"],color:10454850}}"
                     }
                 ]
             }

@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§7Vitalité\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Difficile de s'en passer.\\\"}\",\"{\\\"text\\\":\\\"§7Difficult to do without.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7HUN§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Vitalité\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Difficile de s'en passer.\\\"}\",\"{\\\"text\\\":\\\"§7Difficult to do without.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7飽食§c-2\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§6Lelrïm tar\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Panache et grandiloquence ne sont\\\"}\",\"{\\\"text\\\":\\\"§7l'apanage que des faquins et faux héros.\\\"}\",\"{\\\"text\\\":\\\"§7Panache and grandiloquence are\\\"}\",\"{\\\"text\\\":\\\"§7the prerogative only of fake and false heroes.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7SPD§a2 §7HAS§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Lelrïm tar\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Panache et grandiloquence ne sont\\\"}\",\"{\\\"text\\\":\\\"§7l'apanage que des faquins et faux héros.\\\"}\",\"{\\\"text\\\":\\\"§7Panache and grandiloquence are\\\"}\",\"{\\\"text\\\":\\\"§7the prerogative only of fake and false heroes.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7速度§a2 §7攻速§a1\\\"}\"]}}"
                     }
                 ]
             }

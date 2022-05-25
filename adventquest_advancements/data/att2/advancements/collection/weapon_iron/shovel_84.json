@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§9Dague du père\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un souvenir ne protège pas,\\\"}\",\"{\\\"text\\\":\\\"§7une arme le peut.\\\"}\",\"{\\\"text\\\":\\\"§7A memory does not protect,\\\"}\",\"{\\\"text\\\":\\\"§7a weapon can.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1 §7DAR§a3 §7HER§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Dague du père\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un souvenir ne protège pas,\\\"}\",\"{\\\"text\\\":\\\"§7une arme le peut.\\\"}\",\"{\\\"text\\\":\\\"§7A memory does not protect,\\\"}\",\"{\\\"text\\\":\\\"§7a weapon can.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1 §7恢魔§a3 §7恢復§c-2\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_sword"],
-                    "nbt": "{display:{Name:\"\\\"§2Roche simple\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fera l'affaire.\\\"}\",\"{\\\"text\\\":\\\"§7Will do the trick.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1 §7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Roche simple\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fera l'affaire.\\\"}\",\"{\\\"text\\\":\\\"§7Will do the trick.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1 §7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_boots"],
-                    "nbt": "{display:{Name:\"\\\"§2Soulier d'Hygrien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A la gloire des capitaines de Teltion.\\\"}\",\"{\\\"text\\\":\\\"§7To the glory of the captains of Teltion.\\\"}\",\"{\\\"text\\\":\\\"§7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Soulier d'Hygrien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A la gloire des capitaines de Teltion.\\\"}\",\"{\\\"text\\\":\\\"§7To the glory of the captains of Teltion.\\\"}\",\"{\\\"text\\\":\\\"§7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

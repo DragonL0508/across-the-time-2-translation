@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§9Faîte des jeux\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Plus vite, plus haut, plus fort !\\\"}\",\"{\\\"text\\\":\\\"§7Faster, higher, stronger!\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Faîte des jeux\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Plus vite, plus haut, plus fort !\\\"}\",\"{\\\"text\\\":\\\"§7Faster, higher, stronger!\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

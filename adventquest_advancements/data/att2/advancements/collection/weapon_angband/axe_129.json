@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_axe"],
-                    "nbt": "{display:{Name:\"\\\"§7Arme du chef\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Si si, c'est la vraie !\\\"}\",\"{\\\"text\\\":\\\"§7Yes indeed, it's the real one!\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Arme du chef\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Si si, c'est la vraie !\\\"}\",\"{\\\"text\\\":\\\"§7Yes indeed, it's the real one!\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

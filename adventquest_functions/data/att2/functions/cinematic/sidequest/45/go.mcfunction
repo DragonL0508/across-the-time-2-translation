@@ -34,16 +34,16 @@ execute if score SQ45 SIDEQUEST matches 1 if entity @a[gamemode=adventure,nbt={I
 execute if score SQ45 SIDEQUEST matches 2 if entity @a[x=3743,y=61,z=4338,distance=..4,gamemode=adventure,nbt={Inventory:[{tag:{display:{"Lore":["{\"text\":\"§4§oBadge\"}"]}}}]}] run function att2:cinematic/sidequest/45/step3
 
 # Step4 when player found Nekr al Felèvsil 
-execute if score SQ45 SIDEQUEST matches 1..3 if entity @a[gamemode=adventure,nbt={Inventory:[{tag:{display:{"Lore":["{\"text\":\"§7Les bêtes Sécariennes ont jadis\"}","{\"text\":\"§7craint tes griffes autant que ton nom.\"}","{\"text\":\"§7The Secarian beasts once feared\"}","{\"text\":\"§7your claws as much as your name.\"}","{\"text\":\"§7STR§a2 §7HAS§a4\"}"]}}}]}] run function att2:cinematic/sidequest/45/step4
+execute if score SQ45 SIDEQUEST matches 1..3 if entity @a[gamemode=adventure,nbt={Inventory:[{tag:{display:{"Lore":["{\"text\":\"§7Les bêtes Sécariennes ont jadis\"}","{\"text\":\"§7craint tes griffes autant que ton nom.\"}","{\"text\":\"§7The Secarian beasts once feared\"}","{\"text\":\"§7your claws as much as your name.\"}","{\"text\":\"§7力§a2 §7攻速§a4\"}"]}}}]}] run function att2:cinematic/sidequest/45/step4
 
 # Start cinematic when player is close to Aldelrion with Nekr al Felèvsil 
-execute if score SQ45 SIDEQUEST matches 4 if score cinematic SQ45 matches 2 at 00000000-0000-149a-0000-00000000149a if entity @a[distance=..5,gamemode=adventure,nbt={Inventory:[{tag:{display:{"Lore":["{\"text\":\"§7Les bêtes Sécariennes ont jadis\"}","{\"text\":\"§7craint tes griffes autant que ton nom.\"}","{\"text\":\"§7The Secarian beasts once feared\"}","{\"text\":\"§7your claws as much as your name.\"}","{\"text\":\"§7STR§a2 §7HAS§a4\"}"]}}}]}] run function att2:cinematic/sidequest/45/aldelrion/start_cinematic2
+execute if score SQ45 SIDEQUEST matches 4 if score cinematic SQ45 matches 2 at 00000000-0000-149a-0000-00000000149a if entity @a[distance=..5,gamemode=adventure,nbt={Inventory:[{tag:{display:{"Lore":["{\"text\":\"§7Les bêtes Sécariennes ont jadis\"}","{\"text\":\"§7craint tes griffes autant que ton nom.\"}","{\"text\":\"§7The Secarian beasts once feared\"}","{\"text\":\"§7your claws as much as your name.\"}","{\"text\":\"§7力§a2 §7攻速§a4\"}"]}}}]}] run function att2:cinematic/sidequest/45/aldelrion/start_cinematic2
 
 # Step4 quest when player is close to PNJ Aldelrion with Nekr al Felèvsil
 execute if score SQ45 SIDEQUEST matches 4 if score cinematic SQ45 matches 3 at 00000000-0000-149a-0000-00000000149a if entity @a[distance=..40] run function att2:cinematic/sidequest/45/aldelrion/cinematic2
 
 # Security with auto validate of Nekr al Felèvsil
-execute if score SQ45 SIDEQUEST matches 4 if score cinematic SQ45 matches 4 at 00000000-0000-149a-0000-00000000149a as @a[distance=..5,gamemode=adventure,nbt={SelectedItem:{tag:{display:{"Lore":["{\"text\":\"§7Les bêtes Sécariennes ont jadis\"}","{\"text\":\"§7craint tes griffes autant que ton nom.\"}","{\"text\":\"§7The Secarian beasts once feared\"}","{\"text\":\"§7your claws as much as your name.\"}","{\"text\":\"§7STR§a2 §7HAS§a4\"}"]}}}}] run function att2:cinematic/sidequest/45/aldelrion/answer_1_2
+execute if score SQ45 SIDEQUEST matches 4 if score cinematic SQ45 matches 4 at 00000000-0000-149a-0000-00000000149a as @a[distance=..5,gamemode=adventure,nbt={SelectedItem:{tag:{display:{"Lore":["{\"text\":\"§7Les bêtes Sécariennes ont jadis\"}","{\"text\":\"§7craint tes griffes autant que ton nom.\"}","{\"text\":\"§7The Secarian beasts once feared\"}","{\"text\":\"§7your claws as much as your name.\"}","{\"text\":\"§7力§a2 §7攻速§a4\"}"]}}}}] run function att2:cinematic/sidequest/45/aldelrion/answer_1_2
 
 # End quest when player is close to PNJ Aldelrion with Nekr al Felèvsil
 execute if score SQ45 SIDEQUEST matches 4 if score cinematic SQ45 matches 5 at 00000000-0000-149a-0000-00000000149a if entity @a[distance=..40] run function att2:cinematic/sidequest/45/aldelrion/cinematic3

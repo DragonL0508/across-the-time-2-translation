@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§2Forfaiture\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7De méfaits en méfaits, de trahisons en trahisons...\\\"}\",\"{\\\"text\\\":\\\"§7From misdeeds to misdeeds, from betrayals to betrayals...\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a1 §7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Forfaiture\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7De méfaits en méfaits, de trahisons en trahisons...\\\"}\",\"{\\\"text\\\":\\\"§7From misdeeds to misdeeds, from betrayals to betrayals...\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a1 §7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§2Voile épais\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Même pas élégant.\\\"}\",\"{\\\"text\\\":\\\"§7Not even elegant.\\\"}\",\"{\\\"text\\\":\\\"§7LUC§c-1\\\"}\"],color:5346949}}"
+                    "nbt": "{display:{Name:\"\\\"§2Voile épais\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Même pas élégant.\\\"}\",\"{\\\"text\\\":\\\"§7Not even elegant.\\\"}\",\"{\\\"text\\\":\\\"§7運§c-1\\\"}\"],color:5346949}}"
                     }
                 ]
             }

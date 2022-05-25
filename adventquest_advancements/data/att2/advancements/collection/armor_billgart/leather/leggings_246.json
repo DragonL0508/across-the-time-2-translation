@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§6Course éperdue\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sauvez-vous, fuyez, envolez-vous,\\\"}\",\"{\\\"text\\\":\\\"§7égarez-moi, dans la cachette du rêveur\\\"}\",\"{\\\"text\\\":\\\"§7Get away, run away, fly away,\\\"}\",\"{\\\"text\\\":\\\"§7lead me astray, to dreamer's hideaway\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a4 §7DAR§a3\\\"}\"],color:12470537}}"
+                    "nbt": "{display:{Name:\"\\\"§6Course éperdue\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sauvez-vous, fuyez, envolez-vous,\\\"}\",\"{\\\"text\\\":\\\"§7égarez-moi, dans la cachette du rêveur\\\"}\",\"{\\\"text\\\":\\\"§7Get away, run away, fly away,\\\"}\",\"{\\\"text\\\":\\\"§7lead me astray, to dreamer's hideaway\\\"}\",\"{\\\"text\\\":\\\"§7速度§a4 §7恢魔§a3\\\"}\"],color:12470537}}"
                     }
                 ]
             }

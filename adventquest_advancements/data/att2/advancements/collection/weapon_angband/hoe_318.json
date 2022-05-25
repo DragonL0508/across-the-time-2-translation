@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§7Pointe rudimentaire\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Inefficace à souhait.\\\"}\",\"{\\\"text\\\":\\\"§7Ineffective at will.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Pointe rudimentaire\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Inefficace à souhait.\\\"}\",\"{\\\"text\\\":\\\"§7Ineffective at will.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

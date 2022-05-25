@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_boots"],
-                    "nbt": "{display:{Name:\"\\\"§2Pinols\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ne les oublie pas César.\\\"}\",\"{\\\"text\\\":\\\"§7Don't forget them, Caesar.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pinols\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ne les oublie pas César.\\\"}\",\"{\\\"text\\\":\\\"§7Don't forget them, Caesar.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

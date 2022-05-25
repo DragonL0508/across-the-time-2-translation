@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_sword"],
-                    "nbt": "{display:{Name:\"\\\"§9Tranche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Rapide elle vient et rien ne l'arrête.\\\"}\",\"{\\\"text\\\":\\\"§7Fast it comes and nothing stops it.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7SPD§a2 §7STR§c-1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Tranche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Rapide elle vient et rien ne l'arrête.\\\"}\",\"{\\\"text\\\":\\\"§7Fast it comes and nothing stops it.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7速度§a2 §7力量§c-1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

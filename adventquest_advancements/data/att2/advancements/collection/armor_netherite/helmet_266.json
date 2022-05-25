@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§7Amateur\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pour les novices.\\\"}\",\"{\\\"text\\\":\\\"§7For novices.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Amateur\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pour les novices.\\\"}\",\"{\\\"text\\\":\\\"§7For novices.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

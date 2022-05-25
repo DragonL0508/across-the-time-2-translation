@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§5Vei gal atar\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ta peine prendra finalement fin,\\\"}\",\"{\\\"text\\\":\\\"§7en même temps que tes lendemains.\\\"}\",\"{\\\"text\\\":\\\"§7Your pain will finally end,\\\"}\",\"{\\\"text\\\":\\\"§7along with your tomorrows.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7SPD§a2 §7DAR§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Vei gal atar\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ta peine prendra finalement fin,\\\"}\",\"{\\\"text\\\":\\\"§7en même temps que tes lendemains.\\\"}\",\"{\\\"text\\\":\\\"§7Your pain will finally end,\\\"}\",\"{\\\"text\\\":\\\"§7along with your tomorrows.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7速度§a2 §7恢魔§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

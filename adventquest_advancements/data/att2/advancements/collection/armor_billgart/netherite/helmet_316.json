@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§2Coquille vide\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Gné !\\\"}\",\"{\\\"text\\\":\\\"§7Duh...\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Coquille vide\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Gné !\\\"}\",\"{\\\"text\\\":\\\"§7Duh...\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

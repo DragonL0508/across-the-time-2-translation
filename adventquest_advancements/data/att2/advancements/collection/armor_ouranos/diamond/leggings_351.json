@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§6L'emprise de l'artiste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aLa créativité pure n'est envisageable qu'à la faveur \\\"}\",\"{\\\"text\\\":\\\"§ad'une liberté absolue et d'un esprit sans limite.\\\"}\",\"{\\\"text\\\":\\\"§aPure creativity is only possible with\\\"}\",\"{\\\"text\\\":\\\"§aabsolute freedom and a limitless mind.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§a3 §7DAR§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6L'emprise de l'artiste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aLa créativité pure n'est envisageable qu'à la faveur \\\"}\",\"{\\\"text\\\":\\\"§ad'une liberté absolue et d'un esprit sans limite.\\\"}\",\"{\\\"text\\\":\\\"§aPure creativity is only possible with\\\"}\",\"{\\\"text\\\":\\\"§aabsolute freedom and a limitless mind.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§a3 §7恢魔§a2\\\"}\"]}}"
                     }
                 ]
             }

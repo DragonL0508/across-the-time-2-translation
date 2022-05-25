@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§7Tablier de métal\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Marqué par la cendre.\\\"}\",\"{\\\"text\\\":\\\"§7Marked by ashes.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Tablier de métal\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Marqué par la cendre.\\\"}\",\"{\\\"text\\\":\\\"§7Marked by ashes.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

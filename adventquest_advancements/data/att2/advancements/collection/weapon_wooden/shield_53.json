@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§2Bouclier de Ryliath\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arbore l'emblème de Ryliath.\\\"}\",\"{\\\"text\\\":\\\"§7Wears the Ryliath emblem.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Bouclier de Ryliath\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arbore l'emblème de Ryliath.\\\"}\",\"{\\\"text\\\":\\\"§7Wears the Ryliath emblem.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

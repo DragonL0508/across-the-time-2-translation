@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§2Tunique de paysan\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas de projet, pas d'ennuis.\\\"}\",\"{\\\"text\\\":\\\"§7No projects, no trouble.\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-1\\\"}\"],color:14021098}}"
+                    "nbt": "{display:{Name:\"\\\"§2Tunique de paysan\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pas de projet, pas d'ennuis.\\\"}\",\"{\\\"text\\\":\\\"§7No projects, no trouble.\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-1\\\"}\"],color:14021098}}"
                     }
                 ]
             }

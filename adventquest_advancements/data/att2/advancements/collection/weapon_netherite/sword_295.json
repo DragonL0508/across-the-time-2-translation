@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_sword"],
-                    "nbt": "{display:{Name:\"\\\"§2Espadon moyen\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fréquent dans les mains du soldat.\\\"}\",\"{\\\"text\\\":\\\"§7Frequent in the hands of the soldier.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Espadon moyen\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fréquent dans les mains du soldat.\\\"}\",\"{\\\"text\\\":\\\"§7Frequent in the hands of the soldier.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

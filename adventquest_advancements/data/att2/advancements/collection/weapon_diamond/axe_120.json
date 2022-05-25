@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_axe"],
-                    "nbt": "{display:{Name:\"\\\"§5L'ardeur indomptable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Jà à ta naissance, ta volonté brûla\\\"}\",\"{\\\"text\\\":\\\"§7d'une irrésistible intensité.\\\"}\",\"{\\\"text\\\":\\\"§7Even at your birth, your will burned\\\"}\",\"{\\\"text\\\":\\\"§7with an irresistible intensity.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7SPD§a2 §7HAS§c-1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5L'ardeur indomptable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Jà à ta naissance, ta volonté brûla\\\"}\",\"{\\\"text\\\":\\\"§7d'une irrésistible intensité.\\\"}\",\"{\\\"text\\\":\\\"§7Even at your birth, your will burned\\\"}\",\"{\\\"text\\\":\\\"§7with an irresistible intensity.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7速度§a2 §7攻速§c-1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

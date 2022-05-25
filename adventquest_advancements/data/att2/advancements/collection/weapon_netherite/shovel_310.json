@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§5Extrême syncope\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Quiconque pose le regard sur elle la désire,\\\"}\",\"{\\\"text\\\":\\\"§7et quiconque la dédaigne mourra par elle !\\\"}\",\"{\\\"text\\\":\\\"§7Whoever looks down upon it desires her,\\\"}\",\"{\\\"text\\\":\\\"§7and whoever disdains it, will die!\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§a1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Extrême syncope\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Quiconque pose le regard sur elle la désire,\\\"}\",\"{\\\"text\\\":\\\"§7et quiconque la dédaigne mourra par elle !\\\"}\",\"{\\\"text\\\":\\\"§7Whoever looks down upon it desires her,\\\"}\",\"{\\\"text\\\":\\\"§7and whoever disdains it, will die!\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗§a1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

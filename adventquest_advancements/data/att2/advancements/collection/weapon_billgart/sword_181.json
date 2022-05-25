@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_sword"],
-                    "nbt": "{display:{Name:\"\\\"§2Pointe aiguisée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pour le plus rapide de mes amis.\\\"}\",\"{\\\"text\\\":\\\"§7For the fastest of my friends.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pointe aiguisée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pour le plus rapide de mes amis.\\\"}\",\"{\\\"text\\\":\\\"§7For the fastest of my friends.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

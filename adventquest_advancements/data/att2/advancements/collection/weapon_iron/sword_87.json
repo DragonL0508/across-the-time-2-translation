@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_sword"],
-                    "nbt": "{display:{Name:\"\\\"§9La seconde option\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Celle qui vous sort toujours\\\"}\",\"{\\\"text\\\":\\\"§7des mauvaises passes.\\\"}\",\"{\\\"text\\\":\\\"§7The one that always gets\\\"}\",\"{\\\"text\\\":\\\"§7you out of bad situations.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9La seconde option\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Celle qui vous sort toujours\\\"}\",\"{\\\"text\\\":\\\"§7des mauvaises passes.\\\"}\",\"{\\\"text\\\":\\\"§7The one that always gets\\\"}\",\"{\\\"text\\\":\\\"§7you out of bad situations.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

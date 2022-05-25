@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§9Iconoclaste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Je n'ai pas peur de la cruauté\\\"}\",\"{\\\"text\\\":\\\"§7ni de la violence gratuite.\\\"}\",\"{\\\"text\\\":\\\"§7I am not afraid of cruelty\\\"}\",\"{\\\"text\\\":\\\"§7or gratuitous violence.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§a1 §7SPD§c-1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Iconoclaste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Je n'ai pas peur de la cruauté\\\"}\",\"{\\\"text\\\":\\\"§7ni de la violence gratuite.\\\"}\",\"{\\\"text\\\":\\\"§7I am not afraid of cruelty\\\"}\",\"{\\\"text\\\":\\\"§7or gratuitous violence.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§a1 §7速度§c-1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

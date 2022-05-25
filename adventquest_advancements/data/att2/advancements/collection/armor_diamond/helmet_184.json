@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§9Casque antique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le temps est bien incapable\\\"}\",\"{\\\"text\\\":\\\"§7d'émousser ta volonté de pierre.\\\"}\",\"{\\\"text\\\":\\\"§7Time is incapable of blunting\\\"}\",\"{\\\"text\\\":\\\"§7your stone will.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7SPD§a1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Casque antique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le temps est bien incapable\\\"}\",\"{\\\"text\\\":\\\"§7d'émousser ta volonté de pierre.\\\"}\",\"{\\\"text\\\":\\\"§7Time is incapable of blunting\\\"}\",\"{\\\"text\\\":\\\"§7your stone will.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7速度§a1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

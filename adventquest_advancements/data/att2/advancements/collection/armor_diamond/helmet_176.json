@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§2Fausse couronne\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Presque aussi cher.\\\"}\",\"{\\\"text\\\":\\\"§7Almost as expensive.\\\"}\",\"{\\\"text\\\":\\\"§7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Fausse couronne\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Presque aussi cher.\\\"}\",\"{\\\"text\\\":\\\"§7Almost as expensive.\\\"}\",\"{\\\"text\\\":\\\"§7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

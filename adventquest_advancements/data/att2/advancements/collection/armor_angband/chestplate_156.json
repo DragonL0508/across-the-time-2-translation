@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§5Nu gal menä\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Votre forme devient votre force, car c'est la\\\"}\",\"{\\\"text\\\":\\\"§7seule chose qui importe vraiment.\\\"}\",\"{\\\"text\\\":\\\"§7Your form becomes your strength, because it is\\\"}\",\"{\\\"text\\\":\\\"§7the only thing that really matters.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a2 §7DAR§a2 §7HUN§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Nu gal menä\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Votre forme devient votre force, car c'est la\\\"}\",\"{\\\"text\\\":\\\"§7seule chose qui importe vraiment.\\\"}\",\"{\\\"text\\\":\\\"§7Your form becomes your strength, because it is\\\"}\",\"{\\\"text\\\":\\\"§7the only thing that really matters.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a2 §7恢魔§a2 §7飽食§c-2\\\"}\"]}}"
                     }
                 ]
             }

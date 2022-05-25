@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_axe"],
-                    "nbt": "{display:{Name:\"\\\"§9Cochoir contondant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Très convenable pour se défendre des petites bêtes.\\\"}\",\"{\\\"text\\\":\\\"§7Very suitable for defense against small bugs.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a2 §7HUN§a1 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Cochoir contondant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Très convenable pour se défendre des petites bêtes.\\\"}\",\"{\\\"text\\\":\\\"§7Very suitable for defense against small bugs.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a2 §7飽食§a1 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§5Confiance céleste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Faites un pas dans le vide. Acceptez-le. Apprenez-le.\\\"}\",\"{\\\"text\\\":\\\"§7Appropriez-le vous ! Il vous appartient, désormais...\\\"}\",\"{\\\"text\\\":\\\"§7Take a step into the void. Accept it. Learn It.\\\"}\",\"{\\\"text\\\":\\\"§7Make it your own! Now it's yours...\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7LUC§a1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Confiance céleste\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Faites un pas dans le vide. Acceptez-le. Apprenez-le.\\\"}\",\"{\\\"text\\\":\\\"§7Appropriez-le vous ! Il vous appartient, désormais...\\\"}\",\"{\\\"text\\\":\\\"§7Take a step into the void. Accept it. Learn It.\\\"}\",\"{\\\"text\\\":\\\"§7Make it your own! Now it's yours...\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7運§a1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

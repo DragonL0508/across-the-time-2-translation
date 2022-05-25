@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§7Anti-inflammatoire\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Dites aurevoir aux combustions spontanées\\\"}\",\"{\\\"text\\\":\\\"§7avec ignifugix !\\\"}\",\"{\\\"text\\\":\\\"§7Say goodbye to spontaneous combustion\\\"}\",\"{\\\"text\\\":\\\"§7with ignifugix!\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Anti-inflammatoire\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Dites aurevoir aux combustions spontanées\\\"}\",\"{\\\"text\\\":\\\"§7avec ignifugix !\\\"}\",\"{\\\"text\\\":\\\"§7Say goodbye to spontaneous combustion\\\"}\",\"{\\\"text\\\":\\\"§7with ignifugix!\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-2\\\"}\"]}}"
                     }
                 ]
             }

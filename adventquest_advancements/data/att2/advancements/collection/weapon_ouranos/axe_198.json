@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_axe"],
-                    "nbt": "{display:{Name:\"\\\"§7Brise de Damien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une bonne arme pour un fier garçon.\\\"}\",\"{\\\"text\\\":\\\"§7A good weapon for a brave boy.\\\"}\",\"{\\\"text\\\":\\\"§7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Brise de Damien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une bonne arme pour un fier garçon.\\\"}\",\"{\\\"text\\\":\\\"§7A good weapon for a brave boy.\\\"}\",\"{\\\"text\\\":\\\"§7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

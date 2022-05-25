@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§2Tunique statique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Insaisissable dans sa monotonie.\\\"}\",\"{\\\"text\\\":\\\"§7Elusive in its monotony.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§c-2 §7HER§c-1\\\"}\"],color:4218913}}"
+                    "nbt": "{display:{Name:\"\\\"§2Tunique statique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Insaisissable dans sa monotonie.\\\"}\",\"{\\\"text\\\":\\\"§7Elusive in its monotony.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§c-2 §7恢復§c-1\\\"}\"],color:4218913}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§7Patte du golem\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Solide et lourd, comme le golem.\\\"}\",\"{\\\"text\\\":\\\"§7Sturdy and heavy, like the golem.\\\"}\",\"{\\\"text\\\":\\\"§7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Patte du golem\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Solide et lourd, comme le golem.\\\"}\",\"{\\\"text\\\":\\\"§7Sturdy and heavy, like the golem.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

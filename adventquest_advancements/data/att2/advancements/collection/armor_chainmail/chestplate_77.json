@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§2Faux ami\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Perméable aux pointes.\\\"}\",\"{\\\"text\\\":\\\"§7Permeable to the tips.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Faux ami\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Perméable aux pointes.\\\"}\",\"{\\\"text\\\":\\\"§7Permeable to the tips.\\\"}\",\"{\\\"text\\\":\\\"§7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

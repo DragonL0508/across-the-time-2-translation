@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_axe"],
-                    "nbt": "{display:{Name:\"\\\"§6Destin d'Aoran\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Né pour régner, tombé pour sauver,\\\"}\",\"{\\\"text\\\":\\\"§7comme le jour, il revint, et jusqu'au soir, il tint.\\\"}\",\"{\\\"text\\\":\\\"§7Born to reign, fallen to save, as the day,\\\"}\",\"{\\\"text\\\":\\\"§7he returned, and till evening he stood.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7SPD§a2 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Destin d'Aoran\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Né pour régner, tombé pour sauver,\\\"}\",\"{\\\"text\\\":\\\"§7comme le jour, il revint, et jusqu'au soir, il tint.\\\"}\",\"{\\\"text\\\":\\\"§7Born to reign, fallen to save, as the day,\\\"}\",\"{\\\"text\\\":\\\"§7he returned, and till evening he stood.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7速度§a2 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

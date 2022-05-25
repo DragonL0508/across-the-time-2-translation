@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_sword"],
-                    "nbt": "{display:{Name:\"\\\"§6Vœu nocturne\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Porte-nous par ta voix et seuls les\\\"}\",\"{\\\"text\\\":\\\"§7initiés sauront te reconnaître, Tarja.\\\"}\",\"{\\\"text\\\":\\\"§7Carry us by your voice and only\\\"}\",\"{\\\"text\\\":\\\"§7the initiated will recognize you, Tarja.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§a1 §7HER§a1 §7DAR§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Vœu nocturne\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Porte-nous par ta voix et seuls les\\\"}\",\"{\\\"text\\\":\\\"§7initiés sauront te reconnaître, Tarja.\\\"}\",\"{\\\"text\\\":\\\"§7Carry us by your voice and only\\\"}\",\"{\\\"text\\\":\\\"§7the initiated will recognize you, Tarja.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗§a1 §7恢復§a1 §7恢魔§a1\\\"}\"]}}"
                     }
                 ]
             }

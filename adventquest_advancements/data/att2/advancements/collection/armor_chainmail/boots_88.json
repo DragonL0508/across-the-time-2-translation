@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_boots"],
-                    "nbt": "{display:{Name:\"\\\"§9Botte d'élite\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Allèrent, vont et iront encore.\\\"}\",\"{\\\"text\\\":\\\"§7Go, go, go and go again.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7LUC§a1 §7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Botte d'élite\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Allèrent, vont et iront encore.\\\"}\",\"{\\\"text\\\":\\\"§7Go, go, go and go again.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7運§a1 §7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_axe"],
-                    "nbt": "{display:{Name:\"\\\"§9Hache bénie\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7N'attend qu'un maître pour\\\"}\",\"{\\\"text\\\":\\\"§7absoudre le mal.\\\"}\",\"{\\\"text\\\":\\\"§7Only waits for a master\\\"}\",\"{\\\"text\\\":\\\"§7to absolve evil.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HER§c-1 §7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Hache bénie\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7N'attend qu'un maître pour\\\"}\",\"{\\\"text\\\":\\\"§7absoudre le mal.\\\"}\",\"{\\\"text\\\":\\\"§7Only waits for a master\\\"}\",\"{\\\"text\\\":\\\"§7to absolve evil.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢復§c-1 §7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

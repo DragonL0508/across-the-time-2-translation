@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Cilice de cristal\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Certes extrêmement inconfortable.\\\"}\",\"{\\\"text\\\":\\\"§7Certainly extremely uncomfortable.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Cilice de cristal\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Certes extrêmement inconfortable.\\\"}\",\"{\\\"text\\\":\\\"§7Certainly extremely uncomfortable.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§6La voix du maître\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Hurle aux années perdues, ton cri fera\\\"}\",\"{\\\"text\\\":\\\"§7trembler ciel et cœurs jusqu'aux confins du temps.\\\"}\",\"{\\\"text\\\":\\\"§7Howl at the lost years, your cry will\\\"}\",\"{\\\"text\\\":\\\"§7make heaven and hearts tremble to the ends of time.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a5\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6La voix du maître\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Hurle aux années perdues, ton cri fera\\\"}\",\"{\\\"text\\\":\\\"§7trembler ciel et cœurs jusqu'aux confins du temps.\\\"}\",\"{\\\"text\\\":\\\"§7Howl at the lost years, your cry will\\\"}\",\"{\\\"text\\\":\\\"§7make heaven and hearts tremble to the ends of time.\\\"}\",\"{\\\"text\\\":\\\"§7力§a5\\\"}\"]}}"
                     }
                 ]
             }

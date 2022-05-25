@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§5Esponton saillant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Brandie verticalement,\\\"}\",\"{\\\"text\\\":\\\"§7 fait la fierté du soldat et la peste du faquin.\\\"}\",\"{\\\"text\\\":\\\"§7Brandishes vertically,\\\"}\",\"{\\\"text\\\":\\\"§7is the pride of the soldier and the plague of the rascal.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HER§a1 §7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Esponton saillant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Brandie verticalement,\\\"}\",\"{\\\"text\\\":\\\"§7 fait la fierté du soldat et la peste du faquin.\\\"}\",\"{\\\"text\\\":\\\"§7Brandishes vertically,\\\"}\",\"{\\\"text\\\":\\\"§7is the pride of the soldier and the plague of the rascal.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢復§a1 §7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }

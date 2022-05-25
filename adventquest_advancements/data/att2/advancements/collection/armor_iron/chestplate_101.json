@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§7Chef-d'œuvre d'Arnaud\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il sera un grand forgeron !\\\"}\",\"{\\\"text\\\":\\\"§7He'll be a great blacksmith!\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Chef-d'œuvre d'Arnaud\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il sera un grand forgeron !\\\"}\",\"{\\\"text\\\":\\\"§7He'll be a great blacksmith!\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

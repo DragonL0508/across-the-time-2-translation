@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§9Fierté de Lodera\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Bien que jamais tu n'allasses au\\\"}\",\"{\\\"text\\\":\\\"§7combat, ils te reconnurent toujours.\\\"}\",\"{\\\"text\\\":\\\"§7Even though you never went into battle,\\\"}\",\"{\\\"text\\\":\\\"§7they always remembered you.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7SPD§a1 §7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Fierté de Lodera\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Bien que jamais tu n'allasses au\\\"}\",\"{\\\"text\\\":\\\"§7combat, ils te reconnurent toujours.\\\"}\",\"{\\\"text\\\":\\\"§7Even though you never went into battle,\\\"}\",\"{\\\"text\\\":\\\"§7they always remembered you.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7速度§a1 §7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

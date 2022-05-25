@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:bow"],
-                    "nbt": "{display:{Name:\"\\\"§2Arc de Bâtilen\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Garde au loin\\\"}\",\"{\\\"text\\\":\\\"§7tes ennemis.\\\"}\",\"{\\\"text\\\":\\\"§7Keep your enemies\\\"}\",\"{\\\"text\\\":\\\"§7in the distance.\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Arc de Bâtilen\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Garde au loin\\\"}\",\"{\\\"text\\\":\\\"§7tes ennemis.\\\"}\",\"{\\\"text\\\":\\\"§7Keep your enemies\\\"}\",\"{\\\"text\\\":\\\"§7in the distance.\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

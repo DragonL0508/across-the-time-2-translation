@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§7Petit Oïbrin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ne sera pas toujours négligé.\\\"}\",\"{\\\"text\\\":\\\"§7Won't always be overlooked.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Petit Oïbrin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ne sera pas toujours négligé.\\\"}\",\"{\\\"text\\\":\\\"§7Won't always be overlooked.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§7Bouclier Barbare\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Baston !\\\"}\",\"{\\\"text\\\":\\\"§7Fight!\\\"}\",\"{\\\"text\\\":\\\"§7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Bouclier Barbare\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Baston !\\\"}\",\"{\\\"text\\\":\\\"§7Fight!\\\"}\",\"{\\\"text\\\":\\\"§7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Couvre-cuisse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Meilleur qu'une maille.\\\"}\",\"{\\\"text\\\":\\\"§7Better than a chain mail.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Couvre-cuisse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Meilleur qu'une maille.\\\"}\",\"{\\\"text\\\":\\\"§7Better than a chain mail.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

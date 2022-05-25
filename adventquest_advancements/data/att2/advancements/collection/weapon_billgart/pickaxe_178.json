@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§2Os du minéral\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Plus personne ne vous dira jamais\\\"}\",\"{\\\"text\\\":\\\"§7que vous avez les os pointus.\\\"}\",\"{\\\"text\\\":\\\"§7No one will ever tell you that\\\"}\",\"{\\\"text\\\":\\\"§7you have pointy bones again.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Os du minéral\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Plus personne ne vous dira jamais\\\"}\",\"{\\\"text\\\":\\\"§7que vous avez les os pointus.\\\"}\",\"{\\\"text\\\":\\\"§7No one will ever tell you that\\\"}\",\"{\\\"text\\\":\\\"§7you have pointy bones again.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Pantalon brillant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ni ne nage, ni ne vole.\\\"}\",\"{\\\"text\\\":\\\"§7Neither swims nor flies.\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pantalon brillant\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ni ne nage, ni ne vole.\\\"}\",\"{\\\"text\\\":\\\"§7Neither swims nor flies.\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

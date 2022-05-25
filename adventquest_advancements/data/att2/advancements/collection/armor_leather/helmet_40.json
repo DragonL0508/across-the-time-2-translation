@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§9Capuche légère\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Moins douce qu'utile.\\\"}\",\"{\\\"text\\\":\\\"§7Less soft than useful.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§a2 §7DAR§c-2\\\"}\"],color:2895149}}"
+                    "nbt": "{display:{Name:\"\\\"§9Capuche légère\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Moins douce qu'utile.\\\"}\",\"{\\\"text\\\":\\\"§7Less soft than useful.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§a2 §7恢魔§c-2\\\"}\"],color:2895149}}"
                     }
                 ]
             }

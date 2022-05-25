@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Jambières robustes\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Solides, plus que ses sœurs.\\\"}\",\"{\\\"text\\\":\\\"§7Stronger than its sisters.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Jambières robustes\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Solides, plus que ses sœurs.\\\"}\",\"{\\\"text\\\":\\\"§7Stronger than its sisters.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

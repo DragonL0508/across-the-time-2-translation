@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:bow"],
-                    "nbt": "{display:{Name:\"\\\"§5Oncle de sang\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pique, perce et tue, toi\\\"}\",\"{\\\"text\\\":\\\"§7à qui on brisa tout espoir.\\\"}\",\"{\\\"text\\\":\\\"§7Sting, pierce and kill, to you\\\"}\",\"{\\\"text\\\":\\\"§7to whom hope was shattered.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7DAR§a3 §7LUC§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Oncle de sang\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Pique, perce et tue, toi\\\"}\",\"{\\\"text\\\":\\\"§7à qui on brisa tout espoir.\\\"}\",\"{\\\"text\\\":\\\"§7Sting, pierce and kill, to you\\\"}\",\"{\\\"text\\\":\\\"§7to whom hope was shattered.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢魔§a3 §7運§c-2\\\"}\"]}}"
                     }
                 ]
             }

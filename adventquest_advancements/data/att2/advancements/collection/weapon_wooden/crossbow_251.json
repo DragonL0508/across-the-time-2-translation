@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:crossbow"],
-                    "nbt": "{display:{Name:\"\\\"§5Chance insolante\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Même les plus mauvais tireurs\\\"}\",\"{\\\"text\\\":\\\"§7sauraient mettre dans le mille !\\\"}\",\"{\\\"text\\\":\\\"§7Even the worst shooters\\\"}\",\"{\\\"text\\\":\\\"§7can hit the bull's eye!\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§a1 §7LUC§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Chance insolante\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Même les plus mauvais tireurs\\\"}\",\"{\\\"text\\\":\\\"§7sauraient mettre dans le mille !\\\"}\",\"{\\\"text\\\":\\\"§7Even the worst shooters\\\"}\",\"{\\\"text\\\":\\\"§7can hit the bull's eye!\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗§a1 §7運§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

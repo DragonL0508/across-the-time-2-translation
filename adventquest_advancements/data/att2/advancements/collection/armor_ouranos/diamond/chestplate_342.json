@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Cuirasse de Zirthion\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Rendue plus figurative qu'autre chose, \\\"}\",\"{\\\"text\\\":\\\"§7de par la rareté des combats.\\\"}\",\"{\\\"text\\\":\\\"§7Rendered rather figurative than anything else,\\\"}\",\"{\\\"text\\\":\\\"§7due to the lack of fights.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7LUC§a1 §7SPD§c-3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Cuirasse de Zirthion\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Rendue plus figurative qu'autre chose, \\\"}\",\"{\\\"text\\\":\\\"§7de par la rareté des combats.\\\"}\",\"{\\\"text\\\":\\\"§7Rendered rather figurative than anything else,\\\"}\",\"{\\\"text\\\":\\\"§7due to the lack of fights.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7運§a1 §7速度§c-3\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§9Garde Angorien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arbore l'emblème d'Angor.\\\"}\",\"{\\\"text\\\":\\\"§7Wears the Angor emblem.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Garde Angorien\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Arbore l'emblème d'Angor.\\\"}\",\"{\\\"text\\\":\\\"§7Wears the Angor emblem.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

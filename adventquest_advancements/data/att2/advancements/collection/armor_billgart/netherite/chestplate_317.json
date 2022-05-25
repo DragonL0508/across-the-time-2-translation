@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§2Petit Thoréën\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Comme en pleine forme !\\\"}\",\"{\\\"text\\\":\\\"§7Like in great shape!\\\"}\",\"{\\\"text\\\":\\\"§7HUN§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Petit Thoréën\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Comme en pleine forme !\\\"}\",\"{\\\"text\\\":\\\"§7Like in great shape!\\\"}\",\"{\\\"text\\\":\\\"§7飽食§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

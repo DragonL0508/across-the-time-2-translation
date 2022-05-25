@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_sword"],
-                    "nbt": "{display:{Name:\"\\\"§5Ecthelion\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La force et l'honneur de l'immortel\\\"}\",\"{\\\"text\\\":\\\"§7ne s'amenuisent guère face aux ténèbres.\\\"}\",\"{\\\"text\\\":\\\"§7The strength and honor of the immortal hardly\\\"}\",\"{\\\"text\\\":\\\"§7diminishes in the face of darkness.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HAS§a2 §7HUN§a1 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Ecthelion\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7La force et l'honneur de l'immortel\\\"}\",\"{\\\"text\\\":\\\"§7ne s'amenuisent guère face aux ténèbres.\\\"}\",\"{\\\"text\\\":\\\"§7The strength and honor of the immortal hardly\\\"}\",\"{\\\"text\\\":\\\"§7diminishes in the face of darkness.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7攻速§a2 §7飽食§a1 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

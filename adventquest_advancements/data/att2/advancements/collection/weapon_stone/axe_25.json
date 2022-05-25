@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_axe"],
-                    "nbt": "{display:{Name:\"\\\"§5Souvenir de guerre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Terre rougie par le sang\\\"}\",\"{\\\"text\\\":\\\"§7air souillé par le désespoir.\\\"}\",\"{\\\"text\\\":\\\"§7Land reddened by blood,\\\"}\",\"{\\\"text\\\":\\\"§7air stained by despair.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HAS§a2 §7SPD§c-1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Souvenir de guerre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Terre rougie par le sang\\\"}\",\"{\\\"text\\\":\\\"§7air souillé par le désespoir.\\\"}\",\"{\\\"text\\\":\\\"§7Land reddened by blood,\\\"}\",\"{\\\"text\\\":\\\"§7air stained by despair.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7攻速§a2 §7速度§c-1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

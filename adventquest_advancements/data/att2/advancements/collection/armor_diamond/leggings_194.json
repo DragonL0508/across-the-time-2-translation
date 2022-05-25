@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§5Princesse de lumière\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Imbue d'un espoir sans fin, elle rayonne\\\"}\",\"{\\\"text\\\":\\\"§7d'une volonté et d'une grâce inouïes.\\\"}\",\"{\\\"text\\\":\\\"§7Imbued with an endless hope, she shines\\\"}\",\"{\\\"text\\\":\\\"§7with an incredible will and grace.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§a2 §7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Princesse de lumière\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Imbue d'un espoir sans fin, elle rayonne\\\"}\",\"{\\\"text\\\":\\\"§7d'une volonté et d'une grâce inouïes.\\\"}\",\"{\\\"text\\\":\\\"§7Imbued with an endless hope, she shines\\\"}\",\"{\\\"text\\\":\\\"§7with an incredible will and grace.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§a2 §7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

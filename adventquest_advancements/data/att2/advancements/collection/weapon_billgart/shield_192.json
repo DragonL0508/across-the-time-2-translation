@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§7Plaque de verre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fragile, comme du verre.\\\"}\",\"{\\\"text\\\":\\\"§7Fragile, like glass.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Plaque de verre\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Fragile, comme du verre.\\\"}\",\"{\\\"text\\\":\\\"§7Fragile, like glass.\\\"}\",\"{\\\"text\\\":\\\"§7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Haut-de-chausses\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7On peut être élégant et tout aussi endurci.\\\"}\",\"{\\\"text\\\":\\\"§7One can be elegant and just as tough.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7DAR§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Haut-de-chausses\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7On peut être élégant et tout aussi endurci.\\\"}\",\"{\\\"text\\\":\\\"§7One can be elegant and just as tough.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7恢魔§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

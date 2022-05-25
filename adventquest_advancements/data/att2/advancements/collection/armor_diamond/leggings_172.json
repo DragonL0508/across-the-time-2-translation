@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§7Tiléo\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A ceux qui sauront te reconnaître.\\\"}\",\"{\\\"text\\\":\\\"§7To those who will recognize you.\\\"}\",\"{\\\"text\\\":\\\"§7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Tiléo\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A ceux qui sauront te reconnaître.\\\"}\",\"{\\\"text\\\":\\\"§7To those who will recognize you.\\\"}\",\"{\\\"text\\\":\\\"§7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

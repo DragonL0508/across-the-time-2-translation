@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§5Sinistre cliquetis\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Interminable frisson, ode à la\\\"}\",\"{\\\"text\\\":\\\"§7crainte et à l'insécurité...\\\"}\",\"{\\\"text\\\":\\\"§7An endless thrill, an ode\\\"}\",\"{\\\"text\\\":\\\"§7to fear and insecurity....\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7SPD§a1 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Sinistre cliquetis\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Interminable frisson, ode à la\\\"}\",\"{\\\"text\\\":\\\"§7crainte et à l'insécurité...\\\"}\",\"{\\\"text\\\":\\\"§7An endless thrill, an ode\\\"}\",\"{\\\"text\\\":\\\"§7to fear and insecurity....\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7速度§a1 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

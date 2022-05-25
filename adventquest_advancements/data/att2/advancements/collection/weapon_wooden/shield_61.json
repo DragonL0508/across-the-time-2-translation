@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:shield"],
-                    "nbt": "{display:{Name:\"\\\"§5Infranchissable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une volonté de métal, que même\\\"}\",\"{\\\"text\\\":\\\"§7le torrent ou la tempête n'amenuise.\\\"}\",\"{\\\"text\\\":\\\"§7A will of metal, which not even\\\"}\",\"{\\\"text\\\":\\\"§7the torrent or the storm diminishes.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HER§a1 §7LUC§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Infranchissable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une volonté de métal, que même\\\"}\",\"{\\\"text\\\":\\\"§7le torrent ou la tempête n'amenuise.\\\"}\",\"{\\\"text\\\":\\\"§7A will of metal, which not even\\\"}\",\"{\\\"text\\\":\\\"§7the torrent or the storm diminishes.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢復§a1 §7運§c-1\\\"}\"]}}"
                     }
                 ]
             }

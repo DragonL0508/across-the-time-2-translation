@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§9La dame des bois\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Gracieuse, son élégance rayonne\\\"}\",\"{\\\"text\\\":\\\"§7et châtie le vilain.\\\"}\",\"{\\\"text\\\":\\\"§7Graceful, her elegance shines through\\\"}\",\"{\\\"text\\\":\\\"§7and punishes the villain.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7SPD§a1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9La dame des bois\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Gracieuse, son élégance rayonne\\\"}\",\"{\\\"text\\\":\\\"§7et châtie le vilain.\\\"}\",\"{\\\"text\\\":\\\"§7Graceful, her elegance shines through\\\"}\",\"{\\\"text\\\":\\\"§7and punishes the villain.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7速度§a1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

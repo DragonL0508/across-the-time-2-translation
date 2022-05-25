@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_axe"],
-                    "nbt": "{display:{Name:\"\\\"§2Fléau des orgaves\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Jamais aucun tronc ne te résista.\\\"}\",\"{\\\"text\\\":\\\"§7No trunk ever resisted you.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Fléau des orgaves\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Jamais aucun tronc ne te résista.\\\"}\",\"{\\\"text\\\":\\\"§7No trunk ever resisted you.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a1\\\"}\"]}}"
                     }
                 ]
             }

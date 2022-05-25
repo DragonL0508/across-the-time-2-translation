@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_boots"],
-                    "nbt": "{display:{Name:\"\\\"§5Âme en peine\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Contemple la liberté, dans ce paon\\\"}\",\"{\\\"text\\\":\\\"§7de nuit, qui s'enfuit loin de ta forme macabre.\\\"}\",\"{\\\"text\\\":\\\"§7Contemplate the freedom, in this peacock\\\"}\",\"{\\\"text\\\":\\\"§7 moth, which flees from your macabre form.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a3 §7DAR§a3 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Âme en peine\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Contemple la liberté, dans ce paon\\\"}\",\"{\\\"text\\\":\\\"§7de nuit, qui s'enfuit loin de ta forme macabre.\\\"}\",\"{\\\"text\\\":\\\"§7Contemplate the freedom, in this peacock\\\"}\",\"{\\\"text\\\":\\\"§7 moth, which flees from your macabre form.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a3 §7恢魔§a3 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

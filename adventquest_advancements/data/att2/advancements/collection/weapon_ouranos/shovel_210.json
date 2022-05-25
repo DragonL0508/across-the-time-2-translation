@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§5Tendre promesse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ô douce lumière de l'éveil,\\\"}\",\"{\\\"text\\\":\\\"§7ô profond espoir inaliénable.\\\"}\",\"{\\\"text\\\":\\\"§7O sweet light of awakening,\\\"}\",\"{\\\"text\\\":\\\"§7O deep and inalienable hope.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HER§a1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Tendre promesse\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ô douce lumière de l'éveil,\\\"}\",\"{\\\"text\\\":\\\"§7ô profond espoir inaliénable.\\\"}\",\"{\\\"text\\\":\\\"§7O sweet light of awakening,\\\"}\",\"{\\\"text\\\":\\\"§7O deep and inalienable hope.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7恢復§a1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

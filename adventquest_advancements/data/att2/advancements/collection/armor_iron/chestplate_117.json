@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Armure de Cédrin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Apothéose des artisans du pays\\\"}\",\"{\\\"text\\\":\\\"§7de Témérien.\\\"}\",\"{\\\"text\\\":\\\"§7Apotheosis of the craftsmen\\\"}\",\"{\\\"text\\\":\\\"§7of Temerian country.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§a1 §7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Armure de Cédrin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Apothéose des artisans du pays\\\"}\",\"{\\\"text\\\":\\\"§7de Témérien.\\\"}\",\"{\\\"text\\\":\\\"§7Apotheosis of the craftsmen\\\"}\",\"{\\\"text\\\":\\\"§7of Temerian country.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§a1 §7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

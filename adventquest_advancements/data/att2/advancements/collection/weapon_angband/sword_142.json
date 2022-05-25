@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_sword"],
-                    "nbt": "{display:{Name:\"\\\"§2Paresse de Dégiel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une bonne excuse pour ne rien faire.\\\"}\",\"{\\\"text\\\":\\\"§7A good excuse for doing nothing.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7HER§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Paresse de Dégiel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une bonne excuse pour ne rien faire.\\\"}\",\"{\\\"text\\\":\\\"§7A good excuse for doing nothing.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7恢復§c-2\\\"}\"]}}"
                     }
                 ]
             }

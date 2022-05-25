@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§6Tranchoir d'infini tourment\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Chaque cicatrice qu’il laisse dans son sillage\\\"}\",\"{\\\"text\\\":\\\"§7déchire l'esprit d'une éternelle souffrance.\\\"}\",\"{\\\"text\\\":\\\"§7Every scar he leaves in his wake\\\"}\",\"{\\\"text\\\":\\\"§7tears the mind with eternal pain.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HAS§a2 §7HER§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Tranchoir d'infini tourment\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Chaque cicatrice qu’il laisse dans son sillage\\\"}\",\"{\\\"text\\\":\\\"§7déchire l'esprit d'une éternelle souffrance.\\\"}\",\"{\\\"text\\\":\\\"§7Every scar he leaves in his wake\\\"}\",\"{\\\"text\\\":\\\"§7tears the mind with eternal pain.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7攻速§a2 §7恢復§a1\\\"}\"]}}"
                     }
                 ]
             }

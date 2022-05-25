@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§61-j#!A\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Comme dit si bien le fou : le sens n'est\\\"}\",\"{\\\"text\\\":\\\"§7qu'une question de point de vue.\\\"}\",\"{\\\"text\\\":\\\"§7As the fool says: meaning is only\\\"}\",\"{\\\"text\\\":\\\"§7a matter of point of view.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§a1\\\"}\"],color:15465761}}"
+                    "nbt": "{display:{Name:\"\\\"§61-j#!A\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Comme dit si bien le fou : le sens n'est\\\"}\",\"{\\\"text\\\":\\\"§7qu'une question de point de vue.\\\"}\",\"{\\\"text\\\":\\\"§7As the fool says: meaning is only\\\"}\",\"{\\\"text\\\":\\\"§7a matter of point of view.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗§a1\\\"}\"],color:15465761}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:crossbow"],
-                    "nbt": "{display:{Name:\"\\\"§6Mÿre Suprême\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Confère au plus simple morceau de bois,\\\"}\",\"{\\\"text\\\":\\\"§7une implacable puissance destructrice.\\\"}\",\"{\\\"text\\\":\\\"§7Confers the simplest piece of wood,\\\"}\",\"{\\\"text\\\":\\\"§7with relentless destructive power.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a4 §7DAR§a2 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Mÿre Suprême\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Confère au plus simple morceau de bois,\\\"}\",\"{\\\"text\\\":\\\"§7une implacable puissance destructrice.\\\"}\",\"{\\\"text\\\":\\\"§7Confers the simplest piece of wood,\\\"}\",\"{\\\"text\\\":\\\"§7with relentless destructive power.\\\"}\",\"{\\\"text\\\":\\\"§7力§a4 §7恢魔§a2 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

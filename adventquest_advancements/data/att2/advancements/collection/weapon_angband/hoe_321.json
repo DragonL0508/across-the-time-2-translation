@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§2Bâton travaillé\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Plutôt primitif comme instrument...\\\"}\",\"{\\\"text\\\":\\\"§7Rather primitive as an instrument...\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Bâton travaillé\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Plutôt primitif comme instrument...\\\"}\",\"{\\\"text\\\":\\\"§7Rather primitive as an instrument...\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

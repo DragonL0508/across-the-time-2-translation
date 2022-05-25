@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_boots"],
-                    "nbt": "{display:{Name:\"\\\"§9Soulier du dimanche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7L'élégance vous rendra heureux.\\\"}\",\"{\\\"text\\\":\\\"§7Elegance will make you pleased.\\\"}\",\"{\\\"text\\\":\\\"§7LUC§a1 §7SPD§c-2\\\"}\"],color:5558126}}"
+                    "nbt": "{display:{Name:\"\\\"§9Soulier du dimanche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7L'élégance vous rendra heureux.\\\"}\",\"{\\\"text\\\":\\\"§7Elegance will make you pleased.\\\"}\",\"{\\\"text\\\":\\\"§7運§a1 §7速度§c-2\\\"}\"],color:5558126}}"
                     }
                 ]
             }

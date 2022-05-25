@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:stone_axe"],
-                    "nbt": "{display:{Name:\"\\\"§5Vent septemtrional\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Par-delà l'horizon nous vient une\\\"}\",\"{\\\"text\\\":\\\"§7force qu'aucun homme ne sait dompter.\\\"}\",\"{\\\"text\\\":\\\"§7Beyond the horizon comes a force\\\"}\",\"{\\\"text\\\":\\\"§7that no man can tame.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7SPD§a1 §7HAS§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Vent septemtrional\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Par-delà l'horizon nous vient une\\\"}\",\"{\\\"text\\\":\\\"§7force qu'aucun homme ne sait dompter.\\\"}\",\"{\\\"text\\\":\\\"§7Beyond the horizon comes a force\\\"}\",\"{\\\"text\\\":\\\"§7that no man can tame.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7速度§a1 §7攻速§a1\\\"}\"]}}"
                     }
                 ]
             }

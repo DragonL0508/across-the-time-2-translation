@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§2Epieu\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Utile pour la chasse au gibier.\\\"}\",\"{\\\"text\\\":\\\"§7Useful for game hunting.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Epieu\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Utile pour la chasse au gibier.\\\"}\",\"{\\\"text\\\":\\\"§7Useful for game hunting.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1\\\"}\"]}}"
                     }
                 ]
             }

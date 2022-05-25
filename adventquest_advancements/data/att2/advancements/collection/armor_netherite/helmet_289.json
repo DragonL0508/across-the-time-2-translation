@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§5Associé du vice\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Parfois il vaut mieux être mal\\\"}\",\"{\\\"text\\\":\\\"§7accompagné, que seul.\\\"}\",\"{\\\"text\\\":\\\"§7Sometimes it is better to be in\\\"}\",\"{\\\"text\\\":\\\"§7bad company than alone.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7DAR§a1 §7HUN§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Associé du vice\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Parfois il vaut mieux être mal\\\"}\",\"{\\\"text\\\":\\\"§7accompagné, que seul.\\\"}\",\"{\\\"text\\\":\\\"§7Sometimes it is better to be in\\\"}\",\"{\\\"text\\\":\\\"§7bad company than alone.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7恢魔§a1 §7飽食§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§5Lance du destin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Recouverte d’une feuille d’argent,\\\"}\",\"{\\\"text\\\":\\\"§7elle en fait une arme destructrice.\\\"}\",\"{\\\"text\\\":\\\"§7Covered with a silver leaf,\\\"}\",\"{\\\"text\\\":\\\"§7it turns it into a destructive weapon.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7SPD§a1 §7LUC§a1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Lance du destin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Recouverte d’une feuille d’argent,\\\"}\",\"{\\\"text\\\":\\\"§7elle en fait une arme destructrice.\\\"}\",\"{\\\"text\\\":\\\"§7Covered with a silver leaf,\\\"}\",\"{\\\"text\\\":\\\"§7it turns it into a destructive weapon.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7速度§a1 §7運§a1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

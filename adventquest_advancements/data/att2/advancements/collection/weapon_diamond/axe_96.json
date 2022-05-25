@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_axe"],
-                    "nbt": "{display:{Name:\"\\\"§7Simpléclat\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Brille d'une finesse remarquable.\\\"}\",\"{\\\"text\\\":\\\"§7Shine of remarkable finesse.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Simpléclat\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Brille d'une finesse remarquable.\\\"}\",\"{\\\"text\\\":\\\"§7Shine of remarkable finesse.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

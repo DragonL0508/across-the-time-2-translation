@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§2Espièglerie\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Cagoule du gamin.\\\"}\",\"{\\\"text\\\":\\\"§7Hood of the cub.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Espièglerie\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Cagoule du gamin.\\\"}\",\"{\\\"text\\\":\\\"§7Hood of the cub.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a1\\\"}\"]}}"
                     }
                 ]
             }

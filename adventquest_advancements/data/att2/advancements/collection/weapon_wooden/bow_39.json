@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:bow"],
-                    "nbt": "{display:{Name:\"\\\"§2Furtif\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Silencieux, porté par le vent.\\\"}\",\"{\\\"text\\\":\\\"§7Silent, carried by the wind.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7DAR§c-4\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Furtif\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Silencieux, porté par le vent.\\\"}\",\"{\\\"text\\\":\\\"§7Silent, carried by the wind.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7恢魔§c-4\\\"}\"]}}"
                     }
                 ]
             }

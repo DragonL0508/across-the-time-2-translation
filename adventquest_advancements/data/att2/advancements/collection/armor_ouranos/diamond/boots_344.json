@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_boots"],
-                    "nbt": "{display:{Name:\"\\\"§9Patte de la brume\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il n'y a pas de fumée sans feu.\\\"}\",\"{\\\"text\\\":\\\"§7Ni de coffre sans butin.\\\"}\",\"{\\\"text\\\":\\\"§7Where there's smoke there's fire.\\\"}\",\"{\\\"text\\\":\\\"§7As does loot for chest.\\\"}\",\"{\\\"text\\\":\\\"§7LUC§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Patte de la brume\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Il n'y a pas de fumée sans feu.\\\"}\",\"{\\\"text\\\":\\\"§7Ni de coffre sans butin.\\\"}\",\"{\\\"text\\\":\\\"§7Where there's smoke there's fire.\\\"}\",\"{\\\"text\\\":\\\"§7As does loot for chest.\\\"}\",\"{\\\"text\\\":\\\"§7運§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

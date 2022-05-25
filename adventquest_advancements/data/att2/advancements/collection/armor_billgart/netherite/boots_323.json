@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_boots"],
-                    "nbt": "{display:{Name:\"\\\"§9Préservation atomique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Grèves de malachite, seyant\\\"}\",\"{\\\"text\\\":\\\"§7jusqu'à la fine particule.\\\"}\",\"{\\\"text\\\":\\\"§7Strips of malachite,\\\"}\",\"{\\\"text\\\":\\\"§7fitting to the fine particle.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a2 §7HUN§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Préservation atomique\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Grèves de malachite, seyant\\\"}\",\"{\\\"text\\\":\\\"§7jusqu'à la fine particule.\\\"}\",\"{\\\"text\\\":\\\"§7Strips of malachite,\\\"}\",\"{\\\"text\\\":\\\"§7fitting to the fine particle.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a2 §7飽食§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_boots"],
-                    "nbt": "{display:{Name:\"\\\"§6Pas de vif argent\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ni beauté, ni célérité ne te manque\\\"}\",\"{\\\"text\\\":\\\"§7et pour toi, aucune ne s'estompera.\\\"}\",\"{\\\"text\\\":\\\"§7Neither beauty nor speed are you lacking\\\"}\",\"{\\\"text\\\":\\\"§7and for you, none will fade.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7DAR§a2 §7SPD§a2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Pas de vif argent\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ni beauté, ni célérité ne te manque\\\"}\",\"{\\\"text\\\":\\\"§7et pour toi, aucune ne s'estompera.\\\"}\",\"{\\\"text\\\":\\\"§7Neither beauty nor speed are you lacking\\\"}\",\"{\\\"text\\\":\\\"§7and for you, none will fade.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢魔§a2 §7速度§a2\\\"}\"]}}"
                     }
                 ]
             }

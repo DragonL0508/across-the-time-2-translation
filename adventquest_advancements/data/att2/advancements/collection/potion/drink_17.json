@@ -17,7 +17,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§2Préparation Subtile\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une formule cachée, un art maîtrisé,\\\"}\",\"{\\\"text\\\":\\\"§7et le tour est joué.\\\"}\",\"{\\\"text\\\":\\\"§7A hidden formula, an art mastered,\\\"}\",\"{\\\"text\\\":\\\"§7and it's done.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a2 §7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Préparation Subtile\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Une formule cachée, un art maîtrisé,\\\"}\",\"{\\\"text\\\":\\\"§7et le tour est joué.\\\"}\",\"{\\\"text\\\":\\\"§7A hidden formula, an art mastered,\\\"}\",\"{\\\"text\\\":\\\"§7and it's done.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a2 §7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

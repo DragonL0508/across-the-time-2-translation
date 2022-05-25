@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Plastron impeccable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Inébranlable comme doit être\\\"}\",\"{\\\"text\\\":\\\"§7la volonté du digne soldat.\\\"}\",\"{\\\"text\\\":\\\"§7Undying as the will of\\\"}\",\"{\\\"text\\\":\\\"§7the honourable soldier must be.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Plastron impeccable\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Inébranlable comme doit être\\\"}\",\"{\\\"text\\\":\\\"§7la volonté du digne soldat.\\\"}\",\"{\\\"text\\\":\\\"§7Undying as the will of\\\"}\",\"{\\\"text\\\":\\\"§7the honourable soldier must be.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

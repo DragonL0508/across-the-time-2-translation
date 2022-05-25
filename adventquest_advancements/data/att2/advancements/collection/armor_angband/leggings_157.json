@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§5Pantrenel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Te talonnant et t'épiant jusqu'à l'affrontement,\\\"}\",\"{\\\"text\\\":\\\"§7ensemble et malgré vous, vous avancez.\\\"}\",\"{\\\"text\\\":\\\"§7Following you and spying on you until the confrontation, \\\"}\",\"{\\\"text\\\":\\\"§7together and against your will, you move forward.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HUN§a1 §7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Pantrenel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Te talonnant et t'épiant jusqu'à l'affrontement,\\\"}\",\"{\\\"text\\\":\\\"§7ensemble et malgré vous, vous avancez.\\\"}\",\"{\\\"text\\\":\\\"§7Following you and spying on you until the confrontation, \\\"}\",\"{\\\"text\\\":\\\"§7together and against your will, you move forward.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7飽食§a1 §7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_sword"],
-                    "nbt": "{display:{Name:\"\\\"§5Prestance du soldat\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le chanceux qui la porte,\\\"}\",\"{\\\"text\\\":\\\"§7verra sa stature s'élever.\\\"}\",\"{\\\"text\\\":\\\"§7The lucky one who wears it,\\\"}\",\"{\\\"text\\\":\\\"§7will see his stature rise.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a2 §7DAR§a2 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Prestance du soldat\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Le chanceux qui la porte,\\\"}\",\"{\\\"text\\\":\\\"§7verra sa stature s'élever.\\\"}\",\"{\\\"text\\\":\\\"§7The lucky one who wears it,\\\"}\",\"{\\\"text\\\":\\\"§7will see his stature rise.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a2 §7恢魔§a2 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_hoe"],
-                    "nbt": "{display:{Name:\"\\\"§2Diamant-chardon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Très piquante.\\\"}\",\"{\\\"text\\\":\\\"§7Very pungent.\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Diamant-chardon\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Très piquante.\\\"}\",\"{\\\"text\\\":\\\"§7Very pungent.\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a1\\\"}\"]}}"
                     }
                 ]
             }

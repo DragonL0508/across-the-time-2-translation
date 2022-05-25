@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§5Fausse capuche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7L'effet de surprise est vôtre, car\\\"}\",\"{\\\"text\\\":\\\"§7c'est bien un casque qui se cache dessous.\\\"}\",\"{\\\"text\\\":\\\"§7The surprise effect is yours, because\\\"}\",\"{\\\"text\\\":\\\"§7it is indeed a helmet that is hidden underneath.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a4 §7SPD§c-1\\\"}\"],color:7595754}}"
+                    "nbt": "{display:{Name:\"\\\"§5Fausse capuche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7L'effet de surprise est vôtre, car\\\"}\",\"{\\\"text\\\":\\\"§7c'est bien un casque qui se cache dessous.\\\"}\",\"{\\\"text\\\":\\\"§7The surprise effect is yours, because\\\"}\",\"{\\\"text\\\":\\\"§7it is indeed a helmet that is hidden underneath.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a4 §7速度§c-1\\\"}\"],color:7595754}}"
                     }
                 ]
             }

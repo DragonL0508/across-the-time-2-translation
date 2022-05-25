@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§5Cuissards de cavalier\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Les écuyers le reconnaîtront,\\\"}\",\"{\\\"text\\\":\\\"§7mais les valeureux aussi.\\\"}\",\"{\\\"text\\\":\\\"§7The squires will recognize him,\\\"}\",\"{\\\"text\\\":\\\"§7but so will the brave.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7HER§a1 §7SPD§c-1\\\"}\"],color:1780933}}"
+                    "nbt": "{display:{Name:\"\\\"§5Cuissards de cavalier\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Les écuyers le reconnaîtront,\\\"}\",\"{\\\"text\\\":\\\"§7mais les valeureux aussi.\\\"}\",\"{\\\"text\\\":\\\"§7The squires will recognize him,\\\"}\",\"{\\\"text\\\":\\\"§7but so will the brave.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢復§a1 §7速度§c-1\\\"}\"],color:1780933}}"
                     }
                 ]
             }

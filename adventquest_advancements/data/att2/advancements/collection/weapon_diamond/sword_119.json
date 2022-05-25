@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_sword"],
-                    "nbt": "{display:{Name:\"\\\"§9Souvenir perdu\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ô temps lointains, \\\"}\",\"{\\\"text\\\":\\\"§7Ô insouciance juvénile.\\\"}\",\"{\\\"text\\\":\\\"§7O distant times,\\\"}\",\"{\\\"text\\\":\\\"§7O youthful recklessness.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7LUC§a1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Souvenir perdu\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ô temps lointains, \\\"}\",\"{\\\"text\\\":\\\"§7Ô insouciance juvénile.\\\"}\",\"{\\\"text\\\":\\\"§7O distant times,\\\"}\",\"{\\\"text\\\":\\\"§7O youthful recklessness.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7運§a1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

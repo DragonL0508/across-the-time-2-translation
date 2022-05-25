@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Collants de barde\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Personne ne suspecte le gai luron.\\\"}\",\"{\\\"text\\\":\\\"§7No one suspects the cheerful luron.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7DAR§a1 §7HER§c-2\\\"}\"],color:11803544}}"
+                    "nbt": "{display:{Name:\"\\\"§9Collants de barde\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Personne ne suspecte le gai luron.\\\"}\",\"{\\\"text\\\":\\\"§7No one suspects the cheerful luron.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7恢魔§a1 §7恢復§c-2\\\"}\"],color:11803544}}"
                     }
                 ]
             }

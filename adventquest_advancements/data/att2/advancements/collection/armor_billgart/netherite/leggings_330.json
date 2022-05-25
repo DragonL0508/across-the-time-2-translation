@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§6Fortification de Ulli'Kummi\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aHéritage du monumental colosse pétrifié.\\\"}\",\"{\\\"text\\\":\\\"§aGéant qui jamais ne voulut cesser de grandir.\\\"}\",\"{\\\"text\\\":\\\"§aLegacy of the monumental petrified colossus.\\\"}\",\"{\\\"text\\\":\\\"§aGiant who never wanted to stop growing.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a3 §7HUN§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Fortification de Ulli'Kummi\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§aHéritage du monumental colosse pétrifié.\\\"}\",\"{\\\"text\\\":\\\"§aGéant qui jamais ne voulut cesser de grandir.\\\"}\",\"{\\\"text\\\":\\\"§aLegacy of the monumental petrified colossus.\\\"}\",\"{\\\"text\\\":\\\"§aGiant who never wanted to stop growing.\\\"}\",\"{\\\"text\\\":\\\"§7力§a3 §7飽食§a1\\\"}\"]}}"
                     }
                 ]
             }

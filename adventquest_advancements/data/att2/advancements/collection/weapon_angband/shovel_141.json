@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§2Dague de jeu\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Quoi de plus amusant qu'un\\\"}\",\"{\\\"text\\\":\\\"§7combat à l'arme.\\\"}\",\"{\\\"text\\\":\\\"§7What more fun than\\\"}\",\"{\\\"text\\\":\\\"§7a weapon fight.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a1 §7STR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Dague de jeu\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Quoi de plus amusant qu'un\\\"}\",\"{\\\"text\\\":\\\"§7combat à l'arme.\\\"}\",\"{\\\"text\\\":\\\"§7What more fun than\\\"}\",\"{\\\"text\\\":\\\"§7a weapon fight.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a1 §7力量§c-1\\\"}\"]}}"
                     }
                 ]
             }

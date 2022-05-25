@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§5Mirobolantes\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sont au firmament ce qu'est\\\"}\",\"{\\\"text\\\":\\\"§7la lumière des étoiles.\\\"}\",\"{\\\"text\\\":\\\"§7Are to the firmament\\\"}\",\"{\\\"text\\\":\\\"§7what starlight is.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a1 §7SPD§a1 §7DAR§a1 §7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Mirobolantes\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sont au firmament ce qu'est\\\"}\",\"{\\\"text\\\":\\\"§7la lumière des étoiles.\\\"}\",\"{\\\"text\\\":\\\"§7Are to the firmament\\\"}\",\"{\\\"text\\\":\\\"§7what starlight is.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a1 §7速度§a1 §7恢魔§a1 §7運§a1\\\"}\"]}}"
                     }
                 ]
             }

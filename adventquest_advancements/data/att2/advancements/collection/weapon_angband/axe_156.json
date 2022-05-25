@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_axe"],
-                    "nbt": "{display:{Name:\"\\\"§6Premio gal Môt\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Complaire à l'enfant du ténébreux\\\"}\",\"{\\\"text\\\":\\\"§7et dans ses desseins, le suivre...\\\"}\",\"{\\\"text\\\":\\\"§7Pleasing the child of darkness\\\"}\",\"{\\\"text\\\":\\\"§7and in his intentions, following him ...\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7RES§a1 §7LUC§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Premio gal Môt\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Complaire à l'enfant du ténébreux\\\"}\",\"{\\\"text\\\":\\\"§7et dans ses desseins, le suivre...\\\"}\",\"{\\\"text\\\":\\\"§7Pleasing the child of darkness\\\"}\",\"{\\\"text\\\":\\\"§7and in his intentions, following him ...\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7抗§a1 §7運§a1\\\"}\"]}}"
                     }
                 ]
             }

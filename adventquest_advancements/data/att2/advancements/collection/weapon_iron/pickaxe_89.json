@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_pickaxe"],
-                    "nbt": "{display:{Name:\"\\\"§5Suprême Guédéron\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ta force légendaire ne saurait être \\\"}\",\"{\\\"text\\\":\\\"§7brisée par aucun d'entre nous.\\\"}\",\"{\\\"text\\\":\\\"§7Your legendary strength cannot\\\"}\",\"{\\\"text\\\":\\\"§7be broken by any of us.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7HUN§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§5Suprême Guédéron\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ta force légendaire ne saurait être \\\"}\",\"{\\\"text\\\":\\\"§7brisée par aucun d'entre nous.\\\"}\",\"{\\\"text\\\":\\\"§7Your legendary strength cannot\\\"}\",\"{\\\"text\\\":\\\"§7be broken by any of us.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7飽食§c-1\\\"}\"]}}"
                     }
                 ]
             }

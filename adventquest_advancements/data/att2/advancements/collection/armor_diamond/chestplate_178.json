@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§2Faquin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un joli uniforme qui ne prouve rien.\\\"}\",\"{\\\"text\\\":\\\"§7A nice uniform that does not prove anything.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7HAS§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Faquin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Un joli uniforme qui ne prouve rien.\\\"}\",\"{\\\"text\\\":\\\"§7A nice uniform that does not prove anything.\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7攻速§c-1\\\"}\"]}}"
                     }
                 ]
             }

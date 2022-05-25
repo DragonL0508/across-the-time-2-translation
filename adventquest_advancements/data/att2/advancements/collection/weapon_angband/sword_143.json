@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_sword"],
-                    "nbt": "{display:{Name:\"\\\"§2Trop longue lame\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Dans quelle fiction crois-tu être ?\\\"}\",\"{\\\"text\\\":\\\"§7What fiction do you think you're in?\\\"}\",\"{\\\"text\\\":\\\"§7HUN§a1 §7DAR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Trop longue lame\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Dans quelle fiction crois-tu être ?\\\"}\",\"{\\\"text\\\":\\\"§7What fiction do you think you're in?\\\"}\",\"{\\\"text\\\":\\\"§7飽食§a1 §7恢魔§c-2\\\"}\"]}}"
                     }
                 ]
             }

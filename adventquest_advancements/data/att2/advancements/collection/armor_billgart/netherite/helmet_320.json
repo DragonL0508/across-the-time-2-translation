@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:netherite_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§9Masqu'roc\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ces golems n'y verront que du feu.\\\"}\",\"{\\\"text\\\":\\\"§7Those golems will see nothing.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Masqu'roc\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Ces golems n'y verront que du feu.\\\"}\",\"{\\\"text\\\":\\\"§7Those golems will see nothing.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§9Buste superbe\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Tu le porteras avec fierté !\\\"}\",\"{\\\"text\\\":\\\"§7You'll wear it with pride!\\\"}\",\"{\\\"text\\\":\\\"§7STR§a1 §7LUC§a1 §7SPD§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Buste superbe\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Tu le porteras avec fierté !\\\"}\",\"{\\\"text\\\":\\\"§7You'll wear it with pride!\\\"}\",\"{\\\"text\\\":\\\"§7力§a1 §7運§a1 §7速度§c-2\\\"}\"]}}"
                     }
                 ]
             }

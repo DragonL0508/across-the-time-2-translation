@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§9Souffle roche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A l'impact de ta table.\\\"}\",\"{\\\"text\\\":\\\"§7At the impact of your face.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a2 §7DAR§a1 §7HER§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Souffle roche\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7A l'impact de ta table.\\\"}\",\"{\\\"text\\\":\\\"§7At the impact of your face.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a2 §7恢魔§a1 §7恢復§c-1\\\"}\"]}}"
                     }
                 ]
             }

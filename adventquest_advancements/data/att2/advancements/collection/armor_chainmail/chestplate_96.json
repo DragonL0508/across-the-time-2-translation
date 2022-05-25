@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_chestplate"],
-                    "nbt": "{display:{Name:\"\\\"§6Alsham\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Suis le jour, suis les rêves passés,\\\"}\",\"{\\\"text\\\":\\\"§7car rien n'est impossible pour toi.\\\"}\",\"{\\\"text\\\":\\\"§7Follow the day, follow past dreams,\\\"}\",\"{\\\"text\\\":\\\"§7because nothing is impossible for you.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§a5 §7SPD§a3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Alsham\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Suis le jour, suis les rêves passés,\\\"}\",\"{\\\"text\\\":\\\"§7car rien n'est impossible pour toi.\\\"}\",\"{\\\"text\\\":\\\"§7Follow the day, follow past dreams,\\\"}\",\"{\\\"text\\\":\\\"§7because nothing is impossible for you.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§a5 §7速度§a3\\\"}\"]}}"
                     }
                 ]
             }

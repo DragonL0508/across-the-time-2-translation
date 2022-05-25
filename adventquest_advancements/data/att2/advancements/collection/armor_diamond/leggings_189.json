@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§9Aïeul du ciel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Personne ne sut jamais d'où il vint\\\"}\",\"{\\\"text\\\":\\\"§7ni où il alla, mais personne ne l'oublia.\\\"}\",\"{\\\"text\\\":\\\"§7No one ever knew where he came from or\\\"}\",\"{\\\"text\\\":\\\"§7where he went, but no one ever forgot him.\\\"}\",\"{\\\"text\\\":\\\"§7RES§a1 §7HAS§c-1 §7DAR§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Aïeul du ciel\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Personne ne sut jamais d'où il vint\\\"}\",\"{\\\"text\\\":\\\"§7ni où il alla, mais personne ne l'oublia.\\\"}\",\"{\\\"text\\\":\\\"§7No one ever knew where he came from or\\\"}\",\"{\\\"text\\\":\\\"§7where he went, but no one ever forgot him.\\\"}\",\"{\\\"text\\\":\\\"§7抗§a1 §7攻速§c-1 §7恢魔§c-1\\\"}\"]}}"
                     }
                 ]
             }

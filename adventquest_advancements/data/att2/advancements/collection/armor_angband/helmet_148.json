@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:golden_helmet"],
-                    "nbt": "{display:{Name:\"\\\"§9Tête platinée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Protège avec longévité le plus\\\"}\",\"{\\\"text\\\":\\\"§7important de vos atouts.\\\"}\",\"{\\\"text\\\":\\\"§7Protects with longevity the most\\\"}\",\"{\\\"text\\\":\\\"§7important of your assets.\\\"}\",\"{\\\"text\\\":\\\"§7SPD§a2 §7LUC§a1 §7STR§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Tête platinée\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Protège avec longévité le plus\\\"}\",\"{\\\"text\\\":\\\"§7important de vos atouts.\\\"}\",\"{\\\"text\\\":\\\"§7Protects with longevity the most\\\"}\",\"{\\\"text\\\":\\\"§7important of your assets.\\\"}\",\"{\\\"text\\\":\\\"§7速度§a2 §7運§a1 §7力量§c-2\\\"}\"]}}"
                     }
                 ]
             }

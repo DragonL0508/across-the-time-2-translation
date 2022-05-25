@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:diamond_sword"],
-                    "nbt": "{display:{Name:\"\\\"§6Gurthang\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Je boirai ton sang avec joie,\\\"}\",\"{\\\"text\\\":\\\"§7pour oublier le sang de Beleg.\\\"}\",\"{\\\"text\\\":\\\"§7I will drink thy blood gladly, that so\\\"}\",\"{\\\"text\\\":\\\"§7I may forget the blood of Beleg my master.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a4 §7HAS§a3 §7HER§a2 §7DAR§a1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Gurthang\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Je boirai ton sang avec joie,\\\"}\",\"{\\\"text\\\":\\\"§7pour oublier le sang de Beleg.\\\"}\",\"{\\\"text\\\":\\\"§7I will drink thy blood gladly, that so\\\"}\",\"{\\\"text\\\":\\\"§7I may forget the blood of Beleg my master.\\\"}\",\"{\\\"text\\\":\\\"§7力§a4 §7攻速§a3 §7恢復§a2 §7恢魔§a1\\\"}\"]}}"
                     }
                 ]
             }

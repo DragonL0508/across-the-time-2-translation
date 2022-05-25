@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:iron_shovel"],
-                    "nbt": "{display:{Name:\"\\\"§2Argenterie\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Élégant mais certes faible.\\\"}\",\"{\\\"text\\\":\\\"§7Elegant but certainly weak.\\\"}\",\"{\\\"text\\\":\\\"§7RES§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§2Argenterie\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Élégant mais certes faible.\\\"}\",\"{\\\"text\\\":\\\"§7Elegant but certainly weak.\\\"}\",\"{\\\"text\\\":\\\"§7抗性§c-1\\\"}\"]}}"
                     }
                 ]
             }

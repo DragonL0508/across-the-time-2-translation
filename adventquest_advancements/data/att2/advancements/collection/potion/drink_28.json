@@ -21,7 +21,7 @@
                 "items": [
                     {
                     "items": ["minecraft:potion"],
-                    "nbt": "{display:{Name:\"\\\"§6Ration de Survie\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7L'existence même en dépend.\\\"}\",\"{\\\"text\\\":\\\"§7The very existence depends on it.\\\"}\",\"{\\\"text\\\":\\\"§7HER§a3 §7HUN§a3\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§6Ration de Survie\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7L'existence même en dépend.\\\"}\",\"{\\\"text\\\":\\\"§7The very existence depends on it.\\\"}\",\"{\\\"text\\\":\\\"§7恢復§a3 §7飽食§a3\\\"}\"]}}"
                     }
                 ]
             }

@@ -20,7 +20,7 @@
                 "items": [
                     {
                     "items": ["minecraft:wooden_axe"],
-                    "nbt": "{display:{Name:\"\\\"§9Fléau du bois\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Au meilleur des bûcherons.\\\"}\",\"{\\\"text\\\":\\\"§7To the best of loggers.\\\"}\",\"{\\\"text\\\":\\\"§7STR§a2 §7RES§c-1 §7SPD§c-1\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§9Fléau du bois\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Au meilleur des bûcherons.\\\"}\",\"{\\\"text\\\":\\\"§7To the best of loggers.\\\"}\",\"{\\\"text\\\":\\\"§7力§a2 §7抗性§c-1 §7速度§c-1\\\"}\"]}}"
                     }
                 ]
             }

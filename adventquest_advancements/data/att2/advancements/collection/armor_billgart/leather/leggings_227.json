@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:leather_leggings"],
-                    "nbt": "{display:{Name:\"\\\"§2Pantalon figé\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sans fin, il frappe, lancinant...\\\"}\",\"{\\\"text\\\":\\\"§7Endlessly, he strikes, throbbing...\\\"}\",\"{\\\"text\\\":\\\"§7DAR§a2 §7STR§c-1\\\"}\"],color:4218913}}"
+                    "nbt": "{display:{Name:\"\\\"§2Pantalon figé\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Sans fin, il frappe, lancinant...\\\"}\",\"{\\\"text\\\":\\\"§7Endlessly, he strikes, throbbing...\\\"}\",\"{\\\"text\\\":\\\"§7恢魔§a2 §7力量§c-1\\\"}\"],color:4218913}}"
                     }
                 ]
             }

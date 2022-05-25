@@ -16,7 +16,7 @@
                 "items": [
                     {
                     "items": ["minecraft:chainmail_boots"],
-                    "nbt": "{display:{Name:\"\\\"§7Bottes de Cédrin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Inconfortables et inutiles.\\\"}\",\"{\\\"text\\\":\\\"§7Uncomfortable and useless.\\\"}\",\"{\\\"text\\\":\\\"§7HAS§c-2\\\"}\"]}}"
+                    "nbt": "{display:{Name:\"\\\"§7Bottes de Cédrin\\\"\",\"Lore\":[\"{\\\"text\\\":\\\"§7Inconfortables et inutiles.\\\"}\",\"{\\\"text\\\":\\\"§7Uncomfortable and useless.\\\"}\",\"{\\\"text\\\":\\\"§7攻速§c-2\\\"}\"]}}"
                     }
                 ]
             }
