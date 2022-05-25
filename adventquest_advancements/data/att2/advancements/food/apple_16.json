@@ -4,7 +4,7 @@
             "item": "minecraft:apple"
         },
         "title": {"translate":"Apple desire"},
-        "description": {"translate":"Eat 16 apples"},
+        "description": {"translate":"吃下 16 顆蘋果"},
         "frame": "goal"
     },
     "parent": "att2:food/apple_1",
