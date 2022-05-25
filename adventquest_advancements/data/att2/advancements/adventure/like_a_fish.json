@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:water_bucket"
         },
-        "title": {"translate":"Like A Fish In Water"},
-        "description": {"translate":"Go for a swim"}
+        "title": {"translate":"就像魚一樣"},
+        "description": {"translate":"嘗試游泳"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

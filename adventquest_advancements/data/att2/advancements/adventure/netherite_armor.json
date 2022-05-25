@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:netherite_chestplate"
         },
-        "title": {"translate":"Obsidian robustness!"},
-        "description": {"translate":"Find a piece of netherite armor"}
+        "title": {"translate":"黑曜石的堅硬!"},
+        "description": {"translate":"找到一件獄髓裝備"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:spruce_planks"
         },
-        "title": {"translate":"Eolorion house"},
-        "description": {"translate":"Get the Eolorion house"},
+        "title": {"translate":"埃洛里翁的房屋"},
+        "description": {"translate":"獲得埃洛里翁的房屋"},
         "frame": "goal"
     },
     "parent": "att2:adventure/root",

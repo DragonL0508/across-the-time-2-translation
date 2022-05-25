@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_sword"
         },
-        "title": {"translate":"Sovereign"},
-        "description": {"translate":"Find a sovereign item"},
+        "title": {"translate":"主權"},
+        "description": {"translate":"找到一個主權物品"},
         "frame": "goal"
     },
     "parent": "att2:adventure/epi",

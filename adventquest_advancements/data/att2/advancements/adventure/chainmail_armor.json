@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chainmail_chestplate"
         },
-        "title": {"translate":"Another link in the chain!"},
-        "description": {"translate":"Find a piece of chainmail armor"}
+        "title": {"translate":"環環相扣!"},
+        "description": {"translate":"找到一件鎖鏈裝甲"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

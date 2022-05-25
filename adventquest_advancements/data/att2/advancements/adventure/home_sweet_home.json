@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:birch_planks"
         },
-        "title": {"translate":"Home sweet home"},
-        "description": {"translate":"Recover your former home"},
+        "title": {"translate":"溫暖的家"},
+        "description": {"translate":"重建你以前的家"},
         "frame": "goal"
     },
     "parent": "att2:adventure/root",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_chestplate"
         },
-        "title": {"translate":"Full gold!"},
-        "description": {"translate":"Protect yourself with a full set of golden armor"}
+        "title": {"translate":"黃金全套!"},
+        "description": {"translate":"用全套的黃金裝來保護自己"}
     },
     "parent": "att2:adventure/golden_armor",
     "rewards": {

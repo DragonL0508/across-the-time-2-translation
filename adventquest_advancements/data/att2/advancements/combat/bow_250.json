@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bow"
         },
-        "title": {"translate":"Ballistics fanatic"},
-        "description": {"translate":"Shoot 250 arrows with your bow"},
+        "title": {"translate":"彈道學狂熱者"},
+        "description": {"translate":"用你的弓射出250發箭矢"},
         "frame": "goal"
     },
     "parent": "att2:combat/bow_50",

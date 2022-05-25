@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_chestplate"
         },
-        "title": {"translate":"Cover Me With Diamonds!"},
-        "description": {"translate":"Find a piece of diamond armor"}
+        "title": {"translate":"哇，是鑽石裝!"},
+        "description": {"translate":"找到一件鑽石裝"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

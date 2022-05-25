@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_helmet"
         },
-        "title": {"translate":"Dinjirienne full set"},
-        "description": {"translate":"Complete the Dinjirienne epic set"},
+        "title": {"translate":"丁吉里安套裝!"},
+        "description": {"translate":"蒐集全套'史詩'丁吉里安套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/epi",

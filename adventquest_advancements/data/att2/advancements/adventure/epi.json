@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_shovel"
         },
-        "title": {"translate":"Epic"},
-        "description": {"translate":"Find an epic item"},
+        "title": {"translate":"史詩"},
+        "description": {"translate":"找到一個史詩物品"},
         "frame": "goal"
     },
     "parent": "att2:adventure/rar",

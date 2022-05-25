@@ -4,7 +4,7 @@
             "item": "minecraft:golden_chestplate"
         },
         "title": {"translate":"S"},
-        "description": {"translate":"Complete the legendary set of the S"},
+        "description": {"translate":"蒐集'傳奇'S套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/leg",

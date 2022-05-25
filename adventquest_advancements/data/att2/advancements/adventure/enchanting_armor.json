@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:enchanting_table"
         },
-        "title": {"translate":"Armor for the masses"},
-        "description": {"translate":"Obtain armor with an enchantment"}
+        "title": {"translate":"附魔的盔甲"},
+        "description": {"translate":"獲得附魔的盔甲"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

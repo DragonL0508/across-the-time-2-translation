@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fire_charge"
         },
-        "title": {"translate":"Dahäl Master"},
-        "description": {"translate":"Complete the legendary set of Dahäl"},
+        "title": {"translate":"Dahäl 大師"},
+        "description": {"translate":"完成傳奇的 Dahäl 套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/dahal_apprentice",

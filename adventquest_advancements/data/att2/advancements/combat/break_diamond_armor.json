@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_chestplate"
         },
-        "title": {"translate":"Diamond armor break"},
-        "description": {"translate":"Destroy any diamond armor in battle"}
+        "title": {"translate":"鑽石裝的破壞"},
+        "description": {"translate":"在戰鬥中損壞鑽石裝甲"}
     },
     "parent": "att2:combat/break_armor",
     "rewards": {

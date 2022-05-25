@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:purple_carpet"
         },
-        "title": {"translate":"Sharp Attack"},
-        "description": {"translate":"Hurt by spikes trap"}
+        "title": {"translate":"尖刺攻擊"},
+        "description": {"translate":"受到尖刺陷阱的傷害"}
     },
     "parent": "att2:adventure/spider_man",
     "rewards": {

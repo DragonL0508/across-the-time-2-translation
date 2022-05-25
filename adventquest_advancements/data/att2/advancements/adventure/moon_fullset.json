@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_chestplate"
         },
-        "title": {"translate":"The moon full set"},
-        "description": {"translate":"Complete the moon legendary set"},
+        "title": {"translate":"月光"},
+        "description": {"translate":"蒐集'傳奇'月亮套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/leg",

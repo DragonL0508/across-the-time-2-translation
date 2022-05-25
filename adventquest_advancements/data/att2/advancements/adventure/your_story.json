@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:written_book"
         },
-        "title": {"translate":"Your Story!"},
-        "description": {"translate":"Write note and make a book."}
+        "title": {"translate":"屬於你的故事!"},
+        "description": {"translate":"製作一本書"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

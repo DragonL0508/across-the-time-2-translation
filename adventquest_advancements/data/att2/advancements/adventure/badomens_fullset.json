@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:leather_chestplate"
         },
-        "title": {"translate":"Bad omens full set"},
-        "description": {"translate":"Complete the bad omens epic set"},
+        "title": {"translate":"不祥之兆套裝!"},
+        "description": {"translate":"蒐集全套'史詩'不祥之兆"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/epi",

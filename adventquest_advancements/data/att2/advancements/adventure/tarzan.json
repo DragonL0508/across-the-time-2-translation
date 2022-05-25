@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:vine"
         },
-        "title": {"translate":"Tarzan"},
-        "description": {"translate":"Climb on some vines"}
+        "title": {"translate":"泰山"},
+        "description": {"translate":"攀爬藤蔓"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

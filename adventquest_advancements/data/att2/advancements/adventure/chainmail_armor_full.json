@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chainmail_chestplate"
         },
-        "title": {"translate":"Full chainmail!"},
-        "description": {"translate":"Protect yourself with a full set of chainmail armor"}
+        "title": {"translate":"全套鎖鏈!"},
+        "description": {"translate":"用全身的鎖鏈裝來保護自己"}
     },
     "parent": "att2:adventure/chainmail_armor",
     "rewards": {

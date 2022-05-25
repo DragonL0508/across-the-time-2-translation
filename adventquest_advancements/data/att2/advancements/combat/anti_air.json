@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bow"
         },
-        "title": {"translate":"Anti-Air"},
-        "description": {"translate":"Shoot down a phantom with a bow or crossbow"},
+        "title": {"translate":"防空"},
+        "description": {"translate":"使用弓箭或駑擊殺一隻夜魅"},
         "frame": "challenge"
     },
     "parent": "att2:combat/shoot_arrow",

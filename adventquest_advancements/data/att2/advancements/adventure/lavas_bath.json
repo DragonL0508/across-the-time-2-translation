@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:lava_bucket"
         },
-        "title": {"translate":"It's Hot"},
-        "description": {"translate":"Swim in the lava"},
+        "title": {"translate":"熱死人"},
+        "description": {"translate":"在熔岩裡游泳"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/like_a_fish",

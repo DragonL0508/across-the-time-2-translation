@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_bricks"
         },
-        "title": {"translate":"Homeowner"},
-        "description": {"translate":"Own a home in every town in Sylberländ"},
+        "title": {"translate":"地產大亨"},
+        "description": {"translate":"在西爾伯的每一個城鎮都擁有一間房屋"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/root",

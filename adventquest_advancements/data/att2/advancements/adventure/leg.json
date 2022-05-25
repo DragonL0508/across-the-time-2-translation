@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_shovel"
         },
-        "title": {"translate":"Legendary"},
-        "description": {"translate":"Find a legendary item"},
+        "title": {"translate":"傳奇"},
+        "description": {"translate":"找到一件傳奇物品"},
         "frame": "goal"
     },
     "parent": "att2:adventure/epi",

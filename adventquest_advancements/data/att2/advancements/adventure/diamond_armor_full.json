@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_chestplate"
         },
-        "title": {"translate":"Full diamond!"},
-        "description": {"translate":"Protect yourself with a full set of diamond armor"}
+        "title": {"translate":"鑽石全套!"},
+        "description": {"translate":"用全身的鑽石裝來保護自己"}
     },
     "parent": "att2:adventure/diamond_armor",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_axe"
         },
-        "title": {"translate":"Full legendary set"},
-        "description": {"translate":"Get yourself equipped a full legendary armor and weapon set"},
+        "title": {"translate":"傳奇套裝!"},
+        "description": {"translate":"裝備全套'傳奇'的裝備與武器"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/leg",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_chestplate"
         },
-        "title": {"translate":"Full iron!"},
-        "description": {"translate":"Protect yourself with a full set of iron armor"}
+        "title": {"translate":"全套鐵裝!"},
+        "description": {"translate":"用全套的鐵裝來保護自己"}
     },
     "parent": "att2:adventure/iron_armor",
     "rewards": {

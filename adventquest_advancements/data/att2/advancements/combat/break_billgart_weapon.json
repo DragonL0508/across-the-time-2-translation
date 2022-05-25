@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_sword"
         },
-        "title": {"translate":"Billgart weapon break"},
-        "description": {"translate":"Destroy a Billgart weapon in battle"},
+        "title": {"translate":"比爾加特武器破壞"},
+        "description": {"translate":"在戰鬥中損壞比爾加特武器"},
         "frame": "goal",
         "hidden":true
     },

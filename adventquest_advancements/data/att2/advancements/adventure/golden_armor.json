@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_chestplate"
         },
-        "title": {"translate":"Eternän!"},
-        "description": {"translate":"Find a piece of golden armor"}
+        "title": {"translate":"永恆!"},
+        "description": {"translate":"找到一件黃金裝甲"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

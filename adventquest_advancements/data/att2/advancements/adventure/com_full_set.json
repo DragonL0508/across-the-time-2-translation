@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wooden_axe"
         },
-        "title": {"translate":"Full common set"},
-        "description": {"translate":"Get yourself equipped a full common armor and weapon set"},
+        "title": {"translate":"普通套裝!"},
+        "description": {"translate":"裝備全套'普通'的裝備與武器"},
         "frame": "goal"
     },
     "parent": "att2:adventure/com",

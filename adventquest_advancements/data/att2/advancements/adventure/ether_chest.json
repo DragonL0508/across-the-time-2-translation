@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:ender_chest"
         },
-        "title": {"translate":"Ether Chest"},
-        "description": {"translate":"Interact with an enderchest for the first time"}
+        "title": {"translate":"以太寶箱"},
+        "description": {"translate":"第一次與終界箱互動"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:shield"
         },
-        "title": {"translate":"Blast Shield"},
-        "description": {"translate":"Survive a creeper's blast with your shield"}
+        "title": {"translate":"防爆盾"},
+        "description": {"translate":"用你的盾牌抵擋苦力怕的爆炸攻擊"}
     },
     "parent": "att2:combat/get_away",
     "rewards": {

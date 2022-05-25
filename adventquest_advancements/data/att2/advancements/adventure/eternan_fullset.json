@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_hoe"
         },
-        "title": {"translate":"The soldat Eternän full set"},
-        "description": {"translate":"Complete the epic set of the soldat Eternän"},
+        "title": {"translate":"永恆的戰士"},
+        "description": {"translate":"蒐集全套'史詩'永恆戰士套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/epi",

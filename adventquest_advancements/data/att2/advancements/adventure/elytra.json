@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:elytra"
         },
-        "title": {"translate":"I Believe I Can Fly"},
-        "description": {"translate":"Find the Elytra"},
+        "title": {"translate":"我一直都相信我能飛!"},
+        "description": {"translate":"找到鞘翅"},
         "frame": "goal"
     },
     "parent": "att2:adventure/root",

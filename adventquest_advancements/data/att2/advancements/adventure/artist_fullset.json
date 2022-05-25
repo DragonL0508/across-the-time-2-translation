@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_chestplate"
         },
-        "title": {"translate":"The artist of Ouranos full set"},
-        "description": {"translate":"Complete the artist of Ouranos legendary set"},
+        "title": {"translate":"烏拉諾斯的藝術家套裝!"},
+        "description": {"translate":"蒐集全套'傳奇'烏拉諾斯的藝術家"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/leg",

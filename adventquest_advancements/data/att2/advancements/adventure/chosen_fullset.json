@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_pickaxe"
         },
-        "title": {"translate":"The chosen one full set"},
-        "description": {"translate":"Complete the epic set of the chosen one"},
+        "title": {"translate":"擇一套裝!"},
+        "description": {"translate":"蒐集全套'史詩'擇一套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/epi",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:leather_chestplate"
         },
-        "title": {"translate":"Suit Up!"},
-        "description": {"translate":"Find a piece of leather armor"}
+        "title": {"translate":"整裝待發!"},
+        "description": {"translate":"找到一件皮革裝備"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

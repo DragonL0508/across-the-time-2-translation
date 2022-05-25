@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:chainmail_chestplate"
         },
-        "title": {"translate":"The nobility full set"},
-        "description": {"translate":"Complete the nobility legendary set"},
+        "title": {"translate":"貴族套裝!"},
+        "description": {"translate":"蒐集'傳奇'貴族套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/leg",

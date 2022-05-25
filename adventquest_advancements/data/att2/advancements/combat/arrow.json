@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:arrow"
         },
-        "title": {"translate":"Provident"},
-        "description": {"translate":"Stack 64 arrows"}
+        "title": {"translate":"公積金"},
+        "description": {"translate":"存放一組箭矢"}
     },
     "parent": "att2:combat/root",
     "rewards": {

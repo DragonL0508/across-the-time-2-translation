@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_sword"
         },
-        "title": {"translate":"Mythical"},
-        "description": {"translate":"Find a mythical item"},
+        "title": {"translate":"神話"},
+        "description": {"translate":"找到一件神話物品"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/leg",

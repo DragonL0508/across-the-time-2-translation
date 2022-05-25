@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_axe"
         },
-        "title": {"translate":"Full uncommon set"},
-        "description": {"translate":"Get yourself equipped a full uncommon armor and weapon set"},
+        "title": {"translate":"罕見套裝!"},
+        "description": {"translate":"裝備全套'罕見'的裝備與武器"},
         "frame": "goal"
     },
     "parent": "att2:adventure/unc",

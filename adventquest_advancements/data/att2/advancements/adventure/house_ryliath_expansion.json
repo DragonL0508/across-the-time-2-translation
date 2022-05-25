@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:polished_andesite"
         },
-        "title": {"translate":"Ryliath house expansion"},
-        "description": {"translate":"Buy the Ryliath house expansion"},
+        "title": {"translate":"莉莉絲的房屋擴建"},
+        "description": {"translate":"購買莉莉絲的房屋擴建"},
         "frame": "goal"
     },
     "parent": "att2:adventure/house_ryliath",

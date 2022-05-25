@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bow"
         },
-        "title": {"translate":"And you have my bow"},
-        "description": {"translate":"Shoot 2500 arrows with your bow"},
+        "title": {"translate":"手快廢了吧"},
+        "description": {"translate":"用你的弓射出2500發箭矢"},
         "frame": "goal"
     },
     "parent": "att2:combat/bow_1000",

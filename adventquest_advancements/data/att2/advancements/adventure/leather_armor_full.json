@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:leather_chestplate"
         },
-        "title": {"translate":"Full leather!"},
-        "description": {"translate":"Protect yourself with a full set of leather armor"}
+        "title": {"translate":"全套皮革!"},
+        "description": {"translate":"用全套的皮革裝備來保護自己"}
     },
     "parent": "att2:adventure/leather_armor",
     "rewards": {

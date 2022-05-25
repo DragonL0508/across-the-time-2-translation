@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bow"
         },
-        "title": {"translate":"Bow break"},
-        "description": {"translate":"Destroy a bow in battle"}
+        "title": {"translate":"弓箭破壞者"},
+        "description": {"translate":"在戰鬥中損壞弓箭"}
     },
     "parent": "att2:combat/shoot_arrow",
     "rewards": {

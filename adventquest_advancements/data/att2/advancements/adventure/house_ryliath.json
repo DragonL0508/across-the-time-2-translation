@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:andesite"
         },
-        "title": {"translate":"Ryliath house"},
-        "description": {"translate":"Get the Ryliath house"},
+        "title": {"translate":"莉莉絲的房屋"},
+        "description": {"translate":"獲得莉莉絲的房屋"},
         "frame": "goal"
     },
     "parent": "att2:adventure/root",

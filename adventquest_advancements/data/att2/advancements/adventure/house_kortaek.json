@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:jungle_planks"
         },
-        "title": {"translate":"Kortaek house"},
-        "description": {"translate":"Get the Kortaek house"},
+        "title": {"translate":"科泰克的房屋"},
+        "description": {"translate":"獲得科泰克的房屋"},
         "frame": "goal"
     },
     "parent": "att2:adventure/root",

@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:golden_carrot"
         },
-        "title": {"translate":"Nocturnal"},
-        "description": {"translate":"Use night vision magic"}
+        "title": {"translate":"暗夜"},
+        "description": {"translate":"使用夜視魔法"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

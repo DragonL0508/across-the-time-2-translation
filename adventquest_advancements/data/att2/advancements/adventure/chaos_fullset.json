@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_chestplate"
         },
-        "title": {"translate":"The chaos full set"},
-        "description": {"translate":"Complete the chaos legendary set"},
+        "title": {"translate":"混沌套裝!"},
+        "description": {"translate":"蒐集全套'傳奇'混沌套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/leg",

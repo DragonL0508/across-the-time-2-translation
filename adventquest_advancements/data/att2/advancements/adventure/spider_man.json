@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:cobweb"
         },
-        "title": {"translate":"You Are Not Spider Man!"},
-        "description": {"translate":"Get stuck in a cobweb"}
+        "title": {"translate":"哈哈，你不是蜘蛛人!"},
+        "description": {"translate":"被蜘蛛網黏住"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

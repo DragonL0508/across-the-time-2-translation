@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:elytra"
         },
-        "title": {"translate":"Pelzion full set"},
-        "description": {"translate":"Complete the epic set of pelzion"},
+        "title": {"translate":"佩爾齊翁套裝!"},
+        "description": {"translate":"蒐集'史詩'佩爾齊翁套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/epi",

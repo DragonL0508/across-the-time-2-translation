@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:honey_block"
         },
-        "title": {"translate":"Sticky Situation"},
-        "description": {"translate":"Jump into a Honey Block to break your fall"}
+        "title": {"translate":"現在黏黏的..."},
+        "description": {"translate":"跳到一個蜂蜜塊上"}
     },
     "parent": "att2:adventure/tarzan",
     "rewards": {

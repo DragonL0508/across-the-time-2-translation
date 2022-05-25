@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_chestplate"
         },
-        "title": {"translate":"METAL!"},
-        "description": {"translate":"Find a piece of iron armor"}
+        "title": {"translate":"金屬!"},
+        "description": {"translate":"找到一件鐵製裝備"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

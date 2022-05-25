@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_shovel"
         },
-        "title": {"translate":"Uncommon"},
-        "description": {"translate":"Find an uncommon item"}
+        "title": {"translate":"罕見"},
+        "description": {"translate":"找到一件罕見物品"}
     },
     "parent": "att2:adventure/com",
     "rewards": {

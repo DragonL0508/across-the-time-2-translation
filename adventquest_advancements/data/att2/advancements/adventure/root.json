@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:torch"
         },
-        "title": {"translate":"The Adventure Begin"},
-        "description": {"translate":"Home Is Behind, The World Ahead"},
+        "title": {"translate":"冒險的開始"},
+        "description": {"translate":"背對家鄉, 面對著世界"},
         "background": "minecraft:textures/block/custom/futuristic_slab.png",
         "show_toast": true,
         "announce_to_chat": true

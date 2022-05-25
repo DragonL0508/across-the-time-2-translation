@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:wooden_shovel"
         },
-        "title": {"translate":"Common"},
-        "description": {"translate":"Find a common item"}
+        "title": {"translate":"普通"},
+        "description": {"translate":"找到一個普通物品"}
     },
     "parent": "att2:adventure/root",
     "rewards": {

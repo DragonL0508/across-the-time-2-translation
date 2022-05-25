@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:netherite_chestplate"
         },
-        "title": {"translate":"The Ulli'Kummi full set"},
-        "description": {"translate":"Complete the legendary set of Ulli'Kummi"},
+        "title": {"translate":"烏利庫米套裝!"},
+        "description": {"translate":"蒐集'傳奇'烏利庫米套裝"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/leg",

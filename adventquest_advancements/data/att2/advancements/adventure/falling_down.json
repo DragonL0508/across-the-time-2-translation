@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:black_wool"
         },
-        "title": {"translate":"Falling Down"},
-        "description": {"translate":"Falling into the void"},
+        "title": {"translate":"掉下去了..."},
+        "description": {"translate":"掉到虛空"},
         "frame": "goal"
     },
     "parent": "att2:adventure/root",

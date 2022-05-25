@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:stone_shovel"
         },
-        "title": {"translate":"Rare"},
-        "description": {"translate":"Find a rare item"}
+        "title": {"translate":"稀有"},
+        "description": {"translate":"找到一件稀有物品"}
     },
     "parent": "att2:adventure/unc",
     "rewards": {

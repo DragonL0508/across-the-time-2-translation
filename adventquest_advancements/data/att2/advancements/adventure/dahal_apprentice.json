@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:fire_charge"
         },
-        "title": {"translate":"Sorcerer's apprentice"},
-        "description": {"translate":"Complete the epic set of Dahäl"},
+        "title": {"translate":"巫師的學徒"},
+        "description": {"translate":"完成史詩的 Dahäl 套裝"},
         "frame": "goal"
     },
     "parent": "att2:adventure/epi",

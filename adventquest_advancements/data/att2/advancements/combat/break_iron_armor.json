@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:iron_chestplate"
         },
-        "title": {"translate":"Iron armor break"},
-        "description": {"translate":"Destroy any iron armor in battle"}
+        "title": {"translate":"鐵製裝甲的破壞"},
+        "description": {"translate":"在戰鬥中損壞鐵製裝甲"}
     },
     "parent": "att2:combat/break_armor",
     "rewards": {

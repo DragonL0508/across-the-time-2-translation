@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:netherite_chestplate"
         },
-        "title": {"translate":"Full obsidian!"},
-        "description": {"translate":"Protect yourself with a full set of netherite armor"}
+        "title": {"translate":"跟黑曜石一樣!"},
+        "description": {"translate":"用全套獄髓裝保護自己"}
     },
     "parent": "att2:adventure/netherite_armor",
     "rewards": {

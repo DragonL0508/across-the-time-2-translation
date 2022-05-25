@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:bow"
         },
-        "title": {"translate":"Archery"},
-        "description": {"translate":"Shoot 10 arrows with your bow"},
+        "title": {"translate":"弓箭手"},
+        "description": {"translate":"用你的弓射出10發箭矢"},
         "frame": "goal"
     },
     "parent": "att2:combat/bow",

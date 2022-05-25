@@ -3,8 +3,8 @@
         "icon": {
             "item": "minecraft:diamond_pickaxe"
         },
-        "title": {"translate":"Full sovereign set"},
-        "description": {"translate":"Get yourself equipped a full sovereign armor and weapon set"},
+        "title": {"translate":"主權套裝!"},
+        "description": {"translate":"裝備全套'主權'的裝備與武器"},
         "frame": "challenge"
     },
     "parent": "att2:adventure/epi_esc",
