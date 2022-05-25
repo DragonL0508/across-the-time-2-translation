@@ -18,3 +18,4 @@ tellraw @a[scores={LANGUAGE=1}] {"selector":"@s","color":"dark_red","extra":[{"t
 #TRADITIONAL CHINESE
 
 tellraw @a[scores={LANGUAGE=2}] {"selector":"@s","color":"dark_red","extra":[{"text":" : "},{"text":"I need a ","color":"aqua","extra":[{"text":"<Emerald Key>","color":"gray","hoverEvent":{"action":"show_item","value":"{\"id\":\"minecraft:nether_brick\",\"Count\":1,\"tag\":{\"display\":{\"Name\":\"{\\\"text\\\":\\\"§2Clef d'Emeraude\\\"}\",\"Lore\":[\"{\\\"text\\\":\\\"§4Emerald Key\\\"}\"]}}}"},"extra":[{"text":" to open this door!","color":"aqua"}]}]}]}
+
